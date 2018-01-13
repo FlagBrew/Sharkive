@@ -1,0 +1,15 @@
+
+
+Infinite Health
+20A483A4 000000C8
+
+Infinite/Max Health
+10A483A4 00000190
+10A483A6 00000190
+
+Mk22 Infinite Ammo/No Reload
+2091C978 00000063
+2091C97C 00000008
+
+Infinite/Max Suppressor
+1091F2B8 00007500
