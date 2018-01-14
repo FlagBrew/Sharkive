@@ -11,7 +11,8 @@
 ### Fill this for problems with codes in the database
 
 * **Title ID**:
-* **Product code**: 
+* **Product code**:
+* **Game version**:
 
 ### Not working codes
 
