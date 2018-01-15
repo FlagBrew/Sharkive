@@ -1,24 +1,24 @@
 
 
-Infinite Health (1vs1)
+[Infinite Health (1vs1)]
 08A8F020 7FFFFFFF
 
-Infinite Health (2vs1)
+[Infinite Health (2vs1)]
 08A9F2A0 7FFFFFFF
 
-Infinite Health (2vs2)
+[Infinite Health (2vs2)]
 08A69920 7FFFFFFF
 
-Infinite Health (3vs3)
+[Infinite Health (3vs3)]
 08A89D20 7FFFFFFF
 
-Infinite Money
+[Infinite Money]
 088916F0 7FFFFFFF
 
-LBX Maintenance
+[LBX Maintenance]
 28892713 0000007F
 
-Tons of Weapons & Shields x10 (Start+Up)
+[Tons of Weapons & Shields x10 (Start+Up)]
 DD000000 00000048
 D3000000 00000000
 C0000000 0000037F
@@ -27,7 +27,7 @@ DC000000 00000006
 D1000000 00000000
 D0000000 00000000
 
-Have All LBX Cards x99 (Start+X)
+[Have All LBX Cards x99 (Start+X)]
 DD000000 00000408
 D3000000 00000000
 C0000000 000001A2
@@ -36,7 +36,7 @@ DC000000 00000006
 D1000000 00000000
 D0000000 00000000
 
-Have All Battle Cubes x1 (Start+Down)
+[Have All Battle Cubes x1 (Start+Down)]
 DD000000 00000088
 D3000000 00000000
 C0000000 00000014
@@ -45,7 +45,7 @@ DC000000 00000006
 D1000000 00000000
 D0000000 00000000
 
-Tons of Core Unit Parts x99 (Select+Up)
+[Tons of Core Unit Parts x99 (Select+Up)]
 DD000000 00000044
 D3000000 00000000
 C0000000 000000AD
@@ -54,14 +54,14 @@ DC000000 00000006
 D1000000 00000000
 D0000000 00000000
 
-Maintenance Gauge 200 (all party members)
+[Maintenance Gauge 200 (all party members)]
 D3000000 00000000
 C0000000 00000016
 28892713 000000C8
 DC000000 000002F0
 D1000000 00000000
 
-All Battle Items x99 (Select+Down)
+[All Battle Items x99 (Select+Down)]
 DD000000 00000084
 D3000000 00000000
 C0000000 00000039

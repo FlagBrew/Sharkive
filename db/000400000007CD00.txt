@@ -1,19 +1,19 @@
 
 
-Max Precision Points
+[Max Precision Points]
 2038FF30 00000063
 
-Infinite Whetstones
+[Infinite Whetstones]
 2890DF70 00000005
 
-Infinite Throwing Daggers
+[Infinite Throwing Daggers]
 2890DF30 0000000A
 
-Infinite Frogs
+[Infinite Frogs]
 2890DEF0 00000005
 
-Infinite Sakura Rice Cakes
+[Infinite Sakura Rice Cakes]
 2890DEB0 00000005
 
-Max Gold
+[Max Gold]
 08909EE8 000003E7

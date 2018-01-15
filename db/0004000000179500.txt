@@ -1,13 +1,13 @@
 
 
-(SELECT+Y)Max Money v1.0
+[(SELECT+Y)Max Money v1.0]
 DD000000 00000804
 D3000000 00000000
 B06DA3E0 00000000
 00000038 000F423F
 D0000000 00000000
 
-(SELECT+Y)Dragon Point99 v1.0
+[(SELECT+Y)Dragon Point99 v1.0]
 DD000000 00000804
 D3000000 00000000
 B06D1B30 00000000
@@ -16,7 +16,7 @@ B0000000 00000000
 100000D0 000026AC
 D0000000 00000000
 
-(SELECT+Y)Gems & Foodstuff x99 v1.0
+[(SELECT+Y)Gems & Foodstuff x99 v1.0]
 DD000000 00000804
 D3000000 00000000
 B06D1B30 00000000
@@ -32,7 +32,7 @@ B00000D4 00000000
 10000020 00006363
 D0000000 00000000
 
-(SELECT+Y)Enable All City Item v1.0
+[(SELECT+Y)Enable All City Item v1.0]
 DD000000 00000804
 D3000000 00000000
 B06D1B30 00000000
@@ -53,7 +53,7 @@ B0000000 00000000
 10000084 00007FE0
 D0000000 00000000
 
-(SELECT+Y)Mastering weapon v1.0
+[(SELECT+Y)Mastering weapon v1.0]
 DD000000 00000804
 D3000000 00000000
 B06DA0D8 00000000
@@ -66,7 +66,7 @@ D0000000 00000000
 D1000000 00000000
 D0000000 00000000
 
-(SELECT+Y)Member's skill flag v1.0
+[(SELECT+Y)Member's skill flag v1.0]
 DD000000 00000804
 D3000000 00000000
 B06DA0D8 00000000
@@ -84,7 +84,7 @@ D0000000 00000000
 D1000000 00000000
 D0000000 00000000
 
-(SELECT+Y)Move Add +100 v1.0
+[(SELECT+Y)Move Add +100 v1.0]
 DD000000 00000804
 D3000000 00000000
 B06DA0D8 00000000
@@ -96,7 +96,7 @@ D0000000 00000000
 D1000000 00000000
 D0000000 00000000
 
-(SELECT+Y)Convoy's item x99 v1.0
+[(SELECT+Y)Convoy's item x99 v1.0]
 DD000000 00000804
 D3000000 00000000
 B06D9780 00000000
@@ -108,7 +108,7 @@ DC000000 00000008
 D1000000 00000000
 D0000000 00000000
 
-(SELECT+Y)All items in convoy to x95 v1.0
+[(SELECT+Y)All items in convoy to x95 v1.0]
 D3000000 00000000
 E0610F80 00000050
 E5940000 E92D40FF
@@ -126,7 +126,7 @@ DD000000 00000804
 0010421C EB143357
 D0000000 00000000
 
-(SELECT+Y)Can receive all items in Path Bonus v1.0
+[(SELECT+Y)Can receive all items in Path Bonus v1.0]
 DD000000 00000804
 D3000000 00000000
 B06D1B30 00000000
@@ -152,7 +152,7 @@ D3000000 00000000
 0048DD80 E12FFF1E
 D0000000 00000000
 
-Get Exp 100(SELECT+X;ON, SELECT+B;OFF) v1.0
+[Get Exp 100(SELECT+X;ON, SELECT+B;OFF) v1.0]
 D3000000 00000000
 DD000000 00000404
 0052DDC0 E3A01064
@@ -161,33 +161,33 @@ DD000000 00000006
 0052DDC0 C3A01064
 D0000000 00000000
 
-Able to control enemy v1.0
+[Able to control enemy v1.0]
 D3000000 00000000
 0035205C E1500000
 
-Infinite Movement v1.0
+[Infinite Movement v1.0]
 D3000000 00000000
 0035206C EA00016C
 
-Able to item trade with the enemy v1.0
+[Able to item trade with the enemy v1.0]
 D3000000 00000000
 005287A0 E1500000
 
-Able to use convoy anyone v1.0
+[Able to use convoy anyone v1.0]
 D3000000 00000000
 0037A92C E1A00000
 
-Able to attack an ally v1.0
+[Able to attack an ally v1.0]
 D3000000 00000000
 0034BA68 E3A00000
 003A1944 E3A00000
 
-Can receive Path Bonus again and again v1.0
+[Can receive Path Bonus again and again v1.0]
 D3000000 00000000
 0048DD7C E3A00003
 0048DD80 E12FFF1E
 
-Stock in a store x99 v1.0
+[Stock in a store x99 v1.0]
 D3000000 00000000
 00610FE8 E92D0002
 00610FEC E3A01063
@@ -197,41 +197,41 @@ D3000000 00000000
 00610FFC E12FFF1E
 00528EE0 1A03A040
 
-Next lottery no waiting v1.0
+[Next lottery no waiting v1.0]
 D3000000 00000000
 003C75B0 E3A04001
 003C75B4 E5C04034
 003C75B8 E3A00001
 003C75BC E1A00000
 
-Lilith can eat again not waiting v1.0
+[Lilith can eat again not waiting v1.0]
 D3000000 00000000
 0021C58C E3A00000
 
-When you defeat an enemy, Drop all items of the enemy v1.0
+[When you defeat an enemy, Drop all items of the enemy v1.0]
 D3000000 00000000
 0035C984 E1D220B0
 0035C988 E1A00000
 0035C98C E3520000
 
-Can battle again not waiting in Arena v1.0
+[Can battle again not waiting in Arena v1.0]
 D3000000 00000000
 003BA728 E3A01001
 
-Free change difficult v1.0
+[Free change difficult v1.0]
 D3000000 00000000
 00460908 E3840000
 004609FC E3840000
 00460A00 EA000000
 
-Anywhere starting position in preparations (including enemy) v1.0
+[Anywhere starting position in preparations (including enemy) v1.0]
 D3000000 00000000
 003520F4 E1A00000
 00352108 E3A00001
 0035EC18 E3100B02
 0035EC88 E3100B02
 
-All class selectable in Heart Seal (or Dread Scroll) v1.0
+[All class selectable in Heart Seal (or Dread Scroll) v1.0]
 D3000000 00000000
 0021B41C EA000043
 0021B538 E1A00004
@@ -239,30 +239,30 @@ D3000000 00000000
 0021B5F0 EA000004
 0021B644 E1A00000
 
-Path Bonus item receive x99 in a mass v1.0
+[Path Bonus item receive x99 in a mass v1.0]
 D3000000 00000000
 0048DCBC E3A01063
 
-More than 1% of growth rates don't fail to stat increases v1.0
+[More than 1% of growth rates don't fail to stat increases v1.0]
 D3000000 00000000
 003D8760 E3A00000
 
-Supports fast v1.0
+[Supports fast v1.0]
 D3000000 00000000
 0052F6F4 E3A01063
 0052F5FC E3A01063
 0052F59C E3A01063
 
-Able to set all skills(Include Personal skills) v1.0
+[Able to set all skills(Include Personal skills) v1.0]
 D3000000 00000000
 004B9344 E1A00000
 006D3DF8 000000E5
 
-Able to sell all the items v1.0
+[Able to sell all the items v1.0]
 D3000000 00000000
 0053B9C0 13A00000
 
-Forge is possible from 0 to 63 v1.0
+[Forge is possible from 0 to 63 v1.0]
 D3000000 00000000
 00529230 EA000009
 00529298 E3A00063
@@ -272,18 +272,18 @@ D3000000 00000000
 003C186C E5841044
 003C3FE4 E1A00000
 
-Infinite Staves & Batons & Items v1.0
+[Infinite Staves & Batons & Items v1.0]
 D3000000 00000000
 0041A0E4 EA00000A
 
-All Weapon & Staves & Batons equipment possible v1.0
+[All Weapon & Staves & Batons equipment possible v1.0]
 D3000000 00000000
 0052D864 E3A020FF
 005303B8 E3A020FF
 005250E0 E3A00001
 0052D950 EA0000F6
 
-Able to take the Rage & Breath from Convoy v1.0
+[Able to take the Rage & Breath from Convoy v1.0]
 D3000000 00000000
 004B6C78 E3C22C02
 004B6C7C E5842000
@@ -300,7 +300,7 @@ D3000000 00000000
 00610F6C E12FFF1E
 00530C40 EB0380C6
 
-Can invite ally without waiting v1.0
+[Can invite ally without waiting v1.0]
 D3000000 00000000
 00540D48 E3A00000
 00540D4C E5850128

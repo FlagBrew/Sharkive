@@ -1,10 +1,10 @@
 
 
-Unlimited Money
+[Unlimited Money]
 08759BE0 000F423F
 
-Infinite Stamina
+[Infinite Stamina]
 28001E4E 00000080
 
-Infinite Crank-A-Kai Spins
+[Infinite Crank-A-Kai Spins]
 0875DC04 00000003

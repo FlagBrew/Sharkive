@@ -1,19 +1,19 @@
 
 
-99 Coins
+[99 Coins]
 2892D2CB 00000063
 
-Refill Time push R
+[Refill Time push R]
 DD000000 00000100
 2892D256 00000002
 D2000000 00000000
 
-Invincible
+[Invincible]
 2892D2B4 00000001
 
-Always Fire Mario
+[Always Fire Mario]
 2892D29E 00000001
 2892D2A7 00000001
 
-Infinite Lives
+[Infinite Lives]
 2892D257 00000009

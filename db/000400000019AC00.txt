@@ -1,163 +1,163 @@
 
 
-Infinite Stamina
+[Infinite Stamina]
 28001E4E 00000080
 
-Holy Exporb x99
+[Holy Exporb x99]
 086F8928 00000063
 
-Soul Secrets x99
+[Soul Secrets x99]
 086F8C28 00000063
 
-Top Techniques x99
+[Top Techniques x99]
 058726AC 00000063
 086F8DE8 00000063
 
-Hidden Hits x99
+[Hidden Hits x99]
 086F8A48 00000063
 
-Chocobar x99
+[Chocobar x99]
 086F8818 00000063
 
-Infinite Crank-A-Kai Spins
+[Infinite Crank-A-Kai Spins]
 086FBC04 0000000A
 
-Mighty Medicine x99
+[Mighty Medicine x99]
 086F9008 00000063
 
-Platinum Doll x99
+[Platinum Doll x99]
 086F8FF8 00000063
 
-Amazing Milk
+[Amazing Milk]
 086F8758 00000063
 
-Xl Exporb
+[Xl Exporb]
 086F8CE8 00000063
 
-Fish Bait
+[Fish Bait]
 086F88A8 00000063
 
-Black Syrup
+[Black Syrup]
 086F8AF8 00000063
 
-Golden Doll
+[Golden Doll]
 086F88F8 00000063
 
-Reset Cash
+[Reset Cash]
 086F7BE0 00000000
 
-Infinite Cash x9999.99
+[Infinite Cash x9999.99]
 086F7BE0 000F423F
 
-Red Coin x99
+[Red Coin x99]
 086F8E48 00000063
 
-Yellow Coin x99
+[Yellow Coin x99]
 086F8C58 00000063
 
-Orange Coin x99
+[Orange Coin x99]
 086F8C38 00000063
 
-Pink Coin x99
+[Pink Coin x99]
 086F8DB8 00000063
 
-Green Coin x99
+[Green Coin x99]
 086F8C98 00000063
 
-Blue Coin x99
+[Blue Coin x99]
 086F8F88 00000063
 
-Light-Blue Coin x99
+[Light-Blue Coin x99]
 086F8898 00000063
 
-VoltXtreme x99
+[VoltXtreme x99]
 086F9018 00000063
 
-Fatty Tuna Sushi x99
+[Fatty Tuna Sushi x99]
 086F8F58 00000063
 
-Crab Omelet x99
+[Crab Omelet x99]
 086F8DA8 00000063
 
-Matsutake x99
+[Matsutake x99]
 086F8AA8 00000063
 
-Choice Tuna x99
+[Choice Tuna x99]
 086F8C68 00000063
 
-Veggie Curry x99
+[Veggie Curry x99]
 086F8F68 00000063
 
-Ourple Coin x99
+[Ourple Coin x99]
 086F8C48 00000063
 
-Five-Star Coin x99
+[Five-Star Coin x99]
 086F8948 00000063
 
-Special Coin x99
+[Special Coin x99]
 086F8958 00000063
 
-Yo Mystery Coin x99
+[Yo Mystery Coin x99]
 086F8968 00000063
 
-Kai Mystery Coin x99
+[Kai Mystery Coin x99]
 086F8978 00000063
 
-Sum Mystery Coin x99
+[Sum Mystery Coin x99]
 086F8988 00000063
 
-Mon Mystery Coin x99
+[Mon Mystery Coin x99]
 086F8998 00000063
 
-Flower Excitement Coin x99
+[Flower Excitement Coin x99]
 086F89A8 00000063
 
-Bird Excitement Coin x99
+[Bird Excitement Coin x99]
 086F89B8 00000063
 
-Wind Excitement Coin x99
+[Wind Excitement Coin x99]
 086F89C8 00000063
 
-Moon Excitement Coin x99
+[Moon Excitement Coin x99]
 086F89D8 00000063
 
-Glitzy Coin x99
+[Glitzy Coin x99]
 086F8DD8 00000063
 
-Traveler's Coin North x99
+[Traveler's Coin North x99]
 086F8A38 00000063
 
-Traveler's Coin Northeast x99
+[Traveler's Coin Northeast x99]
 086F8AB8 00000063
 
-Traveler's Coin East x99
+[Traveler's Coin East x99]
 086F8B38 00000063
 
-Traveler's Coin Central x99
+[Traveler's Coin Central x99]
 086F8E68 00000063
 
-Traveler's Coin West x99
+[Traveler's Coin West x99]
 086F8E78 00000063
 
-Traveler's Coin Mountain x99
+[Traveler's Coin Mountain x99]
 086F8E88 00000063
 
-Traveler's Coin South x99
+[Traveler's Coin South x99]
 086F8E58 00000063
 
-Traveler's Coin Midwest x99
+[Traveler's Coin Midwest x99]
 086F8E38 00000063
 
-Traveler's Coin Island x99
+[Traveler's Coin Island x99]
 086F8E08 00000063
 
-9999,99 Cash
+[9999,99 Cash]
 086F7BE0 000F423F
 
-999'999 JP
+[999'999 JP]
 086F7BE4 000F423F
 
-All Items x99 - See Notes!
+[All Items x99 - See Notes!]
 086F8658 00000063
 086F8668 00000063
 086F8678 00000063
@@ -678,35 +678,35 @@ All Items x99 - See Notes!
 086FA8A0 00000063
 086FA8B4 00000063
 
-Infinite Crank-a-Kai Spins
+[Infinite Crank-a-Kai Spins]
 086FBC04 00000003
 
-Always Befriend Yo-kai
+[Always Befriend Yo-kai]
 00624B30 E1A00000
 
-Always Befriend Yo-kai - Food
+[Always Befriend Yo-kai - Food]
 00624B10 E1A00000
 00624B20 E3A00000
 00624B24 E1A00000
 
-Get Thornyan AND Baddinyan
+[Get Thornyan AND Baddinyan]
 286FBC40 00000000
 
-Re-enable Infinite Tunnel
+[Re-enable Infinite Tunnel]
 286FBBF0 00000000
 
-Rematch SV Snaggerjag
+[Rematch SV Snaggerjag]
 286FBBF0 00000000
 286FBB4E 00000080
 
-Rematch Goldy Bones
+[Rematch Goldy Bones]
 286FBBEF 00000000
 
-Unlimited donations
+[Unlimited donations]
 286FBBEE 00000012
 
-Rub golden egg again
+[Rub golden egg again]
 286FBBEE 00000010
 
-Rematch Tarantutor
+[Rematch Tarantutor]
 287018E0 0000000C

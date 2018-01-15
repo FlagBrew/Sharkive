@@ -1,6 +1,6 @@
 
 
-Villager Affection Multiplier
+[Villager Affection Multiplier]
 94000130 FFFB0000
 C0000000 0000001E
 12040860 0000EA61

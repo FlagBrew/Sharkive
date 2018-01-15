@@ -1,9 +1,9 @@
 
 
-Max Money
+[Max Money]
 0868D118 000F423F
 
-Unlimited items (100+)
+[Unlimited items (100+)]
 0868D8A0 00000063
 0868DD50 00000063
 0868DD60 00000063
@@ -168,26 +168,26 @@ Unlimited items (100+)
 0868EB1C 00000063
 0868DC10 00000063
 
-200 Items you own x99
+[200 Items you own x99]
 C0000000 000000C8
 2868D850 00000063
 DC000000 00000010
 D1000000 00000000
 
-60 Equipment you own x99
+[60 Equipment you own x99]
 C0000000 0000003C
 2868D8B0 00000063
 DC000000 00000014
 D1000000 00000000
 
-200 first yokai Max HP
+[200 first yokai Max HP]
 C0000000 000000C8
 1867FF98 000003E7
 1867FFBC 000003E7
 DC000000 000000C4
 D1000000 00000000
 
-200 first yokai techniques masterized
+[200 first yokai techniques masterized]
 C0000000 000000C8
 2867FF8A 0000000A
 2867FF8E 0000000A
@@ -195,7 +195,7 @@ C0000000 000000C8
 DC000000 000000C4
 D1000000 00000000
 
-200 first yokai max stats
+[200 first yokai max stats]
 C0000000 000000C8
 1867FFBE 000003E7
 1867FFC0 000003E7
@@ -204,30 +204,30 @@ C0000000 000000C8
 DC000000 000000C4
 D1000000 00000000
 
-Crank-a-kai no dissapear
+[Crank-a-kai no dissapear]
 286901E0 00000000
 
-Rematch Skreek
+[Rematch Skreek]
 286900D2 0000000B
 
-Rematch Corptain and Awevil
+[Rematch Corptain and Awevil]
 286900D1 0000005A
 
-Rematch Grainpa
+[Rematch Grainpa]
 286900D6 000000D2
 
-Activate rain
+[Activate rain]
 28690054 00000001
 
-Deactivate rain
+[Deactivate rain]
 28690054 00000000
 
-Rematch gemnyan army
+[Rematch gemnyan army]
 286900D3 0000008D
 286900D5 00000046
 286900D4 00000031
 
-Unlimited sprint
+[Unlimited sprint]
 2885C418 00000000
 2885C419 00000000
 2885C41A 00000080
@@ -236,19 +236,19 @@ Unlimited sprint
 2895FE1A 00000080
 289912E0 00000030
 
-Rematch Duwheel
+[Rematch Duwheel]
 286900D0 000000C0
 
-Rematch Chirpster
+[Rematch Chirpster]
 2869398B 00000003
 2869016E 000000BF
 
-Restart Infinite Inferno
+[Restart Infinite Inferno]
 286900CC 0000000F
 286900CD 00000000
 286900CE 000000F0
 
-Yo-kai cam rewards (Set I)
+[Yo-kai cam rewards (Set I)]
 28694C34 0000001C
 28694C38 0000001D
 28694C3C 0000001E
@@ -310,7 +310,7 @@ Yo-kai cam rewards (Set I)
 28694CD0 00000002
 28694CD1 00000002
 
-Yo-kai cam rewards (Set II)
+[Yo-kai cam rewards (Set II)]
 28694C34 0000003A
 28694C38 0000003B
 28694C3C 0000003C
@@ -372,7 +372,7 @@ Yo-kai cam rewards (Set II)
 28694CD0 00000002
 28694CD1 00000002
 
-Yo-kai cam rewards (Set III)
+[Yo-kai cam rewards (Set III)]
 28694C34 00000018
 28694C38 00000019
 28694C3C 0000001A
@@ -434,5 +434,5 @@ Yo-kai cam rewards (Set III)
 28694CD0 00000001
 28694CD1 00000001
 
-Max Money
+[Max Money]
 0868D118 000F423F

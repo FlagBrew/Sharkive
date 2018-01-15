@@ -1,26 +1,26 @@
 
 
-Freeze Timer
+[Freeze Timer]
 D3000000 14000000
 02197A40 000055DA
 
-Max Lives after losing 1
+[Max Lives after losing 1]
 D3000000 00000000
 00138C70 E1C023BE
 
-999 Star Coins
+[999 Star Coins]
 D3000000 14000000
 0218FAE4 000003E7
 
-Lower Slot have Fire Flower
+[Lower Slot have Fire Flower]
 D3000000 14000000
 22197A30 00000002
 
-Lower Slot have Mushroom
+[Lower Slot have Mushroom]
 D3000000 14000000
 22197A30 00000001
 
-Lower Slot Item
+[Lower Slot Item]
 D3000000 14000000
 DD000000 00000014
 22197A30 00000001
@@ -41,33 +41,33 @@ DD000000 00000204
 22197A30 00000006
 D0000000 00000000
 
-Lower Slot have Super Leaf
+[Lower Slot have Super Leaf]
 D3000000 14000000
 22197A30 00000003
 
-Lower Slot have Boomerang
+[Lower Slot have Boomerang]
 D3000000 14000000
 22197A30 00000005
 
-Lower Slot have Tanooki/Statue Leaf
+[Lower Slot have Tanooki/Statue Leaf]
 D3000000 14000000
 22197A30 00000004
 
-Lower Slot have P-Wings
+[Lower Slot have P-Wings]
 D3000000 14000000
 22197A30 00000006
 
-Press R before picking up a coin to get a life
+[Press R before picking up a coin to get a life]
 DD000000 00000100
 D3000000 10000000
 16198EA8 00000063
 D2000000 00000000
 
-Always have 99 coins
+[Always have 99 coins]
 D3000000 10000000
 16198EA8 00000063
 
-Jump in Mid-Air
+[Jump in Mid-Air]
 D3000000 00000000
 00138C3C E92D0001
 00138C40 E59F0028
@@ -87,7 +87,7 @@ D3000000 00000000
 00258EA4 EBFB7F64
 D2000000 00000000
 
-Moon Jump Alternative
+[Moon Jump Alternative]
 DD000000 00000001
 D3000000 10000000
 64024764 00000000

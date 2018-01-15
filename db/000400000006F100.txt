@@ -1,30 +1,30 @@
 
 
-Max Infinite HP
+[Max Infinite HP]
 2884CCCF 000000FF
 2884CCD0 000000FF
 
-Infinite Keys
+[Infinite Keys]
 2884CCCE 00000009
 
-Infinite Bombs
+[Infinite Bombs]
 2884CCB8 00000008
 
-Infinite Blue Candle Use 
+[Infinite Blue Candle Use ]
 2884CB73 00000000
 
-Max Rupees
+[Max Rupees]
 2884CCCD 000000FF
 
-Invincible
+[Invincible]
 2884CB50 000000FF
 
-Have Map and Compass
+[Have Map and Compass]
 2884CCC7 0000003F
 2884CCC8 0000013F
 2884CCCA 00000001
 
-push L+UP Freeze Enemy, L+DOWN Unfreeze
+[push L+UP Freeze Enemy, L+DOWN Unfreeze]
 DD000000 00000240
 2884CCCC 00000001
 D0000000 00000000
@@ -32,5 +32,5 @@ DD000000 00000280
 2884CCCC 00000000
 D0000000 00000000
 
-Reset Amount of Rupees
+[Reset Amount of Rupees]
 2884CCCD 00000000

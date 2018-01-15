@@ -1,9 +1,9 @@
 
 
-Infinite Money
+[Infinite Money]
 D3000000 10000000
 15DB7640 0000270F
 
-Infinte Bullets
+[Infinte Bullets]
 D3000000 10000000
 15DB7642 0000270F

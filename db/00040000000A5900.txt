@@ -1,42 +1,42 @@
 
 
-Max money
+[Max money]
 085AF0DC FFFFFF5F
 
-99 Items (Bag Slot 1)
+[99 Items (Bag Slot 1)]
 285C24EC 00000063
 
-Unlimited Stamina
+[Unlimited Stamina]
 085AF0E4 00000064
 
-1st Item Slot Change
+[1st Item Slot Change]
 085C24DC 0000FFFF
 085C24E4 FFFFFFFF
 085C24E8 000000FF
 085C24EC 000000FF
 
-Max Trapping Level
+[Max Trapping Level]
 085D8B38 0000FFFF
 
-Max Fishing Level
+[Max Fishing Level]
 085D8894 0000FFFF
 
-Max Cooking Level
+[Max Cooking Level]
 085D5BD4 0000FFFF
 
-Max Maker Level
+[Max Maker Level]
 085D5BD8 0000FFFF
 
-Max Mining Level
+[Max Mining Level]
 085E0534 0000FFFF
 
-Max Affection All Wild Animals
+[Max Affection All Wild Animals]
 C0000000 00000017
 085B1A98 000003E8
 DC000000 00000044
 D2000000 00000000
 
-Max Affection (Farm Animals 1-8)
+[Max Affection (Farm Animals 1-8)]
 085AFFB4 000003E8
 085B0020 000003E8
 085B008C 000003E8
@@ -46,7 +46,7 @@ Max Affection (Farm Animals 1-8)
 085B023C 000003E8
 085B02A8 000003E8
 
-Max Affection (Farm Animals 9-16)
+[Max Affection (Farm Animals 9-16)]
 085B0314 000003E8
 085B0380 000003E8
 085B03EC 000003E8
@@ -56,7 +56,7 @@ Max Affection (Farm Animals 9-16)
 085B059C 000003E8
 085B0608 000003E8
 
-Max Affection (Farm Animals 17-24)
+[Max Affection (Farm Animals 17-24)]
 085B0674 000003E8
 085B06E0 000003E8
 085B074C 000003E8

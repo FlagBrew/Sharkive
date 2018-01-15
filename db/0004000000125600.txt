@@ -1,61 +1,61 @@
 
 
-255 Rupees
+[255 Rupees]
 206F7B38 000000FF
 20776318 000000FF
 
-Infinite Hearts
+[Infinite Hearts]
 206F7B36 00000030
 20776314 00000030
 
-Magic Meter always full
+[Magic Meter always full]
 206F7B3C 00000030
 20776317 00000030
 
-999 Rupees Max/Inf
+[999 Rupees Max/Inf]
 00776318 000003E7
 
-Max Health (Press L)
+[Max Health (Press L)]
 DD000000 00000200
 10776312 00000140
 
-Namechanger
+[Namechanger]
 00776300 11112222
 00776304 33334444
 00776308 55556666
 0077630C 77778888
 
-Max/Inf Ruppees in Bank
+[Max/Inf Ruppees in Bank]
 10777408 0000270F
 
-Max/Inf Arrows
+[Max/Inf Arrows]
 20776391 00000063
 
-Max/Inf Bombs
+[Max/Inf Bombs]
 20776396 00000063
 
-Max/Inf Bombchus
+[Max/Inf Bombchus]
 20776397 00000063
 
-Max/Inf Deku Nuts
+[Max/Inf Deku Nuts]
 20776399 00000063
 
-Max/Inf Deku Sticks
+[Max/Inf Deku Sticks]
 20776398 00000063
 
-Max/Inf Magic Beans
+[Max/Inf Magic Beans]
 2077639A 00000063
 
-Max/Inf Powder Kegs
+[Max/Inf Powder Kegs]
 2077639C 00000063
 
-Have Enhanced Defense
+[Have Enhanced Defense]
 20776320 00000001
 
-Have Mirrorshield/Gilded Sword
+[Have Mirrorshield/Gilded Sword]
 20776352 00000023
 
-Have all masks
+[Have all masks]
 2077636C 00000032
 2077636D 00000033
 2077636E 00000034
@@ -81,7 +81,7 @@ Have all masks
 20776382 00000048
 20776383 00000049
 
-Have all Items
+[Have all Items]
 20776355 00000001
 20776356 00000002
 20776357 00000003
@@ -104,27 +104,27 @@ Have all Items
 20776389 0000002D
 2077638A 00000030
 
-Refill Hearts (Press R)
+[Refill Hearts (Press R)]
 DD000000 00000100
 10776314 00000140
 
-R for Fierce Deity Link
+[R for Fierce Deity Link]
 DD000000 00000100
 2077632E 00000035
 207761FE 00000000
 D0000000 00000000
 
-Have no Masks
+[Have no Masks]
 D5000000 000000FF
 C0000000 00000018
 D8000000 0077636C
 D1000000 00000000
 D0000000 00000000
 
-99 Fishing Tickets
+[99 Fishing Tickets]
 207776C0 00000063
 
-L+UP/+DOWN Change Equip Slot1 Item
+[L+UP/+DOWN Change Equip Slot1 Item]
 DD000000 00000240
 10776318 00000000
 DB000000 0077632D
@@ -142,32 +142,32 @@ D3000000 00000000
 D8000000 00776318
 D0000000 00000000
 
-Unlock Magic Meter (Press L)
+[Unlock Magic Meter (Press L)]
 DD000000 00000200
 2077631E 00000001
 
-Unlock Large Magic Meter (Press L)
+[Unlock Large Magic Meter (Press L)]
 DD000000 00000200
 2077631F 00000001
 
-Refill Magic (Press R)
+[Refill Magic (Press R)]
 DD000000 00000100
 20776317 00000060
 
-Timechanger (Press R)
+[Timechanger (Press R)]
 DD000000 00000100
 207761F9 00000011
 
-Daychanger (Press R)
+[Daychanger (Press R)]
 DD000000 00000100
 207761EC 00000011
 
-Hold X+A - Moon Jump
+[Hold X+A - Moon Jump]
 DD000000 00000401
 190BE7FB 0000CB40
 D2000000 00000000
 
-Have All bottles (game v 1.1)
+[Have All bottles (game v 1.1)]
 20776384 00000012
 20776385 00000012
 20776386 00000012
@@ -176,7 +176,7 @@ Have All bottles (game v 1.1)
 20776389 00000012
 2077638A 00000012
 
-BOTTLE MOD (game v 1.1)
+[BOTTLE MOD (game v 1.1)]
 20776384 000000FF
 20776385 000000FF
 20776386 000000FF
@@ -185,17 +185,17 @@ BOTTLE MOD (game v 1.1)
 20776389 000000FF
 2077638A 000000FF
 
-Reset Money
+[Reset Money]
 206F7B38 00000000
 20776318 00000000
 
-Corrupted People (v1.1)
+[Corrupted People (v1.1)]
 001F0A98 C0600000
 
-All people are vertically stretched (v1.1)
+[All people are vertically stretched (v1.1)]
 001F0A9C 40400000
 
-Link's (wait) Animation- & Roll Speed (v1.1)
+[Link's (wait) Animation- & Roll Speed (v1.1)]
 DD000000 00000300
 00205214 3F800000
 D0000000 00000000
@@ -215,7 +215,7 @@ DD000000 00000180
 00205214 3E000000
 D0000000 00000000
 
-Link, Epona, Enemies & some SFX pitch/Speed modifier (v1.1)
+[Link, Epona, Enemies & some SFX pitch/Speed modifier (v1.1)]
 DD000000 00000300
 001CA2D4 3F800000
 D0000000 00000000
@@ -229,10 +229,10 @@ DD000000 00000110
 001CA2D4 40000000
 D0000000 00000000
 
-Link doesn't scream anymore (v1.1)
+[Link doesn't scream anymore (v1.1)]
 001D0DA8 40000000
 
-view modifier (v1.1)
+[view modifier (v1.1)]
 DD000000 00000300
 001B6708 3F800000
 D0000000 00000000
@@ -249,7 +249,7 @@ DD000000 00000280
 001B6708 37000000
 D0000000 00000000
 
-FOV Modifier (v1.1)
+[FOV Modifier (v1.1)]
 DD000000 00000140
 00123244 3EC00000
 D0000000 00000000
@@ -260,19 +260,19 @@ DD000000 00000300
 00123244 3F800000
 D0000000 00000000
 
-Spazzing Corruptions + upside down mode (v1.1)
+[Spazzing Corruptions + upside down mode (v1.1)]
 00630684 BF800000
 
-SEIZURE TIME!
+[SEIZURE TIME!]
 00630688 40000000
 
-Spazzing and morphing corruption
+[Spazzing and morphing corruption]
 00630A80 C0000000
 
-4/3 Aspect Ratio (horizontal FOV) (v1.1)
+[4/3 Aspect Ratio (horizontal FOV) (v1.1)]
 007CEC04 3FA00000
 
-Links Upper Body Size Modifier (v1.1)
+[Links Upper Body Size Modifier (v1.1)]
 DD000000 00000220
 007CEBD4 40400000
 007CEBE8 40400000

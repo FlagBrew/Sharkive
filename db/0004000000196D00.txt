@@ -1,6 +1,6 @@
 
 
-burst illimiter
+[burst illimiter]
 D3000000 00000000
 005D6B20 E5917010
 005D6B24 E5817004

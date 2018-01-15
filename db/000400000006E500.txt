@@ -1,20 +1,20 @@
 
 
-99 Coins
+[99 Coins]
 2883684E 00000063
 
-Infinite Lives
+[Infinite Lives]
 2883684A 00000009
 
-Reset Timer to 990 push R
+[Reset Timer to 990 push R]
 DD000000 00000100
 288368E8 00000009
 288368E9 00000009
 D2000000 00000000
 
-Invincible
+[Invincible]
 2883688F 000000FF
 
-Always Fire Mario
+[Always Fire Mario]
 28836884 00000000
 28836846 00000002

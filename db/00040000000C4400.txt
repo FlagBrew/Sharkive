@@ -1,12 +1,12 @@
 
 
-Lee Exp Points
+[Lee Exp Points]
 00418838 000F423F
 
-Naruto Exp points
+[Naruto Exp points]
 004187DC 000F423F
 
-Max chakra (stages only)
+[Max chakra (stages only)]
 2041A178 00000078
 20419FDC 00000078
 2041A314 00000078

@@ -1,10 +1,10 @@
 
 
-Infinite Lives
+[Infinite Lives]
 2888C5DD 00000063
 
-Invincible
+[Invincible]
 2888C5D0 000000FF
 
-Infinite Health
+[Infinite Health]
 2888C5B2 0000003F
