@@ -56,30 +56,3 @@ void threadLoadTitles(void)
 	forceRefresh = true;
 	isLoadingTitles = false;
 }
-
-void threadDownloadCodeList(void)
-{
-	std::string url = "https://api.github.com/repos/BernardoGiordano/Sharkive/contents/db";
-	std::u16string path = u8tou16("/3ds/Sharkive/cache.json");
-	
-	createInfo("Loading...", "Downloading most recent cache from github..");
-	Result res = httpDownloadFile(url, path);
-	if (R_FAILED(res))
-	{
-		createError(res, "Failed to retrieve cache from github.");
-	}
-	
-	createInfo("Loading...", "Reading most recent cache from disk..");
-	if (fileExist(getArchiveSDMC(), path))
-	{
-		std::ifstream i(u16tou8(path));
-		nlohmann::json j;
-		i >> j;
-
-		for (auto& object : j)
-		{
-			setAvailableOnDB(object["name"], object["download_url"]);
-		}
-		createInfo("Success!", "Data loaded correctly.");
-	}
-}
