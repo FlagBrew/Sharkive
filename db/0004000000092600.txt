@@ -1,2 +1,2 @@
-Infinite Ammo
+[Infinite Ammo]
 00211090 0000000A

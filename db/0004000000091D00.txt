@@ -1,5 +1,5 @@
 
 
-Max Coins (Press L+R)
+[Max Coins (Press L+R)]
 DD000000 00000300
 08777DE8 0001869F

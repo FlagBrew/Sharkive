@@ -1,4 +1,4 @@
 
 
-Infinite MP (Fixed)
+[Infinite MP (Fixed)]
 0065EE70 000F423F

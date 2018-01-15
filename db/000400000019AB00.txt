@@ -1,23 +1,23 @@
 
 
-Infinite Stamina
+[Infinite Stamina]
 28001E4E 00000080
 
-Infinite Crank-A-Kai Spins
+[Infinite Crank-A-Kai Spins]
 086FBC04 0000000A
 
-Infinite Crank-a-Kai Spins
+[Infinite Crank-a-Kai Spins]
 086FBC04 00000003
 
-Always Befriend Yo-kai - Food
+[Always Befriend Yo-kai - Food]
 00624B10 E1A00000
 00624B20 E3A00000
 00624B24 E1A00000
 
-Always Befriend Yo-kai
+[Always Befriend Yo-kai]
 00624B30 E1A00000
 
-All Items x99 - See Notes!
+[All Items x99 - See Notes!]
 086F8658 00000063
 086F8668 00000063
 086F8678 00000063
@@ -538,27 +538,27 @@ All Items x99 - See Notes!
 086FA8A0 00000063
 086FA8B4 00000063
 
-999'999 JP
+[999'999 JP]
 086F7BE4 000F423F
 
-9999,99 Cash
+[9999,99 Cash]
 086F7BE0 000F423F
 
-Get Thornyan AND Baddinyan
+[Get Thornyan AND Baddinyan]
 286FBC40 00000000
 
-Re-enable Infinite Tunnel
+[Re-enable Infinite Tunnel]
 286FBBF0 00000000
 
-Rematch Slimamander
+[Rematch Slimamander]
 286FBBF0 00000000
 286FBB4D 00000000
 
-Rematch Goldy Bones
+[Rematch Goldy Bones]
 286FBBEF 00000000
 
-Unlimited donations
+[Unlimited donations]
 286FBBEE 00000012
 
-Rub golden egg again
+[Rub golden egg again]
 286FBBEE 00000010

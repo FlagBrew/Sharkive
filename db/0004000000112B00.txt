@@ -1,18 +1,18 @@
 
 
-Max Money
+[Max Money]
 08682F60 000F423F
 
-Max Passion Points
+[Max Passion Points]
 08682F64 000F423F
 
-All items/equip./techs x99
+[All items/equip./techs x99]
 C0000000 000001FE
 28682D49 00000063
 DC000000 00000001
 D1000000 00000000
 
-All 32 Char.stats(resets at lvl up)
+[All 32 Char.stats(resets at lvl up)]
 C0000000 0000001F
 08683D04 03E703E7
 08683D08 03E703E7
@@ -23,7 +23,7 @@ C0000000 0000001F
 DC000000 00000188
 D1000000 00000000
 
-32 Char.Lvl99 after match
+[32 Char.Lvl99 after match]
 C0000000 0000001F
 08683C58 000F423F
 DC000000 00000188

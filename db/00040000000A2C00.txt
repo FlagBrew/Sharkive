@@ -1,9 +1,9 @@
 
 
-Max G
+[Max G]
 00530178 05F5E0FF
 
-Infinite Level Up Points
+[Infinite Level Up Points]
 DD000000 00000100
 08453238 00000000
 D0000000 00000000

@@ -1,10 +1,10 @@
 
 
-Infinite Credits
+[Infinite Credits]
 28C3F799 00000009
 
-Infinite Missiles
+[Infinite Missiles]
 28C404AC 00000064
 
-Infinite Lives
+[Infinite Lives]
 28C40026 00000009

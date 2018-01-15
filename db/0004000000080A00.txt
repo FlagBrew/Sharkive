@@ -1,35 +1,35 @@
 
 
-Infinite Bombs
+[Infinite Bombs]
 207EA12C 00000003
 
-Infinite Lives
+[Infinite Lives]
 2065BEF0 00000063
 
-999 Hits
+[999 Hits]
 10658354 000003E7
 
-Have Hyper Laser
+[Have Hyper Laser]
 207C8AF0 00000002
 
-Falco Slippy Peppy Infinite HP
+[Falco Slippy Peppy Infinite HP]
 007C8A3C 0000017F
 007C8A40 0000017F
 007C8A44 0000017F
 
-Max Hits
+[Max Hits]
 00658354 000003E7
 
-Infinite Bombs
+[Infinite Bombs]
 007EA12C 00000003
 
-Have Hyper Laser
+[Have Hyper Laser]
 007C8AF0 00000002
 
-Infinite Lives
+[Infinite Lives]
 0065BEF0 00000063
 
-Peppy Slippy Falco Infinite HP
+[Peppy Slippy Falco Infinite HP]
 007C8A3C 0000017F
 007C8A40 0000017F
 007C8A44 0000017F

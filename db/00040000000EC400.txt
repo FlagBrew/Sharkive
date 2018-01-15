@@ -1,48 +1,48 @@
 
 
-Max Rupees
+[Max Rupees]
 D3000000 14000000
 128B73A8 0000270F
 
-Max Monster Tails
+[Max Monster Tails]
 D3000000 14000000
 128B73B1 00000063
 
-Max Monster Guts
+[Max Monster Guts]
 D3000000 14000000
 128B73B2 00000063
 
-Max Monster Horns
+[Max Monster Horns]
 D3000000 14000000
 128B73B3 00000063
 
-Max Miamias
+[Max Miamias]
 D3000000 14000000
 128B73B4 00000064
 
-Full Hearts
+[Full Hearts]
 D3000000 14000000
 128B7444 00005050
 
-Have 5 Dungeon Keys
+[Have 5 Dungeon Keys]
 D3000000 14000000
 128B72DC 00000005
 
-Infinite Power Meter
+[Infinite Power Meter]
 D3000000 14000000
 128BB3CA 00004416
 
-Reset Amount of Rupees
+[Reset Amount of Rupees]
 D3000000 14000000
 128B73A8 00000000
 
-Invincible
+[Invincible]
 D3000000 00000000
 00149BEC E1510002
 00149BF0 B1A01002
 D2000000 00000000
 
-Money doesn't decrease
+[Money doesn't decrease]
 D3000000 00000000
 E0255B14 00000014
 E320F000 E320F000
@@ -50,7 +50,7 @@ E320F000 E320F000
 E320F000 00000000
 D2000000 00000000
 
-Using item doesn't cost energy
+[Using item doesn't cost energy]
 D3000000 00000000
 002D3AF4 E320F000
 002D3B40 E320F000
@@ -64,12 +64,12 @@ D3000000 00000000
 002D3C40 E320F000
 D2000000 00000000
 
-Being a painting doesn't cost energy
+[Being a painting doesn't cost energy]
 D3000000 00000000
 002D3ECC E320F000
 D2000000 00000000
 
-Cucco Ranch Minigame Easy Win (Hold R)
+[Cucco Ranch Minigame Easy Win (Hold R)]
 DD000000 00000100
 D3000000 14000000
 028B727C 42480000

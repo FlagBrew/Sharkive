@@ -1,6 +1,6 @@
 
 
-19,999G (Get 1g for all upgrades)
+[19,999G (Get 1g for all upgrades)]
 D3000000 10000000
 153C0444 00004E1F
 D3000000 10000000

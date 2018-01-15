@@ -1,78 +1,78 @@
 
 
-Max/Inf Ruppees
+[Max/Inf Ruppees]
 10775318 000003E7
 
-Max Hearts (Press L)
+[Max Hearts (Press L)]
 DD000000 00000200
 10775312 00000140
 
-Refill Hearts (Press R)
+[Refill Hearts (Press R)]
 DD000000 00000100
 10775314 00000140
 
-Max/Inf Health
+[Max/Inf Health]
 00775312 01400140
 
-Unlock Magic (Press L)
+[Unlock Magic (Press L)]
 DD000000 00000200
 2077531E 00000001
 
-Have large Magic
+[Have large Magic]
 0077531F 00000001
 
-Refill Magic (Press L)
+[Refill Magic (Press L)]
 DD000000 00000200
 20775317 00000060
 
-Inf Magic
+[Inf Magic]
 20775317 00000060
 
-Timechanger (Press R)
+[Timechanger (Press R)]
 DD000000 00000100
 207751F9 00000011
 
-Daychanger (Press R)
+[Daychanger (Press R)]
 DD000000 00000100
 207751EC 00000011
 
-Namechanger
+[Namechanger]
 00775300 11112222
 00775304 33334444
 00775308 55556666
 0077530C 77778888
 
-Max/Inf Ruppees in Bank
+[Max/Inf Ruppees in Bank]
 10776408 0000270F
 
-Max/Inf Arrows
+[Max/Inf Arrows]
 20775391 00000063
 
-Max/Inf Bombs
+[Max/Inf Bombs]
 20775396 00000063
 
-Max/Inf Bombchus
+[Max/Inf Bombchus]
 20775397 00000063
 
-Max/Inf Deku Nuts
+[Max/Inf Deku Nuts]
 20775399 00000063
 
-Max/Inf Deku Sticks
+[Max/Inf Deku Sticks]
 20775398 00000063
 
-Max/Inf Magic Beans
+[Max/Inf Magic Beans]
 2077539A 00000063
 
-Max/Inf Powder Keg
+[Max/Inf Powder Keg]
 2077539C 00000063
 
-Have Enhanced Defense
+[Have Enhanced Defense]
 20775320 00000001
 
-Have Mirrorshield/Gilded Sword
+[Have Mirrorshield/Gilded Sword]
 20775352 00000023
 
-Have all masks
+[Have all masks]
 2077536C 00000032
 2077536D 00000033
 2077536E 00000034
@@ -98,7 +98,7 @@ Have all masks
 20775382 00000048
 20775383 00000049
 
-Have all Items
+[Have all Items]
 20775355 00000001
 20775356 00000002
 20775357 00000003
@@ -121,22 +121,22 @@ Have all Items
 20775389 0000002D
 2077538A 00000030
 
-Hold X+A Moonjump
+[Hold X+A Moonjump]
 DD000000 00000401
 68041FCC 00000000
 B8041FCC 00000000
 1000006A 00004100
 D2000000 00000000
 
-Reset Amount of Rupees
+[Reset Amount of Rupees]
 10775318 00000000
 
-Great Fairy Sword on B Button (v1.0 only)
+[Great Fairy Sword on B Button (v1.0 only)]
 2077532A 00000050
 
-Gilded Sword on B Button (v1.0 only)
+[Gilded Sword on B Button (v1.0 only)]
 2077532A 0000004F
 
-Use Items Anywhere (V1.0)
+[Use Items Anywhere (V1.0)]
 0078891A 00000000
 00788918 00000000

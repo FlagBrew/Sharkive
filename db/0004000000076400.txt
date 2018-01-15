@@ -1,9 +1,9 @@
 
 
-Flash Light Quick Charge
+[Flash Light Quick Charge]
 00356040 42800000
 
-Infinite Dark Light Power
+[Infinite Dark Light Power]
 D3000000 00000000
 E0899C00 00000010
 EDDF0A01 EEB00A60

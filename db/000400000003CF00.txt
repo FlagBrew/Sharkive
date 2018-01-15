@@ -1,15 +1,15 @@
 
 
-Max Exp (Naruto)
+[Max Exp (Naruto)]
 004187DC 0000C350
 
-Max Exp (Lee)
+[Max Exp (Lee)]
 00418838 0000C350
 
-Max Chakra (Battles Only)
+[Max Chakra (Battles Only)]
 00419E40 00000078
 
-Max chakra (Stages Only)
+[Max chakra (Stages Only)]
 2041A178 00000078
 20419FDC 00000078
 2041A314 00000078

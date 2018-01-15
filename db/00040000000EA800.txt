@@ -1,12 +1,12 @@
 
 
-2 billion points
+[2 billion points]
 08072724 77359400
 
-Have Bonus
+[Have Bonus]
 28072728 00000003
 
-Display shield or fuel
+[Display shield or fuel]
 DD000000 00000010
 28072729 00000002
 D0000000 00000000
@@ -17,5 +17,5 @@ DD000000 00000080
 28072729 00000001
 D0000000 00000000
 
-Max/Inf shield
+[Max/Inf shield]
 28072714 00000004

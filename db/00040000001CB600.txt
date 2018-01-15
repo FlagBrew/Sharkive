@@ -1,8 +1,8 @@
-Unlimited Stamina
+[Unlimited Stamina]
 18183F30 000003E8
 
-Unlimited Battery
+[Unlimited Battery]
 18183F2C 00004DCB
 
-Unlimited Health
+[Unlimited Health]
 18183F24 000003E8

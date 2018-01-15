@@ -1,6 +1,6 @@
 
 
-Change casual mode v1.0
+[Change casual mode v1.0]
 B05C5CF4 00000000
 90000038 FF7F0000
 DA000000 00000038
@@ -8,7 +8,7 @@ D4000000 00000080
 D7000000 00000038
 D2000000 00000000
 
-Change classic mode v1.0
+[Change classic mode v1.0]
 B05C5CF4 00000000
 A0000038 FF7F0000
 DA000000 00000038
@@ -16,32 +16,32 @@ D4000000 FFFFFF80
 D7000000 00000038
 D2000000 00000000
 
-Difficulty change v1.0
+[Difficulty change v1.0]
 00000000 00000000
 
-Max Renown v1.0
+[Max Renown v1.0]
 B05C5CF4 00000000
 00000070 0098967F
 D2000000 00000000
 
-Gold Coin 996 v1.0
+[Gold Coin 996 v1.0]
 00434510 E51F0130
 0043453C E2804C02
 00434540 E3A00FF9
 00434544 E1C404BC
 00434548 E8BD8010
 
-Silver Coin 9984 v1.0
+[Silver Coin 9984 v1.0]
 00434600 E51F0220
 0043462C E2804C02
 00434630 E3A00C27
 00434634 E1C405B2
 00434638 E8BD8010
 
-Bookmark does not disappear v1.0
+[Bookmark does not disappear v1.0]
 003B9B38 E12FFF1E
 
-Get Exp 100(START+UP;ON, START+DOWN;OFF) v1.0
+[Get Exp 100(START+UP;ON, START+DOWN;OFF) v1.0]
 DD000000 00000048
 004500D4 E3A00064
 D0000000 00000000
@@ -49,55 +49,55 @@ DD000000 00000088
 004500D4 C3A00064
 D0000000 00000000
 
-Able to control enemy v1.0
+[Able to control enemy v1.0]
 002F9664 E1500000
 
-Infinite Movement v1.0
+[Infinite Movement v1.0]
 002F9670 E1500000
 
-Able to item trade with the enemy v1.0
+[Able to item trade with the enemy v1.0]
 00333DDC E1500000
 
-Well does not wither v1.0
+[Well does not wither v1.0]
 0042C5CC EA000000
 0042C3E0 EA000000
 
-Anywhere starting position in preparations (including enemy) v1.0
+[Anywhere starting position in preparations (including enemy) v1.0]
 002F96EC E1500000
 002F96FC EA000007
 002F9730 E3A00001
 00307754 E3100B02
 003077BC E3100B02
 
-Able to use convoy anyone v1.0
+[Able to use convoy anyone v1.0]
 0031C6FC E1A00000
 0031CB68 E1A00000
 
-All status up by LV up(Growth Rate must be Large than 1%) v1.0
+[All status up by LV up(Growth Rate must be Large than 1%) v1.0]
 00356D14 E3A00001
 
-Inf Use Mira Gear v1.0
+[Inf Use Mira Gear v1.0]
 0043436C 13A00001
 
-Infinite item usage v1.0
+[Infinite item usage v1.0]
 001D72DC E1A00000
 
-Instant Message v1.0
+[Instant Message v1.0]
 0039B624 E35000FF
 
-Run through monsters in 3D dungeons v1.0
+[Run through monsters in 3D dungeons v1.0]
 0017ECCC EA00003F
 
-Can Retreat from battle the first turn v1.0
+[Can Retreat from battle the first turn v1.0]
 0044D050 E3500001
 
-Instant support convo v1.0
+[Instant support convo v1.0]
 001F7FAC E3A00006
 001F7FC4 E2400001
 001F7FC8 E5C40019
 001F7FCC E1500000
 
-Infnite HP v1.0
+[Infnite HP v1.0]
 005270D0 E1A00004
 005270D4 E3550000
 005270D8 112FFF1E
@@ -119,7 +119,7 @@ Infnite HP v1.0
 00527118 E12FFF1E
 00451A9C EB03558B
 
-All class selectable by class change v1.0
+[All class selectable by class change v1.0]
 00527140 E59F0010
 00527144 E5900000
 00527148 E5900000
@@ -135,10 +135,10 @@ All class selectable by class change v1.0
 001FBCDC E3A00001
 001FBCEC EA000036
 
-Battle Arts extension slot +8 v1.0
+[Battle Arts extension slot +8 v1.0]
 00000000 00000000
 
-Attck renge 100 v1.0
+[Attck renge 100 v1.0]
 00527200 E1A00004
 00527204 E59740CC
 00527208 E5D44008
@@ -155,7 +155,7 @@ Attck renge 100 v1.0
 00527230 E12FFF1E
 00452EAC EB0350D9
 
-Move Distance Max v1.0
+[Move Distance Max v1.0]
 00527240 E59640CC
 00527244 E3540000
 00527248 08BD8070
@@ -168,7 +168,7 @@ Move Distance Max v1.0
 00527264 E8BD8070
 00451AA0 EA0355E6
 
-On Map Can Teleport v1.0
+[On Map Can Teleport v1.0]
 E0527280 00000068
 B50F7B00 48152200
 69C06800 D1002808
@@ -185,7 +185,7 @@ BD0FE7E8 005AB99C
 005C5CF4 005E9278
 0036E9E0 FA06E226
 
-Can Get both Dean and Sonya v1.0
+[Can Get both Dean and Sonya v1.0]
 DD000000 00000108
 B05C5CF4 00000000
 B0000024 00000000
@@ -199,7 +199,7 @@ B0000010 00000000
 200003E0 00000002
 D2000000 00000000
 
-All Support rank A v1.0
+[All Support rank A v1.0]
 00527300 E92D4002
 00527304 E59F1008
 00527308 E5801018
@@ -208,7 +208,7 @@ All Support rank A v1.0
 00527314 63626203
 003A27BC EB0612CF
 
-All Maximum Stats 99 v1.0
+[All Maximum Stats 99 v1.0]
 00451978 E3A0C063
 0045197C E5C0C03C
 00451980 E59600C8
@@ -217,17 +217,17 @@ All Maximum Stats 99 v1.0
 0045198C E084400C
 00451990 EA000002
 
-Growth rate +XX%(Max255%) v1.0
+[Growth rate +XX%(Max255%) v1.0]
 00000000 00000000
 
-All Weapon equipment possible v1.0
+[All Weapon equipment possible v1.0]
 0044FE64 E3A00001
 0044FE68 E12FFF1E
 
-Weapon extension slot +3 v1.0
+[Weapon extension slot +3 v1.0]
 00000000 00000000
 
-Even if you kill Zeke you can get Tatiana & Zeke v1.0
+[Even if you kill Zeke you can get Tatiana & Zeke v1.0]
 605C5CF4 00000000
 B05C5CF4 00000000
 B0000024 00000000
@@ -236,10 +236,10 @@ B0000010 00000000
 20000444 00000000
 D2000000 00000000
 
-Recruit Characters(Hold L & Go to "Order" menu) v1.0
+[Recruit Characters(Hold L & Go to "Order" menu) v1.0]
 00000000 00000000
 
-Remove Characters(Hold R & Quit "Order" menu) v1.0
+[Remove Characters(Hold R & Quit "Order" menu) v1.0]
 00527400 E1A06000
 00527404 E92D401F
 00527408 E59F001C
