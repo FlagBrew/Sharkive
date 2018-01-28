@@ -1,4 +1,5 @@
-
+[No Softban v1.2 (restart to turn off)]
+2045DD70 00000001
 
 [Max Money v1.0]
 D3000000 30000000
