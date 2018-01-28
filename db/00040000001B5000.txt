@@ -1,4 +1,5 @@
-
+[No Softban v1.1 (restart to turn off)]
+204790A8 00000001
 
 [100%Catch(Gateshark2NTR only)]
 00666FDC E5D00008
