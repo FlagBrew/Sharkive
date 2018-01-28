@@ -18,7 +18,7 @@
 
 #include "http.h"
 
-Result httpDownloadFile(std::string url, std::u16string path)
+Result httpDownloadFile(std::string url, std::u16string path, u32 *sz)
 {
 	Result res = 0;
 	httpcInit(0);
@@ -108,5 +108,7 @@ Result httpDownloadFile(std::string url, std::u16string path)
 
 	httpcCloseContext(&context);
 	httpcExit();
+	
+	*sz = contentsize;
 	return res;
 }

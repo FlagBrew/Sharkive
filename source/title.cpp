@@ -37,6 +37,8 @@ void Title::load(void)
 	textureId = TEXTURE_NOICON;
 	availableOnSD = false;
 	availableOnDB = false;
+	dbSize = 0;
+	sdSize = 0;
 }
 
 bool Title::load(u64 _id, FS_MediaType _media, FS_CardType _card)
@@ -88,9 +90,12 @@ bool Title::load(u64 _id, FS_MediaType _media, FS_CardType _card)
 				createError(res, "Failed to create backup directory.");
 			}
 		}
-		else if (fileExist(getArchiveSDMC(), codePath))
+		else
 		{
-			availableOnSD = true;
+			FSStream stream(getArchiveSDMC(), codePath, FS_OPEN_READ);
+			stream.close();
+			availableOnSD = stream.getLoaded();
+			sdSize = stream.getSize();
 		}
 
 		loadTextureIcon(smdh, index);
@@ -268,6 +273,32 @@ void loadTitles(bool forceRefresh)
 	
 	// serialize data
 	exportTitleListCache();
+	
+	// load cache
+	std::string url = "https://api.github.com/repos/BernardoGiordano/Sharkive/contents/db";
+	std::u16string path = u8tou16("/3ds/Sharkive/cache.json");
+	
+	u32 sz = 0;
+	createInfo("Loading...", "Downloading most recent cache from github..");
+	Result res = httpDownloadFile(url, path, &sz);
+	if (R_FAILED(res))
+	{
+		createError(res, "Failed to retrieve cache from github.");
+	}
+	
+	createInfo("Loading...", "Reading most recent cache from disk..");
+	if (fileExist(getArchiveSDMC(), path))
+	{
+		std::ifstream i(u16tou8(path));
+		nlohmann::json j;
+		i >> j;
+
+		for (auto& object : j)
+		{
+			setAvailableOnDB(object["name"], object["download_url"], object["size"]);
+		}
+		createInfo("Success!", "Data loaded correctly.");
+	}
 }
 
 void getTitle(Title &dst, int i)
@@ -368,7 +399,7 @@ static void importTitleListCache(void)
 	delete[] cachesaves;
 }
 
-void setAvailableOnDB(std::string name, std::string url)
+void setAvailableOnDB(std::string name, std::string url, u32 size)
 {
 	auto it = find_if(titles.begin(), titles.end(), [&name](const Title& obj) {return obj.dbName == name;});
 	if (it != titles.end())
@@ -376,10 +407,12 @@ void setAvailableOnDB(std::string name, std::string url)
 		auto index = std::distance(titles.begin(), it);
 		titles.at(index).availableOnDB = true;
 		titles.at(index).url = url;
+		titles.at(index).dbSize = size;
 	}
 }
 
-void setAvailableOnSD(size_t index)
+void setAvailableOnSD(size_t index, u32 size)
 {
+	titles.at(index).sdSize = size;
 	titles.at(index).availableOnSD = true;
 }

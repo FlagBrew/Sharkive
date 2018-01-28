@@ -25,6 +25,5 @@ void createThread(ThreadFunc entrypoint);
 void destroyThreads(void);
 
 void threadLoadTitles(void);
-void threadDownloadCodeList(void);
 
 #endif

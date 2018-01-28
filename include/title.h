@@ -48,6 +48,9 @@ public:
 	FS_CardType card;
 	size_t textureId;
 	
+	u32 dbSize;
+	u32 sdSize;
+	
 private:
 	std::u16string shortDescription;
 	std::u16string longDescription;
@@ -58,7 +61,7 @@ int getTitlesCount(void);
 size_t getTextureId(int i);
 
 void loadTitles(bool forceRefresh);
-void setAvailableOnDB(std::string name, std::string url);
-void setAvailableOnSD(size_t index);
+void setAvailableOnDB(std::string name, std::string url, u32 size);
+void setAvailableOnSD(size_t index, u32 size);
 
 #endif

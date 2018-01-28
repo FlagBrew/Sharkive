@@ -34,7 +34,6 @@ int main() {
 	servicesInit();
 	menu = new Gui();
 	createThread((ThreadFunc)threadLoadTitles);
-	createThread((ThreadFunc)threadDownloadCodeList);
 
 	while (aptMainLoop() && !(hidKeysDown() & KEY_START)) {
 		hidScanInput();
@@ -45,10 +44,11 @@ int main() {
 			getTitle(title, menu->getNormalizedIndex());
 			if (title.availableOnDB)
 			{
-				Result res = httpDownloadFile(title.url, title.codePath);
+				u32 size = 0;
+				Result res = httpDownloadFile(title.url, title.codePath, &size);
 				if (R_SUCCEEDED(res))
 				{
-					setAvailableOnSD(menu->getNormalizedIndex());
+					setAvailableOnSD(menu->getNormalizedIndex(), size);
 					createInfo("Success!", "Codes downloaded successfully.");
 				}
 			}

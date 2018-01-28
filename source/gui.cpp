@@ -207,7 +207,9 @@ void Gui::draw(void)
 			
 			if (title.availableOnSD)
 			{
-				pp2d_draw_text_center(GFX_BOTTOM, 123, 0.6f, 0.6f, WHITE, "Codes available on SD");
+				pp2d_draw_text_center(GFX_BOTTOM, 116, 0.6f, 0.6f, WHITE, "Codes available on SD");
+				const char* sz = getSizeString(title.sdSize).c_str();
+				pp2d_draw_text(284 - pp2d_get_text_width(sz, 0.45f, 0.45f), 140, 0.45f, 0.45f, WHITE, sz);
 			}
 			else
 			{
@@ -221,11 +223,13 @@ void Gui::draw(void)
 			}
 			else if (title.availableOnDB)
 			{
-				pp2d_draw_text_center(GFX_BOTTOM, 172, 0.6f, 0.6f, WHITE, "Codes available on DB.");
+				pp2d_draw_text_center(GFX_BOTTOM, 166, 0.6f, 0.6f, WHITE, "Codes available on DB");
+				const char* sz = getSizeString(title.dbSize).c_str();
+				pp2d_draw_text(284 - pp2d_get_text_width(sz, 0.45f, 0.45f), 188, 0.45f, 0.45f, WHITE, sz);
 			}
 			else
 			{
-				pp2d_draw_text_center(GFX_BOTTOM, 172, 0.6f, 0.6f, GREYISH, "Codes not available on DB.");
+				pp2d_draw_text_center(GFX_BOTTOM, 172, 0.6f, 0.6f, GREYISH, "Codes not available on DB");
 			}
 		}
 		
