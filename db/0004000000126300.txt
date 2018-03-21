@@ -1,5 +1,6 @@
 
-++FORT42 CHEATS++
+
+[++FORT42 CHEATS++]
 
 [Zenny Modifier (See note)]
 DD000000 00000102

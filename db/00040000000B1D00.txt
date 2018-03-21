@@ -1,8 +1,5 @@
 
 
-[cheat]
-166755B8 00000000
-
 [one hit kill cheat]
 166755B8 00000000
 

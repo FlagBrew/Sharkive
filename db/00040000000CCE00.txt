@@ -127,7 +127,7 @@ D3000000 00000000
 D2000000 00000000
 
 
-Invincibility Alternate(Have to use Jump in Midair because pits don't kill you
+[Invincibility Alternate(Have to use Jump in Midair because pits don't kill you]
 D3000000 00000000
 00278338 E1A00000
 001B43B0 E1A00000
