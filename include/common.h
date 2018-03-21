@@ -22,18 +22,20 @@
 #include <3ds.h>
 #include <algorithm>
 #include <codecvt>
+#include <curl/curl.h>
 #include <fstream>
 #include <locale>
+#include <malloc.h>
 #include <memory>
 #include <sstream>
 #include <stdarg.h>
 #include <stdlib.h>
 #include <string>
+#include <string.h>
 #include <sys/stat.h>
 #include <vector>
 #include "archive.h"
 #include "clickable.h"
-#include "datetime.h"
 #include "fsstream.h"
 #include "gui.h"
 #include "hid.h"
@@ -44,7 +46,6 @@
 #include "../source/pp2d/pp2d.h"
 #include "smdh.h"
 #include "stringutil.h"
-#include "thread.h"
 #include "title.h"
 #include "util.h"
 

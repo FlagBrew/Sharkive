@@ -32,8 +32,12 @@ void createError(Result res, std::string message)
 
 int main() {
 	servicesInit();
+	pp2d_begin_draw(GFX_TOP, GFX_LEFT);
+	pp2d_draw_text_center(GFX_TOP, 105, 1.0f, 1.0f, WHITE, "Loading... please wait \uE008");
+	pp2d_end_draw();
+
 	menu = new Gui();
-	createThread((ThreadFunc)threadLoadTitles);
+	loadTitles();
 
 	while (aptMainLoop() && !(hidKeysDown() & KEY_START)) {
 		hidScanInput();
@@ -45,7 +49,7 @@ int main() {
 			if (title.availableOnDB)
 			{
 				u32 size = 0;
-				Result res = httpDownloadFile(title.url, title.codePath, &size);
+				Result res = download(title.url.c_str(), u16tou8(title.codePath).c_str(), &size);
 				if (R_SUCCEEDED(res))
 				{
 					setAvailableOnSD(menu->getNormalizedIndex(), size);
@@ -59,6 +63,5 @@ int main() {
 	}
 	
 	delete menu;
-	destroyThreads();
 	servicesExit();
 }

@@ -171,7 +171,7 @@ static bool checkHigh(u64 id)
 	return (high == 0x00040000 || high == 0x00040002);
 }
 
-void loadTitles(bool forceRefresh)
+void loadTitles(void)
 {
 	std::u16string savecachePath = u8tou16("/3ds/Sharkive/cache");
 	
@@ -218,7 +218,7 @@ void loadTitles(bool forceRefresh)
 		}
 	}
 	
-	if (optimizedLoad && !forceRefresh)
+	if (optimizedLoad)
 	{
 		// deserialize data
 		importTitleListCache();
@@ -275,12 +275,12 @@ void loadTitles(bool forceRefresh)
 	exportTitleListCache();
 	
 	// load cache
-	std::string url = "https://api.github.com/repos/BernardoGiordano/Sharkive/contents/db";
+	const char* url = "https://api.github.com/repos/BernardoGiordano/Sharkive/contents/db";
 	std::u16string path = u8tou16("/3ds/Sharkive/cache.json");
 	
 	u32 sz = 0;
 	createInfo("Loading...", "Downloading most recent cache from github..");
-	Result res = httpDownloadFile(url, path, &sz);
+	Result res = download(url, u16tou8(path).c_str(), &sz);
 	if (R_FAILED(res))
 	{
 		createError(res, "Failed to retrieve cache from github.");

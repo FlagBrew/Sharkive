@@ -1,6 +1,6 @@
 # Sharkive
 
-Gateshark cheat code manager for Luma3DS
+Gateshark cheat code manager for Luma3DS.
 
 ## Database
 
@@ -12,4 +12,4 @@ This project is licensed under the GNU GPLv3. See [LICENSE.md](https://github.co
 
 ## Credits
 
-Original batch of codes [here](https://github.com/ItsDeidara/MegaNTR) and [here](https://github.com/JourneyOver/CTRPF-AR-CHEAT-CODES).
+Original batch of codes from [here](https://github.com/ItsDeidara/MegaNTR) and [here](https://github.com/JourneyOver/CTRPF-AR-CHEAT-CODES).

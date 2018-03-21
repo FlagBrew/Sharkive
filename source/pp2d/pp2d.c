@@ -32,7 +32,6 @@
  */
 
 #include "pp2d.h"
-#include "loadbmp.h"
 
 static DVLB_s* vshader_dvlb;
 static shaderProgram_s program;
@@ -212,69 +211,6 @@ void pp2d_draw_texture_blend(size_t id, int x, int y, u32 color)
 	pp2d_texture_draw();
 }
 
-void pp2d_draw_texture_flip(size_t id, int x, int y, flipType fliptype)
-{
-	pp2d_texture_select(id, x, y);
-	pp2d_texture_flip(fliptype);
-	pp2d_texture_draw();
-}
-
-void pp2d_draw_texture_rotate(size_t id, int x, int y, float angle)
-{
-	pp2d_texture_select(id, x, y);
-	pp2d_texture_rotate(angle);
-	pp2d_texture_draw();		
-}
-
-void pp2d_draw_texture_scale(size_t id, int x, int y, float scaleX, float scaleY)
-{
-	pp2d_texture_select(id, x, y);
-	pp2d_texture_scale(scaleX, scaleY);
-	pp2d_texture_draw();
-}
-
-void pp2d_draw_texture_part(size_t id, int x, int y, int xbegin, int ybegin, int width, int height)
-{
-	pp2d_texture_select_part(id, x, y, xbegin, ybegin, width, height);
-	pp2d_texture_draw();
-}
-
-void pp2d_draw_wtext(float x, float y, float scaleX, float scaleY, u32 color, const wchar_t* text) 
-{
-	pp2d_draw_wtext_wrap(x, y, scaleX, scaleY, color, -1, text);
-}
-
-void pp2d_draw_wtext_center(gfxScreen_t target, float y, float scaleX, float scaleY, u32 color, const wchar_t* text)
-{
-	float width = pp2d_get_wtext_width(text, scaleX, scaleY);
-	float x = ((target == GFX_TOP ? TOP_WIDTH : BOTTOM_WIDTH) - width) / 2;
-	pp2d_draw_wtext(x, y, scaleX, scaleY, color, text);
-}
-
-void pp2d_draw_wtext_wrap(float x, float y, float scaleX, float scaleY, u32 color, float wrapX, const wchar_t* text) 
-{
-	if (text == NULL)
-		return;
-	
-	u32 size = wcslen(text) * sizeof(wchar_t);
-	char buf[size];
-	memset(buf, 0, size);
-	utf32_to_utf8((uint8_t*)buf, (uint32_t*)text, size);
-	buf[size - 1] = '\0';	
-	
-	pp2d_draw_text_wrap(x, y, scaleX, scaleY, color, wrapX, buf);
-}
-
-void pp2d_draw_wtextf(float x, float y, float scaleX, float scaleY, u32 color, const wchar_t* text, ...) 
-{
-	wchar_t buffer[256];
-	va_list args;
-	va_start(args, text);
-	vswprintf(buffer, 256, text, args);
-	pp2d_draw_wtext(x, y, scaleX, scaleY, color, buffer);
-	va_end(args);
-}
-
 void pp2d_end_draw(void)
 {
 	C3D_FrameEnd(0);
@@ -348,12 +284,8 @@ Result pp2d_init(void)
 		return res;
 	
 	pp2d_set_texture_filter(GPU_NEAREST, GPU_NEAREST);
-
-#ifdef BUILDTOOLS
-	vshader_dvlb = DVLB_ParseFile((u32*)vshader_shbin, vshader_shbin_len);
-#else
+	
 	vshader_dvlb = DVLB_ParseFile((u32*)vshader_shbin, vshader_shbin_size);
-#endif
 
 	shaderProgramInit(&program);
 	shaderProgramSetVsh(&program, &vshader_dvlb->DVLE[0]);
@@ -483,45 +415,6 @@ float pp2d_get_text_width(const char* text, float scaleX, float scaleY)
 	return width;
 }
 
-float pp2d_get_wtext_height(const wchar_t* text, float scaleX, float scaleY)
-{
-	u32 size = wcslen(text) * sizeof(wchar_t);
-	char buf[size];
-	memset(buf, 0, size);
-	utf32_to_utf8((uint8_t*)buf, (uint32_t*)text, size);
-	buf[size - 1] = '\0';
-	
-	float height;
-	pp2d_get_text_size_internal(NULL, &height, scaleX, scaleY, -1, buf);
-	return height;
-}
-
-float pp2d_get_wtext_width(const wchar_t* text, float scaleX, float scaleY)
-{
-	u32 size = wcslen(text) * sizeof(wchar_t);
-	char buf[size];
-	memset(buf, 0, size);
-	utf32_to_utf8((uint8_t*)buf, (uint32_t*)text, size);
-	buf[size - 1] = '\0';
-	
-	float width;
-	pp2d_get_text_size_internal(&width, NULL, scaleX, scaleY, -1, buf);
-	return width;
-}
-
-void pp2d_load_texture_bmp(size_t id, const char* path)
-{
-	if (id >= MAX_TEXTURES)
-		return;
-	
-	u8* image = NULL;
-	unsigned int width = 0, height = 0;
-	loadbmp_decode_file(path, &image, &width, &height);
-	
-	pp2d_load_texture_memory(id, image, width, height);
-	free(image);
-}
-
 void pp2d_load_texture_memory(size_t id, void* buf, u32 width, u32 height)
 {
 	u32 w_pow2 = pp2d_get_next_pow2(width);
@@ -580,44 +473,6 @@ void pp2d_load_texture_png(size_t id, const char* path)
 	free(image);
 }
 
-void pp2d_load_texture_png_memory(size_t id, void* buf, size_t buf_size)
-{
-	if (id >= MAX_TEXTURES)
-		return;
-
-	u8* image;
-	unsigned width;
-	unsigned height;
-
-	lodepng_decode32(&image, &width, &height, buf, buf_size);
-
-	for (u32 i = 0; i < width; i++)
-	{
-		for (u32 j = 0; j < height; j++)
-		{
-			u32 p = (i + j*width) * 4;
-
-			u8 r = *(u8*)(image + p);
-			u8 g = *(u8*)(image + p + 1);
-			u8 b = *(u8*)(image + p + 2);
-			u8 a = *(u8*)(image + p + 3);
-
-			*(image + p) = a;
-			*(image + p + 1) = b;
-			*(image + p + 2) = g;
-			*(image + p + 3) = r;
-		}
-	}
-
-	pp2d_load_texture_memory(id, image, width, height);
-	free(image);
-}
-
-void pp2d_set_3D(int enable)
-{
-	gfxSet3D(enable);
-}
-
 void pp2d_set_screen_color(gfxScreen_t target, u32 color)
 {
 	if (target == GFX_TOP)
@@ -672,54 +527,9 @@ void pp2d_texture_select(size_t id, int x, int y)
 	textureData.initialized = true;
 }
 
-void pp2d_texture_select_part(size_t id, int x, int y, int xbegin, int ybegin, int width, int height)
-{
-	if (id >= MAX_TEXTURES)
-	{
-		textureData.initialized = false;
-		return;
-	}
-	
-	textureData.id = id;
-	textureData.x = x;
-	textureData.y = y;
-	textureData.xbegin = xbegin;
-	textureData.ybegin = ybegin;
-	textureData.width = width;
-	textureData.height = height;
-	textureData.color = PP2D_NEUTRAL;
-	textureData.fliptype = NONE;
-	textureData.scaleX = 1;
-	textureData.scaleY = 1;
-	textureData.angle = 0;
-	textureData.depth = DEFAULT_DEPTH;
-	textureData.initialized = true;
-}
-
 void pp2d_texture_blend(u32 color)
 {
 	textureData.color = color;
-}
-
-void pp2d_texture_scale(float scaleX, float scaleY)
-{
-	textureData.scaleX = scaleX;
-	textureData.scaleY = scaleY;
-}
-
-void pp2d_texture_flip(flipType fliptype)
-{
-	textureData.fliptype = fliptype;
-}
-
-void pp2d_texture_rotate(float angle)
-{
-	textureData.angle = angle;
-}
-
-void pp2d_texture_depth(float depth)
-{
-	textureData.depth = depth;
 }
 
 void pp2d_texture_draw(void)

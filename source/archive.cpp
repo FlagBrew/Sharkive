@@ -64,7 +64,6 @@ bool isSaveAccessible(FS_MediaType mediatype, u32 lowid, u32 highid)
 		FSUSER_CloseArchive(archive);
 		return true;
 	}
-	
 	return false;
 }
 
@@ -77,6 +76,5 @@ bool isExtdataAccessible(u32 extdata)
 		FSUSER_CloseArchive(archive);
 		return true;
 	}
-	
 	return false;
 }

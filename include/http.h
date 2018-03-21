@@ -21,6 +21,6 @@
 
 #include "common.h"
 
-Result httpDownloadFile(std::string url, std::u16string path, u32* size);
+Result download(const char* url, const char* path, u32* sz);
 
 #endif

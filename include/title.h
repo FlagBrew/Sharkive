@@ -60,7 +60,7 @@ void getTitle(Title &dst, int i);
 int getTitlesCount(void);
 size_t getTextureId(int i);
 
-void loadTitles(bool forceRefresh);
+void loadTitles(void);
 void setAvailableOnDB(std::string name, std::string url, u32 size);
 void setAvailableOnSD(size_t index, u32 size);
 

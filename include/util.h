@@ -25,4 +25,6 @@ void servicesExit(void);
 void servicesInit(void);
 void calculateTitleDBHash(u8* hash);
 
+std::string getTime(void);
+
 #endif

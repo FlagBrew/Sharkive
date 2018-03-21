@@ -18,8 +18,12 @@
 
 #include "util.h"
 
+void *socubuf;
+
 void servicesExit(void)
 {
+	socExit();
+	free(socubuf);
 	archiveExit();
 	amExit();
 	srvExit();
@@ -55,6 +59,9 @@ void servicesInit(void)
 	pp2d_load_texture_png(TEXTURE_CHECKBOX, "romfs:/checkbox.png");
 	pp2d_load_texture_png(TEXTURE_ICON, "romfs:/shark.png");
 	pp2d_load_texture_png(TEXTURE_NOICON, "romfs:/noicon.png");
+
+	socubuf = memalign(0x1000, 0x100000);
+	socInit((u32*)socubuf, 0x100000);
 }
 
 void calculateTitleDBHash(u8* hash)
@@ -78,4 +85,16 @@ void calculateTitleDBHash(u8* hash)
 	}
 	
 	sha256(hash, (u8*)buf, (titleCount + 1) * sizeof(u64));
+}
+
+std::string getTime(void)
+{
+	char buf[80] = {0};
+	time_t unixTime = time(NULL);
+	struct tm* timeStruct = gmtime((const time_t*)&unixTime);
+	
+	sprintf(buf, "%02i:%02i:%02i", timeStruct->tm_hour, timeStruct->tm_min, timeStruct->tm_sec);
+	
+	std::string ret(buf);
+	return ret;
 }

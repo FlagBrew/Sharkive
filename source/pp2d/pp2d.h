@@ -79,20 +79,6 @@ extern "C" {
  */
 #define ABGR8(a, b, g, r) ((((a)&0xFF)<<0) | (((b)&0xFF)<<8) | (((g)&0xFF)<<16) | (((r)&0xFF)<<24))
 
-/**
- * @brief Converts a RGB565 color to RGBA8 color (adds maximum alpha)
- * @param rgb 565 to be converted
- */
-#define RGB565_TO_RGBA8(rgb) \
-	(RGBA8(((rgb>>11)&0x1F)*0xFF/0x1F, ((rgb>>5)&0x3F)*0xFF/0x3F, (rgb&0x1F)*0xFF/0x1F, 255))
-	
-/**
- * @brief Converts a RGB565 color to ABGR8 color (adds maximum alpha)
- * @param rgb 565 to be converted
- */
-#define RGB565_TO_ABGR8(rgb) \
-	(RGBA8(255, (rgb&0x1F)*0xFF/0x1F, ((rgb>>5)&0x3F)*0xFF/0x3F, ((rgb>>11)&0x1F)*0xFF/0x1F))
-
 #define BACKGROUND_COLOR ABGR8(255, 0, 0, 0)
 #define PP2D_NEUTRAL RGBA8(255, 255, 255, 255)
 
@@ -200,93 +186,6 @@ void pp2d_draw_texture(size_t id, int x, int y);
 void pp2d_draw_texture_blend(size_t id, int x, int y, u32 color);
 
 /**
- * @brief Prints a flipped texture
- * @param id of the texture 
- * @param x position on the screen to draw the texture
- * @param y position on the screen to draw the texture
- * @param fliptype HORIZONTAL, VERTICAL or BOTH
- */
-
-void pp2d_draw_texture_flip(size_t id, int x, int y, flipType fliptype);
-
-/**
- * @brief Prints a rotated texture
- * @param id of the texture 
- * @param x position on the screen to draw the texture
- * @param y position on the screen to draw the texture
- * @param angle in degrees to rotate the texture
- */
-void pp2d_draw_texture_rotate(size_t id, int x, int y, float angle);
-
-/**
- * @brief Prints a texture with a scale factor
- * @param id of the texture 
- * @param x position on the screen to draw the texture
- * @param y position on the screen to draw the texture
- * @param scaleX width scale factor
- * @param scaleY height scale factor
- */
-void pp2d_draw_texture_scale(size_t id, int x, int y, float scaleX, float scaleY);
-
-/**
- * @brief Prints a portion of a texture
- * @param id of the texture 
- * @param x position on the screen to draw the texture
- * @param y position on the screen to draw the texture
- * @param xbegin position to start drawing
- * @param ybegin position to start drawing
- * @param width to draw from the xbegin position 
- * @param height to draw from the ybegin position
- */
-void pp2d_draw_texture_part(size_t id, int x, int y, int xbegin, int ybegin, int width, int height);
-
-/**
- * @brief Prints a wchar_t pointer
- * @param x position to start drawing
- * @param y position to start drawing
- * @param scaleX multiplier for the text width
- * @param scaleY multiplier for the text height
- * @param color RGBA8 the text will be drawn
- * @param text to be printed on the screen
- */
-void pp2d_draw_wtext(float x, float y, float scaleX, float scaleY, u32 color, const wchar_t* text); 
-
-/**
- * @brief Prints a wchar_t pointer in the middle of the target screen
- * @param target screen to draw the text to
- * @param y position to start drawing
- * @param scaleX multiplier for the text width
- * @param scaleY multiplier for the text height
- * @param color RGBA8 the text will be drawn
- * @param text to be printed on the screen
- */
-void pp2d_draw_wtext_center(gfxScreen_t target, float y, float scaleX, float scaleY, u32 color, const wchar_t* text);
-
-/**
- * @brief Prints a wchar_t pointer
- * @param x position to start drawing
- * @param y position to start drawing
- * @param scaleX multiplier for the text width
- * @param scaleY multiplier for the text height
- * @param color RGBA8 the text will be drawn
- * @param wrapX wrap width
- * @param text to be printed on the screen
- */
-void pp2d_draw_wtext_wrap(float x, float y, float scaleX, float scaleY, u32 color, float wrapX, const wchar_t* text);
-
-/**
- * @brief Prints a wchar_t pointer with arguments
- * @param x position to start drawing
- * @param y position to start drawing
- * @param scaleX multiplier for the text width
- * @param scaleY multiplier for the text height
- * @param color RGBA8 the text will be drawn
- * @param text to be printed on the screen
- * @param ... arguments
- */
-void pp2d_draw_wtextf(float x, float y, float scaleX, float scaleY, u32 color, const wchar_t* text, ...);
-
-/**
  * @brief Ends a frame
  */
 void pp2d_end_draw(void);
@@ -342,35 +241,10 @@ void pp2d_get_text_size(float* width, float* height, float scaleX, float scaleY,
 float pp2d_get_text_width(const char* text, float scaleX, float scaleY);
 
 /**
- * @brief Calculates a wchar_t pointer height
- * @param text wchar_t pointer to calculate the height of
- * @param scaleX multiplier for the text width 
- * @param scaleY multiplier for the text height
- * @return height the text will have if rendered in the supplied conditions
- */
-float pp2d_get_wtext_height(const wchar_t* text, float scaleX, float scaleY);
-
-/**
- * @brief Calculates a wchar_t pointer width
- * @param text wchar_t pointer to calculate the width of
- * @param scaleX multiplier for the text width 
- * @param scaleY multiplier for the text height
- * @return width the text will have if rendered in the supplied conditions
- */
-float pp2d_get_wtext_width(const wchar_t* text, float scaleX, float scaleY);
-
-/**
  * @brief Frees a texture
  * @param id of the texture to free
  */
 void pp2d_free_texture(size_t id);
-
-/**
- * @brief Loads a texture from a bmp file
- * @param id of the texture
- * @param path where the bmp file is located
- */
-void pp2d_load_texture_bmp(size_t id, const char* path);
 
 /**
  * @brief Loads a texture from a a buffer in memory
@@ -387,20 +261,6 @@ void pp2d_load_texture_memory(size_t id, void* buf, u32 width, u32 height);
  * @param path where the png file is located 
  */
 void pp2d_load_texture_png(size_t id, const char* path);
-
-/**
- * @brief Loads a texture from a buffer in memory
- * @param id of the texture
- * @param buf buffer where the png is stored
- * @param buf_size size of buffer
- */
-void pp2d_load_texture_png_memory(size_t id, void* buf, size_t buf_size);
-
-/**
- * @brief Enables 3D service
- * @param enable integer
- */
-void pp2d_set_3D(int enable);
 
 /**
  * @brief Sets a background color for the specified screen
@@ -425,47 +285,10 @@ void pp2d_set_texture_filter(GPU_TEXTURE_FILTER_PARAM magFilter, GPU_TEXTURE_FIL
 void pp2d_texture_select(size_t id, int x, int y);
 
 /**
- * @brief Inits a portion of a texture to be drawn
- * @param id of the texture 
- * @param x position on the screen to draw the texture
- * @param y position on the screen to draw the texture
- * @param xbegin position to start drawing
- * @param ybegin position to start drawing
- * @param width to draw from the xbegin position 
- * @param height to draw from the ybegin position
- */
-void pp2d_texture_select_part(size_t id, int x, int y, int xbegin, int ybegin, int width, int height);
-
-/**
  * @brief Modulates a texture with a color
  * @param color to modulate the texture
  */
 void pp2d_texture_blend(u32 color);
-
-/**
- * @brief Scales a texture
- * @param scaleX width scale factor
- * @param scaleY height scale factor
- */
-void pp2d_texture_scale(float scaleX, float scaleY);
-
-/**
- * @brief Flips a texture
- * @param fliptype HORIZONTAL, VERTICAL or BOTH
- */
-void pp2d_texture_flip(flipType fliptype);
-
-/**
- * @brief Rotates a texture
- * @param angle in degrees to rotate the texture
- */
-void pp2d_texture_rotate(float angle);
-
-/**
- * @brief Sets the depth of a texture
- * @param depth factor of the texture
- */
-void pp2d_texture_depth(float depth);
 
 /**
  * @brief Renders a texture
