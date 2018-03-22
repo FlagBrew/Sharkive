@@ -1,8 +1,8 @@
-[Infinite Ammo-Enable AFTER Hunt Starts]
+[Infinite Ammo (Enable AFTER Hunt Starts)]
 D3000000 10000000
 04B6CC1C 00000007
 
-[Always have Slow-Mo(Tap to Reload it]
+[Always have Slow-Mo (Tap to Reload it)]
 D3000000 10000000
 04564B04 00000064
 
