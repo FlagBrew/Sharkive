@@ -6,11 +6,11 @@ Gateshark cheat code manager for Luma3DS 9.1+.
 
 ## Usage
 
-1: Run Sharkive.
-2: You can download cheats for your games. (It's possible that some cheats don't work or crash while you try to use them).
-3: Run your desired game.
-4: Open Luma3DS's Rosalina menu.
-5: Go to the `Cheats` section located on the top. Apply your cheats and return back to the game. You'll now be able to use your cheat.
+* 1: Run Sharkive.
+* 2: You can download cheats for your games. (It's possible that some cheats don't work or crash while you try to use them).
+* 3: Run your desired game.
+* 4: Open Luma3DS's Rosalina menu.
+* 5: Go to the `Cheats` section located on the top. Apply your cheats and return back to the game. You'll now be able to use your cheat.
 
 ## Database
 
