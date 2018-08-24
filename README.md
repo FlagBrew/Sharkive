@@ -26,7 +26,7 @@ Also, as you may notice, Sharkive is almost totally based on the legacy Checkpoi
 
 ## License
 
-This project is licensed under the GNU GPLv3. See [LICENSE.md](https://github.com/BernardoGiordano/Sharkive/blob/master/LICENSE) for details.
+This project is licensed under the GNU GPLv3. See [LICENSE.md](https://github.com/FlagBrew/Sharkive/blob/master/LICENSE) for details.
 
 ## Credits
 
