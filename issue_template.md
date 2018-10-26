@@ -13,6 +13,8 @@
 * **Title ID**:
 * **Product code**:
 * **Game version**:
+* **Luma version**:
+<!-- if using luma nightly please add the first 7 digits of the nightly commit its from. example latest nightly would be "bd15f51" -->
 
 ### Not working codes
 
