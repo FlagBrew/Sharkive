@@ -30,7 +30,7 @@ def main(args):
                 else:
                     db[titleid][selectedCheat].append(line)
     with open(os.path.join('build', args.type + '.json'), 'w') as f:
-        f.write(json.dumps(db, indent = 2))
+        f.write(json.dumps(db))
 
 if __name__ == '__main__':
     main(parser.parse_args())
