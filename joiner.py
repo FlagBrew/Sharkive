@@ -24,7 +24,9 @@ def main(args):
             db[titleid] = {}
             selectedCheat = lines[0]
             for line in lines:
-                if line.startswith('[') and line.endswith(']'):
+                if line.startswith('{') and line.endswith('}'):
+                    pass
+                elif line.startswith('[') and line.endswith(']'):
                     selectedCheat = line[1:-1]
                     db[titleid][selectedCheat] = []
                 else:
