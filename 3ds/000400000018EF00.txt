@@ -88,7 +88,6 @@ D7000000 00000000
 C0000000 00002710
 D9000000 00000000
 D2000000 00000000
-{Use / to change the item\nOnly enable this code when you're on the bag item menu}
 
 [Player Item Modifier]
 DFFFFFFF 00000002
@@ -113,16 +112,14 @@ D7000000 00000000
 C0000000 00002710
 D9000000 00000000
 D2000000 00000000
-{Use / to change the item\nOnly enable this code when you're on the player item menu}
 
-[Infinite item usage]
+[Infinite item usage (Enable L + Select | Disable R + Select)]
 DD000000 00000204
 002280CC E320F000
 D2000000 00000000
 DD000000 00000104
 002280CC EB043229
 D2000000 00000000
-{Enable L + Select\nDisable R + Select\nWhile enabled, you can duplicate objects from your characters (transfert).}
 
 [Camera CStick Controller]
 F0000001 00000001
@@ -144,9 +141,8 @@ D0000000 00000000
 D3000000 00000000
 00628138 41300000
 D2000000 00000000
-{By Sc0tline}
 
-[Infinite MP (You must have enough PM to at least cast one spell)]
+[Infinite MP (You must have enough PM to at least cast one spell) (Select+L: Enable | Select+R: Disable)]
 D3000000 003320D0
 DD000000 00000204
 E0000000 00000010
@@ -159,9 +155,8 @@ E1D022BA E3A03000
 E0811002 E6BF1071
 D0000000 00000000
 D2000000 00000000
-{Select+L: Enable\nSelect+R: Disable}
 
-[Infinite HP]
+[Infinite HP (Select+L: Enable | Select+R: Disable)]
 D3000000 00230B80
 DD000000 00000204
 E0000000 00000030
@@ -181,9 +176,8 @@ E3510000 D1A01003
 E1510002 A1A01002
 E1C012B4 E12FFF1E
 D2000000 00000000
-{Select + L: Enable\nSelect + R: Disable}
 
-[Infinite HP + One hit kill]
+[Infinite HP + One hit kill (Select+L: Enable | Select+R: Disable)]
 D3000000 00230B80
 DD000000 00000204
 E0000000 00000018
@@ -200,9 +194,8 @@ E3510000 D1A01003
 E1510002 A1A01002
 E1C012B4 E12FFF1E
 D2000000 00000000
-{Select + L: Enable\nSelect + R: Disable}
 
-[Exp multiplier]
+[Exp multiplier (Select+L: Enable | Select+R: Disable)]
 DD000000 00000204
 E03B5F80 00000028
 EE001A10 EDDF0A06
@@ -220,4 +213,3 @@ DD000000 00000104
 00195BE4 E5801000
 D0000000 00000000
 D2000000 00000000
-{Select + L: Enable\nSelect + R: Disable}

@@ -3,12 +3,11 @@
 [Max Money]
 002E47E1 E6FFFFFF
 
-[Inf NOS-Boost]
+[Inf NOS-Boost (Gauge will occasionally go down, but you will get it right back)]
 602CC674 00000000
 B02CC674 00000000
 00000AA4 42C80000
 D2000000 00000000
-{Gauge will occasionally go down, but you will get it right back}
 
 [Inf Flash Ammo]
 681272FC 00000000

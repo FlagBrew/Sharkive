@@ -17,7 +17,6 @@ C0000000 00000031
 20661650 000000AA
 DC000000 000000F8
 D2000000 00000000
-{Recommended to Turn On before you enter the Song Select area.  You will not notice a change right away if you turn it on while already in the Song Select area.}
 
 [Unlock Hard/Super Hard Modes]
 00661058 00090009
@@ -32,7 +31,6 @@ C0000000 00000031
 20661628 00000001
 DC000000 000000F8
 D2000000 00000000
-{Recommended to Turn On before you enter the Song Select area.  You will not notice a change right away if you turn it on while already in the Song Select area.}
 
 [Max High Score on All Songs]
 D3000000 00000000
@@ -97,7 +95,6 @@ C0000000 00000031
 20661634 00000000
 DC000000 000000F8
 D2000000 00000000
-{Recommended to Turn On before you enter the Song Select area.  You will not notice a change right away if you turn it on while already in the Song Select area.}
 
 [Unlock All Items]
 D3000000 00000000
