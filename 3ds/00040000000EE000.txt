@@ -1,5 +1,3 @@
-
-
 [(Amiibo) Set Defense to 200]
 D3000000 30000000
 210D6B94 000000FF

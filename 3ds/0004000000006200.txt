@@ -1,5 +1,3 @@
-
-
 [Infinite Health Left Side]
 188AC1C0 00007070
 

@@ -1,5 +1,3 @@
-
-
 [Gives you 60 000 money! And updates what you get with collecting money]
 D3000000 15000000
 003C0DA4 0000EA60

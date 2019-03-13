@@ -1,5 +1,3 @@
-
-
 [Zenny Modifier (See note)]
 DD000000 00000102
 08369410 000F423F

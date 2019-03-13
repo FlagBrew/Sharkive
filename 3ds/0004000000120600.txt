@@ -1,5 +1,3 @@
-
-
 [Max Coins]
 009FCDE4 0098967F
 

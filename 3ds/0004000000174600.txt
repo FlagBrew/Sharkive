@@ -1,5 +1,3 @@
-
-
 [Max EXP for Slots 1 through 3 v1.0]
 00A130E4 004C4B40
 00A131EC 004C4B40

@@ -1,5 +1,3 @@
-
-
 [Start+up = copy held egg data]
 D3000000 0862DA88
 A0000004 FF0000FF

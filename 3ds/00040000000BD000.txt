@@ -1,6 +1,3 @@
-
-
-
 [Running Into Enemies Kills Them]
 D3000000 08000000
 20801CE9 00000000

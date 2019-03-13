@@ -1,5 +1,3 @@
-
-
 [Ultimate Song Score]
 08001028 416312CF
 08000F68 42C80000

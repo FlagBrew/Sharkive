@@ -1,5 +1,3 @@
-
-
 [Max Precision Points]
 2038FF30 00000063
 

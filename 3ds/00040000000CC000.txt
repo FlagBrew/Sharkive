@@ -1,5 +1,3 @@
-
-
 [500 Banana Coins, Slot1]
 08A6BFF0 000001F4
 

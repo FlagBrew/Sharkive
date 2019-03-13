@@ -1,5 +1,3 @@
-
-
 [Money and infinite]
 28FDC878 0000007F
 08FDC878 77BFFFFF

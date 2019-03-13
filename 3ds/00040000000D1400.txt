@@ -1,5 +1,3 @@
-
-
 [Increased FOV]
 0010E0AC 3E800000
 

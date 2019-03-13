@@ -1,5 +1,3 @@
-
-
 [Chun-li/Xiaoyu Max HP/SP v1.0]
 D3000000 30000000
 015680EC 000F423F

@@ -1,5 +1,3 @@
-
-
 [Exp After Battle]
 1042F674 00007FFF
 

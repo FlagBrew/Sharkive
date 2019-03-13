@@ -1,5 +1,3 @@
-
-
 [Invincible L+RIGHT BrowserCastle]
 DD000000 00000210
 D3000000 00000000

@@ -1,5 +1,3 @@
-
-
 [Monster3 Infinite Health]
 980D2436 F7FF0800
 B80D2434 00000000

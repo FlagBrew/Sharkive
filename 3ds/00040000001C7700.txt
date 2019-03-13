@@ -1,5 +1,3 @@
-
-
 [SELECT UP Gunvolt SP no decrease]
 DD000000 00000044
 20158D99 00000016

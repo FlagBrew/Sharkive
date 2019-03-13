@@ -1,5 +1,3 @@
-
-
 [Freeze Timer (L+R+Up = Freeze Timer|L+R+Down = Set Timer To 0)]
 DD000000 00000340
 083024F8 4A000000

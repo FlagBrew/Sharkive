@@ -1,5 +1,3 @@
-
-
 [Infinite Health (Megaman 1)]
 28E342B5 0000001C
 

@@ -1,5 +1,3 @@
-
-
 [Infinite Red Blocks]
 204818FF 00000041
 

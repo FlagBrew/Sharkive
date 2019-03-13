@@ -1,5 +1,3 @@
-
-
 [Max Lives after losing 1]
 D3000000 00000000
 00138C78 E1C023BE

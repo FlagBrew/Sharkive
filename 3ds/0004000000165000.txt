@@ -1,5 +1,3 @@
-
-
 [CPU Player Infinite Ninja Arts]
 D9000000 08344F58
 D6000000 08344F54

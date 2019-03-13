@@ -1,5 +1,3 @@
-
-
 [Unlock all weapons and coins]
 D3000000 10000000
 C0000000 00000088

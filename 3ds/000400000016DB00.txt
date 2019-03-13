@@ -1,5 +1,3 @@
-
-
 [Character Slot 1 Inf HP]
 0032F9A8 0000FFFF
 

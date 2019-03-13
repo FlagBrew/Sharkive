@@ -1,5 +1,3 @@
-
-
 [Unlock all VHS (beat a level)]
 D3000000 10000000
 C0000000 0000000B

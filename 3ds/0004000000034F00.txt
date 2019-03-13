@@ -1,5 +1,3 @@
-
-
 [Infinite Health]
 DA000000 0074B02C
 D7000000 0074B028

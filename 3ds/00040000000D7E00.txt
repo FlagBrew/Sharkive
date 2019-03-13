@@ -1,5 +1,3 @@
-
-
 [Torpedoes hits changer]
 603E2020 00000000
 B03E2020 00000000

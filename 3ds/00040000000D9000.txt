@@ -1,5 +1,3 @@
-
-
 [Max money]
 006E85EC 000F423F
 

@@ -1,5 +1,3 @@
-
-
 [Max Life Level]
 2886CC81 00000008
 

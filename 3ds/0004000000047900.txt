@@ -1,5 +1,3 @@
-
-
 [Villager Affection Multiplier]
 94000130 FFFB0000
 C0000000 0000001E

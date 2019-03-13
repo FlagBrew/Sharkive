@@ -1,5 +1,3 @@
-
-
 [(SELECT+Y) MAX Money v1.1 (English Translation) (English Translation)]
 DD000000 00000804
 D3000000 00000000

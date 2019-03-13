@@ -1,5 +1,3 @@
-
-
 [Max Record points]
 08261F0C FFFFFFFF
 

@@ -1,5 +1,3 @@
-
-
 [Max Coins (Press Y)]
 DD000000 00000800
 104A2810 0000FFFF

@@ -1,5 +1,3 @@
-
-
 [Jump in Midair(Disables hanging on horizontal ropes.)]
 D3000000 08000000
 208008A3 0000003E

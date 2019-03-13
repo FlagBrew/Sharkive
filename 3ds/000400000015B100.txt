@@ -1,5 +1,3 @@
-
-
 [Infinite Ammo-Rifle]
 D3000000 30000000
 006F7A2C 012C0001

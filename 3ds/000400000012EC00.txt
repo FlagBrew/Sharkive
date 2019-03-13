@@ -1,5 +1,3 @@
-
-
 [Clear Entire Board(Hold Y and continue to hold until piece is placed.)]
 D3000000 00000000
 00241B74 0A000004

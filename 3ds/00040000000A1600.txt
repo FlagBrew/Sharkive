@@ -1,5 +1,3 @@
-
-
 [Energy Balancer]
 28880FEE 00000009
 

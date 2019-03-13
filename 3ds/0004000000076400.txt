@@ -1,5 +1,3 @@
-
-
 [Flash Light Quick Charge]
 00356040 42800000
 

@@ -1,5 +1,3 @@
-
-
 [Push R MoonJump Straight Up Only]
 DD000000 00000100
 2884C6A0 00000080

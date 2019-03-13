@@ -1,5 +1,3 @@
-
-
 [Current Energies = current cap V2.2.0]
 D3000000 30756D6C
 C0000000 00000005

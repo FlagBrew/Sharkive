@@ -1,5 +1,3 @@
-
-
 [99999 Maximum Magic Points]
 08092328 0001869F
 

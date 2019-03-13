@@ -1,5 +1,3 @@
-
-
 [Max Infinite Lives]
 D3000000 00000000
 004101B8 E5801004
@@ -9,12 +7,12 @@ D3000000 00000000
 00224474 E1A00000
 D2000000 00000000
 
-[Always have Tanooki suit] 
-D3000000 14000000 
-00162AD5 00000004 
- 
-[Always have 99 Coins (turn off and on to reactive)] 
-D3000000 14000000 
+[Always have Tanooki suit]
+D3000000 14000000
+00162AD5 00000004
+
+[Always have 99 Coins (turn off and on to reactive)]
+D3000000 14000000
 0015E468 00000063
 
 [Rapid Fireballs]

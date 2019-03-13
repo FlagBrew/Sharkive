@@ -1,5 +1,3 @@
-
-
 [Infinite Health (1vs1)]
 08A8F020 7FFFFFFF
 

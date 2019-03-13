@@ -1,5 +1,3 @@
-
-
 [Infinite Stamina]
 28001E4E 00000080
 

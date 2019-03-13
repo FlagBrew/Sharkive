@@ -1,5 +1,3 @@
-
-
 [Unlimited Bombs]
 0066B200 000000FF
 00814B44 000000FF

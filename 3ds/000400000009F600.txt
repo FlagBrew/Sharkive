@@ -1,5 +1,3 @@
-
-
 [Highest Combo 9999]
 00482A7C 0000270F
 

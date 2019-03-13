@@ -1,5 +1,3 @@
-
-
 [Max exp. all characters]
 C0000000 00000019
 00305130 000F423F

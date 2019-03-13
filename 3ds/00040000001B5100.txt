@@ -1,5 +1,3 @@
-
-
 [Fast Treasure Hunt v1.2]
 0044E538 E3A04000
 0044E53C E5C34000

@@ -1,5 +1,3 @@
-
-
 [256x experience after battle]
 0045EFC0 EE102A10
 0045EFC4 E92D4002

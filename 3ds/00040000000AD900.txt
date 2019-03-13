@@ -1,5 +1,3 @@
-
-
 [Hero Cards Stats]
 008E85AC 270F270F
 108E85B4 0000270F

@@ -1,5 +1,3 @@
-
-
 [Initial BP for upgrade]
 202E1B18 00000063
 

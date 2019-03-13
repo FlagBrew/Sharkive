@@ -1,5 +1,3 @@
-
-
 [Infinite Lives]
 00BCBBDB 00000009
 086B869D 00000009

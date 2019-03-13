@@ -1,12 +1,10 @@
-
-
 [Bean ji ji]
-004A28F2 00000063 
+004A28F2 00000063
 
 [Hierva Antidoto]
-004A2823 00000063 
+004A2823 00000063
 
-[Boo Cookies] 
+[Boo Cookies]
 004A2824 00000063
 
 [Champinion great]

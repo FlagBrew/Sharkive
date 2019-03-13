@@ -1,5 +1,3 @@
-
-
 [Max/Inf Hint Coins]
 003FE17A 000003E7
 003FE17C 000003E7

@@ -1,5 +1,3 @@
-
-
 [Max Affection villagers]
 C0000000 00000030
 1907D556 000003E8

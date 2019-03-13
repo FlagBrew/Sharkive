@@ -1,5 +1,3 @@
-
-
 [Max Score, No Save File]
 58314F90 00005544
 08314EC0 3B9AC9FF
