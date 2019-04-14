@@ -27,7 +27,7 @@ Sharkive relies on a manually populated database to download and apply new cheat
 **A:** This means that the cheat makes use of a key combo. If the cheat name doesn't mention the key combo you'll have to look up the code and translate the line(s) starting `DD000000` to figure out what the key combo is.
 
 **Q:** Some cheat names are cut off in the list. Can you make the full name display? Can I read the full name somewhere?<br>
-**A:** Cheat names getting cut off is due to Luma, not Sharkive. The only thing we can potentially do is shorten the cheat's name. You can read the full cheat name by looking up the cheat file located either on your SD (see next question) or in [Sharkive's database](https://github.com/FlagBrew/Sharkive/tree/master/db) (you'll need your game's title ID in both cases).
+**A:** Cheat names getting cut off is due to Luma, not Sharkive. The only thing we can potentially do is shorten the cheat's name. You can read the full cheat name by looking up the cheat file located either on your SD or in [Sharkive's database](https://github.com/FlagBrew/Sharkive/tree/master) (you'll need your game's title ID in both cases).
 
 ## License
 
