@@ -1,4 +1,4 @@
-[Super Bomberman R 1.0.0]
+{Super Bomberman R 1.0.0}
 
 [Story Mode Infinite Lives]
 580f0000 01f033d8

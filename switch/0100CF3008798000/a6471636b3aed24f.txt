@@ -1,6 +1,4 @@
-[ACA NEOGEO Real Bout Fatal Fury 2 V1.0.0]
-
-01000000 0125b812 000000C0
+{ACA NEOGEO Real Bout Fatal Fury 2 V1.0.0}
 
 [P1 Infinite Super]
 04000000 0125b844 00803C3D

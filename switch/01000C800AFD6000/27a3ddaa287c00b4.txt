@@ -1,4 +1,4 @@
-[ACA NEOGEO Samurai Shodown V (V1.0)]
+{ACA NEOGEO Samurai Shodown V (V1.0)}
 
 [P1 Infinite HP]
 01000000 012869ac 0000007D

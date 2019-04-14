@@ -1,4 +1,4 @@
-[Beyblade Burst Battle Zero]
+{Beyblade Burst Battle Zero}
 
 [Inf. 999999 Money]
 580F0000 00C36A88

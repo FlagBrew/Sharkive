@@ -1,4 +1,4 @@
-[Cave Story+]
+{Cave Story+}
 
 [inf. HP x99]
 080F0000 0034ACA0 00000063 00000063

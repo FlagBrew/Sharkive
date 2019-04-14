@@ -1,4 +1,4 @@
-[Pokken Tournament DX]
+{Pokken Tournament DX}
 
 [#01# Player Inf HP]
 580F0000 0169FE40

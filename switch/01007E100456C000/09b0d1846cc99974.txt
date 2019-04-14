@@ -1,4 +1,4 @@
-[Guacamelee 2 1.0.0]
+{Guacamelee 2 1.0.0}
 
 [P1 Infinite HP v100]
 580f0000 01206DB8

@@ -1,4 +1,4 @@
-[Bayonetta 2]
+{Bayonetta 2}
 
 [Inf. Health]
 580F0000 018E3070

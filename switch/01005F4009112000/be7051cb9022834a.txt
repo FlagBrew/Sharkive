@@ -1,4 +1,4 @@
-[Nightmare Boy EUR 1.0.0]
+{Nightmare Boy EUR 1.0.0}
 
 [Infinite HP]
 01100000 01e6adfc 0000000a

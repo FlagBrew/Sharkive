@@ -1,4 +1,4 @@
-[Project Highrise Architects Edition]
+{Project Highrise Architects Edition}
 
 [Inf. 999.999.999 Money]
 580F0000 02930920

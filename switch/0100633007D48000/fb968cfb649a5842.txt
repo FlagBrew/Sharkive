@@ -1,4 +1,4 @@
-[Hollow Knight 1.4.3.2]
+{Hollow Knight 1.4.3.2}
 
 [Infinite HP]
 580f0000 027ede78

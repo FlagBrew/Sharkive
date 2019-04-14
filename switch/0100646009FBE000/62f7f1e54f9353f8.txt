@@ -1,4 +1,4 @@
-[Dead Cells 1.2.0]
+{Dead Cells 1.2.0}
 
 [2000000000 Coins]
 580f0000 014680C8

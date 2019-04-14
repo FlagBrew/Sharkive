@@ -1,4 +1,4 @@
-[Yoshi Crafted World (Demo)]
+{Yoshi Crafted World (Demo)}
 
 [Coin Setter: Input # for X's]
 040F0000 001E028C AA0003E0

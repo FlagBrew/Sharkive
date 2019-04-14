@@ -1,4 +1,4 @@
-[Onimusha Warlords]
+{Onimusha Warlords}
 
 [Infinite Health]
 04100000 5ab30f9a 00f800f8

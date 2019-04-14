@@ -1,4 +1,4 @@
-[Cartoon Network: Battle Crashers 1.0.0]
+{Cartoon Network: Battle Crashers 1.0.0}
 
 [All Characters Infinite HP]
 04000000 22200108 497423f0

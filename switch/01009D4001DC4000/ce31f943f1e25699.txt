@@ -1,4 +1,4 @@
-[ACA NEOGEO World Heroes Perfect 1.0.1]
+{ACA NEOGEO World Heroes Perfect 1.0.1}
 
 [P1 Infinite HP]
 04000000 0123F40C 0000C0C0

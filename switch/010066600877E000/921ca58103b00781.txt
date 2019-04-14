@@ -1,4 +1,4 @@
-[ACA NEOGEO Art of Fighting 2 (V1.0.1)]
+{ACA NEOGEO Art of Fighting 2 (V1.0.1)}
 
 
 [P1 Infinite HP]

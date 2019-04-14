@@ -1,4 +1,4 @@
-[Super Smash Bros Ultimate v1.0]
+{Super Smash Bros Ultimate v1.0}
 
 [9.999.999 Gold]
 580F0000 0649E6D8

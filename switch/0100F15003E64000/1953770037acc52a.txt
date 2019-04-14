@@ -1,4 +1,4 @@
-[Fire Emblem Warriors 1.0]
+{Fire Emblem Warriors 1.0}
 
 [Inf. Money]
 02100000 9743ca88 7F969800

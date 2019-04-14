@@ -1,4 +1,4 @@
-[DragonBlaze 1.0.0]
+{DragonBlaze 1.0.0}
 
 [P1 Infinite Lives]
 01000000 01419a38 00000009

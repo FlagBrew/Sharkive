@@ -1,4 +1,4 @@
-[GUNBIRD v1.0.3]
+{GUNBIRD v1.0.3}
 
 [P1 Infinite Lives]
 01000000 012e808c 00000009

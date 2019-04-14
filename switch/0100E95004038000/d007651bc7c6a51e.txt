@@ -1,4 +1,4 @@
-[Xenoblade Chronicles 2 2.0.2]
+{Xenoblade Chronicles 2 2.0.2}
 
 [999999999 GP]
 580f0000 00c284d8

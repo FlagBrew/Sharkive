@@ -1,4 +1,4 @@
-[NBA Playground 2 v1.0.4.0]
+{NBA Playground 2 v1.0.4.0}
 
 [Infnite Normal Coins]
 580F0000 059DA0F8

@@ -1,4 +1,4 @@
-[ACA NEOGEO World Heroes 2 Jet V1.0.0]
+{ACA NEOGEO World Heroes 2 Jet V1.0.0}
 
 [P1 Infinite HP]
 02000000 01260F24 00007676

@@ -1,4 +1,4 @@
-[Arcade Archives DOUBLE DRAGON 1.0.0]
+{Arcade Archives DOUBLE DRAGON 1.0.0}
 
 [P1 Infinite HP]
 580f0000 011021c0

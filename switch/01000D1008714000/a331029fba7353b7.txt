@@ -1,4 +1,4 @@
-[ACA NEOGEO Fatal Fury 3 v1.0.0]
+{ACA NEOGEO Fatal Fury 3 v1.0.0}
 
 [P1 Infinite HP]
 01000000 012592D8 00000060

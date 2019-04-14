@@ -1,4 +1,4 @@
-[Zoids Wild King of Blast (V1.0)]
+{Zoids Wild King of Blast (V1.0)}
 
 [#01# Player Infinite HP]
 580f0000 02BB7848

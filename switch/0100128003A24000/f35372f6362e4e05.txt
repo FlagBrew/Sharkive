@@ -1,4 +1,4 @@
-[Elliot Quest 2.0.5]
+{Elliot Quest 2.0.5}
 
 [Gold 9999]
 580f0000 007b2cb8

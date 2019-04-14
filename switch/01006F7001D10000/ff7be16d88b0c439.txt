@@ -1,4 +1,4 @@
-[Monster Boy and the Cursed Kingdom 1.0.4]
+{Monster Boy and the Cursed Kingdom 1.0.4}
 
 [Infinite HP]
 01100000 9BFBF848 000000A0

@@ -1,4 +1,4 @@
-[Okami HD]
+{Okami HD}
 
 [Change Money Max]
 08000000 0013E2C0 2A0003F3 97FE8A7E

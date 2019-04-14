@@ -1,4 +1,4 @@
-[Golf Story 1.0.0]
+{Golf Story 1.0.0}
 
 [Money 9999 v100]
 580f0000 01d2cda0

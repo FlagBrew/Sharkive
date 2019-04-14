@@ -1,4 +1,4 @@
-[Nightmare Boy 1.0.3]
+{Nightmare Boy 1.0.3}
 
 [Infinite HP]
 01100000 01e6adfc 00000005

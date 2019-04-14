@@ -1,4 +1,4 @@
-[Mario Tennis ACE 2.1.0]
+{Mario Tennis ACE 2.1.0}
 
 [01 Player Infinite Super]
 040F0000 02aecf40 466a6000

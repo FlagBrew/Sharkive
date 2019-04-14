@@ -1,4 +1,4 @@
-[Pokemon: Lets Go, Pikachu!]
+{Pokemon: Lets Go, Pikachu!}
 
 [Always 6IV wild Pokemon]
 04000000 00739A60 d503201f

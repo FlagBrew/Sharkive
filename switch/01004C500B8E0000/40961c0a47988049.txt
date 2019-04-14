@@ -1,4 +1,4 @@
-[Monkey King: Master of the Clouds 1.0.0]
+{Monkey King: Master of the Clouds 1.0.0}
 
 [Infinite Lives]
 01100000 017b5dcc 00000009

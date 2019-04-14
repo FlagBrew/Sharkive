@@ -1,4 +1,4 @@
-[Shovel Knight: Treasure Trove 3.0A]
+{Shovel Knight: Treasure Trove 3.0A}
 
 [99999 GP]
 04000000 00B37F24 0001869F

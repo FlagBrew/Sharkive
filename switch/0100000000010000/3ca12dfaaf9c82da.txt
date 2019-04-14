@@ -1,4 +1,4 @@
-[Super Mario Odyssey]
+{Super Mario Odyssey}
 
 [9999 Coins Save 1]
 02100000 619ED858 0000270f

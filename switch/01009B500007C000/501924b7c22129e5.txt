@@ -1,4 +1,4 @@
-[Arms (V5.4.0)]
+{Arms (V5.4.0)}
 
 [#01# Player Infinite HP]
 580f0000 01599E20

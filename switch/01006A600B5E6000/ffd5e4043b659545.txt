@@ -1,4 +1,4 @@
-[Blue Rider (V1.0)]
+{Blue Rider (V1.0)}
 
 [Infinite Energy]
 580f0000 029056B0

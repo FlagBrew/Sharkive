@@ -1,4 +1,4 @@
-[Splatoon 2 *BAN RISK*]
+{Splatoon 2 *BAN RISK*}
 
 [Night mode in every stages (client sided)]
 04100000 09694898 00000002

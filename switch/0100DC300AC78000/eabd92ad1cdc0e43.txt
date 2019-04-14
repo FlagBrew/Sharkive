@@ -1,4 +1,4 @@
-[The Messenger 1.0.3]
+{The Messenger 1.0.3}
 
 [Infinite HP]
 581f0000 95359ed8

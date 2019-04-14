@@ -1,4 +1,4 @@
-[Stardew Valley]
+{Stardew Valley}
 
 [10,000,000 Gold]
 580F0000 049d4b78

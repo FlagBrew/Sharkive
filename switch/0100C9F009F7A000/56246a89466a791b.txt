@@ -1,4 +1,4 @@
-[Xenoblade Chronicles 2 Torna The Golden Country 1.0.2]
+{Xenoblade Chronicles 2 Torna The Golden Country 1.0.2}
 
 [999999999 GP]
 580f0000 00C284D8

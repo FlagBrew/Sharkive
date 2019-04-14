@@ -1,4 +1,4 @@
-[ACA NEOGEO Art of Fighting 1 (v1.0.1)]
+{ACA NEOGEO Art of Fighting 1 (v1.0.1)}
 
 [P1 Infinite HP]
 01000000 01240114 00000060

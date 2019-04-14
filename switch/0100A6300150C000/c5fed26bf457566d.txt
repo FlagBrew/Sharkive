@@ -1,4 +1,4 @@
-[Wonder Boy The Dragons Trap 1.0.0]
+{Wonder Boy The Dragons Trap 1.0.0}
 
 [Infinite HP]
 02000000 002dd31a 000009c0

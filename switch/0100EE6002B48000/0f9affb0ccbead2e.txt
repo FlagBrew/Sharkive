@@ -1,4 +1,4 @@
-[ACA NEOGEO Fatal Fury 1.0.0]
+{ACA NEOGEO Fatal Fury 1.0.0}
 
 [P1 Infinite HP]
 04000000 012385F0 00016060

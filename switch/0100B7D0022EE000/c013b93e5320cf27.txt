@@ -1,4 +1,4 @@
-[Cave Story Plus (US)]
+{Cave Story Plus (US)}
 
 [100 hearts]
 040F0000 0052b4e8 00000064

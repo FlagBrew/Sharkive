@@ -1,4 +1,4 @@
-[TENGAI 1.0.0]
+{TENGAI 1.0.0}
 
 [P1 Infinite Lives]
 01000000 012aa684 00000009

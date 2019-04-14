@@ -1,4 +1,4 @@
-[Just Dance 2019 V1.1]
+{Just Dance 2019 V1.1}
 
 [Inf 9999 Mojo]
 580F0000 0118A000

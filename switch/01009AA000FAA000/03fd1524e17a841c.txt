@@ -1,4 +1,4 @@
-[Sonic Mania Plus]
+{Sonic Mania Plus}
 
 [9999999 Score]
 04010000 006c7644 0098967F
@@ -19,11 +19,11 @@
 00000000 00000000 00000000
 
 [1 Blue Orb To Win Checkpoint Bonus Stage Press L]
-80000040 
+80000040
 01110000 2ec448c8 00000000
 20000000
 [999 Rings Big Coin Bonus Stage Press R]
-80000080 
+80000080
 02110000 2ec4462c 000003E7
 20000000
 

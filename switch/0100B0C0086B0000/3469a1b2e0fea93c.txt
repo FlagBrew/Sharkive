@@ -1,4 +1,4 @@
-[Mega Man 11 1.0.0]
+{Mega Man 11 1.0.0}
 
 [Megaman 9 Lives]
 011f0000 0d52c798 00000009

@@ -1,4 +1,4 @@
-[The Binding of Isaac: Afterbirth Plus 1.2.0]
+{The Binding of Isaac: Afterbirth Plus 1.2.0}
 
 [Infinite HP]
 580f0000 004FAE90

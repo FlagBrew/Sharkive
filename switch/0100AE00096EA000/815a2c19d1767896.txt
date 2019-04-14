@@ -1,4 +1,4 @@
-[Hyrule Warriors: Definitive Edition 1.0.1]
+{Hyrule Warriors: Definitive Edition 1.0.1}
 
 [99.999.99 Rupies]
 580F0000 00C337F0

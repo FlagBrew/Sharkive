@@ -1,4 +1,4 @@
-[Stoned for Fitness Boxing V 1.0]
+{Stoned for Fitness Boxing V 1.0}
 
 [9.999.999 Visible Punches]
 580F0000 0250DC40

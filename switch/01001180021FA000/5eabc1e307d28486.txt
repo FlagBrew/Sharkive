@@ -1,4 +1,4 @@
-[Shovel Knight Specter of Torment 3.1]
+{Shovel Knight Specter of Torment 3.1}
 
 [99999 GP]
 04000000 00B37EE4 0001869F

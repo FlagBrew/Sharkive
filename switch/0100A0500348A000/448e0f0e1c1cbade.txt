@@ -1,4 +1,4 @@
-[Just Dance 2018]
+{Just Dance 2018}
 
 [Unlimited MOJO]
 [HEAP+0xB5577450] ;(0x3E8)

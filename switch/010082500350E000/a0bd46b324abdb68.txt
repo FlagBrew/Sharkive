@@ -1,4 +1,4 @@
-[Peach Ball]
+{Peach Ball}
 
 [99999999 Money]
 04000000 00664ce0 3B9AC9FF

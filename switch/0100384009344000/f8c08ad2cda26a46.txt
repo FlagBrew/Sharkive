@@ -1,4 +1,4 @@
-[Super Toy Cars V1.0]
+{Super Toy Cars V1.0}
 
 [#01# Inf Gold Coins]
 580F0000 027EE7E0

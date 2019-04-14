@@ -1,4 +1,4 @@
-[Arcade Archives DOUBLE DRAGON II The Revenge 1.0.0]
+{Arcade Archives DOUBLE DRAGON II The Revenge 1.0.0}
 
 [P1 Infinite HP]
 580f0000 00252ab8

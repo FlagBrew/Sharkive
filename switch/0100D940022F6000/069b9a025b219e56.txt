@@ -1,4 +1,4 @@
-[Tiny Barbarian DX 1.0.0]
+{Tiny Barbarian DX 1.0.0}
 
 [P1 Infinite HP]
 01100000 0093232c 0000000c

@@ -1,4 +1,4 @@
-[Asterix and Obelix 2 XXL Update 1.1]
+{Asterix and Obelix 2 XXL Update 1.1}
 
 [Inf. Hearts]
 580F0000 00CAB5E0

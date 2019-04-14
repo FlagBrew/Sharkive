@@ -1,4 +1,4 @@
-[Warriors Orochi 4 V 1.0.6]
+{Warriors Orochi 4 V 1.0.6}
 
 [999 Courage Affix]
 041F0000 119fc83e 000003E7
@@ -18,7 +18,7 @@
 [77215 Ko]
 040F0000 0133644c 00012D9F
 
-[Naotora li Codes]
+{Naotora li Codes}
 
 [6000 Hp]
 041F0000 11a949de 00001770
@@ -29,7 +29,7 @@
 [9999 Def]
 041F0000 11a949e2 0000270F
 
-[Tadakatsu Honda Codes]
+{Tadakatsu Honda Codes}
 
 [6000 Hp]
 041F0000 11a8eb5e 00001770

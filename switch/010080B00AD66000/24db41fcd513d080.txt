@@ -1,4 +1,4 @@
-[Undertale  (V1.11)]
+{Undertale  (V1.11)}
 
 [#01# Inf Coins]
 580f0000 00DB0580

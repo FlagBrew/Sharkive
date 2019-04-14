@@ -1,4 +1,4 @@
-[Dark Souls Remastered]
+{Dark Souls Remastered}
 
 [Soul]
 041F0000 a2bcf814 0098967F

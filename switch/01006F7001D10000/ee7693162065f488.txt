@@ -1,4 +1,4 @@
-[Monster Boy and the Cursed Kingdom 1.0.2]
+{Monster Boy and the Cursed Kingdom 1.0.2}
 
 [99999 coins]
 04100000 9AE10510 0001869F
