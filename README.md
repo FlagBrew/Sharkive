@@ -1,8 +1,6 @@
 # Sharkive
 
-Gateshark cheat code database for Luma3DS 9.1+.
-
-### Notice: Database is heavily under refactoring
+Gateshark cheat code database for Luma3DS 9.1+ and Atmosphere 0.8.5+.
 
 ## Database
 
