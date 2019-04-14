@@ -1,0 +1,11 @@
+[Infinite Lives]
+08AF4364 00000063
+
+[Start with 99 Lives, not Infinite]
+08AF5558 00000063
+
+[Infinite Nano Coins]
+08AF55FC 00000063
+
+[Infinite Energy]
+28AF430A 00000080

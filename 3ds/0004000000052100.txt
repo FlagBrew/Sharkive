@@ -1,0 +1,2 @@
+[Max Coins]
+089E8AB4 6FFFFFFF

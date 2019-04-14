@@ -1,0 +1,5 @@
+[Max LP]
+087F1CB4 0000270F
+
+[Max Automatic Pistol Bullets]
+087F1CD2 00007FFF

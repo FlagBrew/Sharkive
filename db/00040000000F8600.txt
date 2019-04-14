@@ -1,7 +1,0 @@
-
-
-[Infinite Lives]
-2888C206 00000008
-
-[Infinite Health]
-2888C202 00000068

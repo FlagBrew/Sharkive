@@ -1,7 +1,0 @@
-
-
-[Infinite Ammo]
-08236F1C 00000014
-
-[Infinite Health]
-08236F3C 00000003

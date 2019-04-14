@@ -1,0 +1,11 @@
+[Coins x9999]
+1047F176 0000270F
+
+[Max hearts]
+2047F220 0000000A
+
+[Max clover]
+2047F222 0000000A
+
+[Max watches]
+2047F221 0000000A

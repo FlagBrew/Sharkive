@@ -1,0 +1,8 @@
+[9999 Pikarat]
+1037F1B4 0000270F
+
+[Max/Inf Hint Coins]
+0037F1A9 03E703E7
+
+[Inf tries in court]
+2037F300 00000000

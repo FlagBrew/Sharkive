@@ -1,0 +1,8 @@
+[65535 Gold]
+09070624 0000FFFF
+
+[Max Money]
+19070F44 0098967F
+
+[Unlimited Watering Can]
+29070F17 000000C8

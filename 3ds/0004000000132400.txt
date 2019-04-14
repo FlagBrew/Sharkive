@@ -1,0 +1,5 @@
+[Max Record points]
+08261F0C FFFFFFFF
+
+[Max total lines]
+08440D04 FFFFFFFF

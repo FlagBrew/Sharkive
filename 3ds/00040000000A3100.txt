@@ -1,0 +1,5 @@
+[65,500 EXP After Battle]
+0847F5B8 0000FFDC
+
+[65,500 Gold after battle]
+0847F5BC 0000FFDC

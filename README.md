@@ -1,16 +1,6 @@
 # Sharkive
 
-Gateshark cheat code manager for Luma3DS 9.1+.
-
-![](https://i.imgur.com/RYyVRJw.png)
-
-## Usage
-
-* 1: Run Sharkive.
-* 2: You can download cheats for your games. (It's possible that some cheats don't work or crash while you try to use them).
-* 3: Run your desired game.
-* 4: Open Luma3DS's Rosalina menu.
-* 5: Go to the `Cheats` section located on the top. Apply your cheats and return back to the game. You'll now be able to use your cheat.
+Gateshark cheat code database for Luma3DS 9.1+ and Atmosphere 0.8.5+.
 
 ## Database
 
@@ -19,11 +9,6 @@ Sharkive relies on a manually populated database to download and apply new cheat
 **We need your help**: report all the cheats that aren't working as an issue in this repository. We will update them or remove them to avoid further issues with other users. Additionally, if you have cheats that aren't available in Sharkive yet, please create a Pull Request.
 
 ## FAQ
-**Q:** Why won't my game show up in Sharkive?<br>
-**A:** There are a couple reasons:<br>
-1. Sharkive uses the same detection logic as Checkpoint: it only recognizes a title as a game if it finds a save in it -- make a save in the game and try running Sharkive again.
-2. There is a bug in Sharkive's current title checking logic that causes it to sometimes miss a title even if there is a save. This seems to happen with games that were around for a previous check that didn't have a save before. You can force Sharkive to recheck all games by deleting `sd:/3ds/Sharkive/titles.sha` and running Sharkive again.
-
 **Q:** Help! This cheat doesn't work.<br>
 **Q:** Why does the name turn red when I try to use this cheat?<br>
 **A:** There can be a few causes for cheats not working:<br>
@@ -43,16 +28,6 @@ Sharkive relies on a manually populated database to download and apply new cheat
 
 **Q:** Some cheat names are cut off in the list. Can you make the full name display? Can I read the full name somewhere?<br>
 **A:** Cheat names getting cut off is due to Luma, not Sharkive. The only thing we can potentially do is shorten the cheat's name. You can read the full cheat name by looking up the cheat file located either on your SD (see next question) or in [Sharkive's database](https://github.com/FlagBrew/Sharkive/tree/master/db) (you'll need your game's title ID in both cases).
-
-**Q:** Where does Sharkive save the cheat files?<br>
-**A:** `sd:/luma/titles/title_ID/cheats.txt` substituting `title_ID` with the title ID of the game you're looking for.
-
-
-## Todo
-
-Sharkive still relies on pp2d to render its graphics. I don't have enough time to take care of a Sharkive's citro2d port, so pull requests are highly appreciated.
-
-Also, as you may notice, Sharkive is almost totally based on the legacy Checkpoint codebase (this software was originally written at very the beginning of 2018). That said, most of Checkpoint's optimizations are not yet included in Sharkive, so there will be updates in the future to make it run better. No promises though, as this project isn't very high priority for me.
 
 ## License
 

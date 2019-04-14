@@ -1,0 +1,5 @@
+[Beyblade 4D Max Money]
+00400268 0098967F
+
+[Beyblade ZeroG Max Money]
+00400558 0098967F

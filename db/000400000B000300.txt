@@ -1,5 +1,0 @@
-
-
-[Change the 1st move of your 1st Pokémon]
-D3000000 08A2406C
-2000DA2C 0000002C

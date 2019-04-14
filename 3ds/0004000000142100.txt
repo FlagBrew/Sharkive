@@ -1,0 +1,17 @@
+[Set money to 4 million]
+084CF9E0 003D0900
+
+[Time freezer]
+084CF96A 00000000
+
+[Unlimited Stamina]
+084CF9E8 00000064
+
+[Infinite Water]
+084D13B3 0000000F
+
+[Infinite Water Alt.]
+084D13CB 0000000F
+
+[Infinite Fertilizer]
+084D14C4 00000064

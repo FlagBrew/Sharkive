@@ -1,7 +1,0 @@
-
-
-[9999 Pikarat]
-10433FBC 0000270F
-
-[Max/Inf Hint Coins]
-00433FBE 03E703E7
