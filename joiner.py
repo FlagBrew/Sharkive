@@ -10,8 +10,8 @@ def main(args):
     db = {}
 
     if '3ds' in args.type:
-        for cheat in os.listdir('./3ds'):
-            with open(os.path.join(args.type, cheat), 'r') as file:
+        for cheat in os.listdir('./db'):
+            with open(os.path.join('./db', cheat), 'r') as file:
                 titleid = cheat[:cheat.rfind('.')]
                 lines = [line.strip() for line in file]
                 lines = list(filter(None, lines))
