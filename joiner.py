@@ -2,6 +2,7 @@
 import argparse
 import os
 import json
+import bz2
 
 parser = argparse.ArgumentParser(description = 'Sharkive cheat codes joiner')
 parser.add_argument('type', help = '3ds, switch')
@@ -51,9 +52,9 @@ def main(args):
                             db[titleid][buildid][selectedCheat].append(line)
     else:
         exit(0)
-
-    with open(os.path.join('build', args.type + '.json'), 'w') as f:
-        f.write(json.dumps(db))
+    compressed = bz2.compress(str.encode(json.dumps(db)))
+    with open(os.path.join('build', args.type + '.json.bz2'), 'wb') as f:
+        f.write(compressed)
 
 if __name__ == '__main__':
     main(parser.parse_args())
