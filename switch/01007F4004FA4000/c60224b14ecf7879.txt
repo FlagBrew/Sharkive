@@ -1,13 +1,13 @@
 {ACA NEOGEO MUTATION NATION 1.0.0}
 
-[P1 Infinite Hp]
+[P1 Infinite Hp 1.0.0]
 01000000 01250E48 00000040
 
-[P1 Invincible]
+[P1 Invincible 1.0.0]
 01000000 01250E5F 000000FF
 
-[P2 Infinite Hp]
+[P2 Infinite Hp 1.0.0]
 01000000 01250F48 00000040
 
-[P2 Invincible]
+[P2 Invincible 1.0.0]
 01000000 01250F5F 000000FF

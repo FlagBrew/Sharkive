@@ -1,613 +1,613 @@
 {Fire Emblem Warriors 1.0}
 
-[Inf. Money]
+[Inf. Money 1.0]
 02100000 9743ca88 7F969800
 
-[999 Lissas Crinoline]
+[999 Lissas Crinoline 1.0]
 02100000 9743c79A 000003E7
 
-[999 Fredericks Pebbles]
+[999 Fredericks Pebbles 1.0]
 02100000 9743c79c 000003E7
 
-[999 Fredericks Ribbon Tie]
+[999 Fredericks Ribbon Tie 1.0]
 02100000 9743c79e 000003E7
 
-[999 Cordelias Wing Hairpins]
+[999 Cordelias Wing Hairpins 1.0]
 02100000 9743c7a0 000003E7
 
-[999 Cordelias Book on Love]
+[999 Cordelias Book on Love 1.0]
 02100000 9743c7a2 000003E7
 
-[999 Owains Belt Sash]
+[999 Owains Belt Sash 1.0]
 02100000 9743c7a4 000003E7
 
-[999 Owains Divine Names]
+[999 Owains Divine Names 1.0]
 02100000 9743c7a6 000003E7
 
-[999 Corrins Brooch]
+[999 Corrins Brooch 1.0]
 02100000 9743c7a8 000003E7
 
-[999 Corrins Hair Clasp]
+[999 Corrins Hair Clasp 1.0]
 02100000 9743c7aa 000003E7
 
-[999 Ryomas Headpiece]
+[999 Ryomas Headpiece 1.0]
 02100000 9743c7ac 000003E7
 
-[999x Blessed Lances Opus]
+[999x Blessed Lances Opus 1.0]
 02100000 9743c8ce 000003E7
 
-[999x Lindes Bangle]
+[999x Lindes Bangle 1.0]
 02100000 9743c8d0 000003E7
 
-[999x Linde Charm]
+[999x Linde Charm 1.0]
 02100000 9743c8d2 000003E7
 
-[999x Lindes Essence]
+[999x Lindes Essence 1.0]
 02100000 9743c8d4 000003E7
 
-[999x Auras Scroll]
+[999x Auras Scroll 1.0]
 02100000 9743c8d6 000003E7
 
-[999x Minervas Whip]
+[999x Minervas Whip 1.0]
 02100000 9743c8d8 000003E7
 
-[999x Minervas Red Armor]
+[999x Minervas Red Armor 1.0]
 02100000 9743c8da 000003E7
 
-[999x Minervas Essence]
+[999x Minervas Essence 1.0]
 02100000 9743c8dc 000003E7
 
-[999x Hauteclaires Scroll]
+[999x Hauteclaires Scroll 1.0]
 02100000 9743c8de 000003E7
 
-[999x Enlirons Opus]
+[999x Enlirons Opus 1.0]
 02100000 9743c8e0 000003E7
 
-[999x Facinnas Opus]
+[999x Facinnas Opus 1.0]
 02100000 9743c8e2 000003E7
 
-[999x Exalted Falchions Opus]
+[999x Exalted Falchions Opus 1.0]
 02100000 9743c8e4 000003E7
 
-[999x Wing Spears Opus]
+[999x Wing Spears Opus 1.0]
 02100000 9743c8e6 000003E7
 
-[999x Divinestones Opus]
+[999x Divinestones Opus 1.0]
 02100000 9743c8e8 000003E7
 
-[999x Lady Swords Opus]
+[999x Lady Swords Opus 1.0]
 02100000 9743c8ea 000003E7
 
-[999x Sol Kattis Opus]
+[999x Sol Kattis Opus 1.0]
 02100000 9743c8ec 000003E7
 
-[999x Annas Bows Opus]
+[999x Annas Bows Opus 1.0]
 02100000 9743c8ee 000003E7
 
-[999x Wo Daos Opus]
+[999x Wo Daos Opus 1.0]
 02100000 9743c8f0 000003E7
 
-[999x Auras Opus]
+[999x Auras Opus 1.0]
 02100000 9743c8f2 000003E7
 
-[999x Hauteclaires Opus]
+[999x Hauteclaires Opus 1.0]
 02100000 9743c8f4 000003E7
 
-[999x Tharjas Crystal Ball]
+[999x Tharjas Crystal Ball 1.0]
 02100000 9743c8f6 000003E7
 
-[999x Tharjas Liver-and-Eel Pie]
+[999x Tharjas Liver-and-Eel Pie 1.0]
 02100000 9743c8f8 000003E7
 
-[999x Tharjas Essence]
+[999x Tharjas Essence 1.0]
 02100000 9743c8fa 000003E7
 
-[999x Tharjas Hexs Scroll]
+[999x Tharjas Hexs Scroll 1.0]
 02100000 9743c8fc 000003E7
 
-[999x Olivias Hair Band]
+[999x Olivias Hair Band 1.0]
 02100000 9743c8fe 000003E7
 
-[999x Olivias Model Theater]
+[999x Olivias Model Theater 1.0]
 02100000 9743c900 000003E7
 
-[999x Olivias Essence]
+[999x Olivias Essence 1.0]
 02100000 9743c902 000003E7
 
-[999x Olivias Blade Scroll]
+[999x Olivias Blade Scroll 1.0]
 02100000 9743c904 000003E7
 
-[999x Falchions Opus]
+[999x Falchions Opus 1.0]
 02100000 9743c906 000003E7
 
-[999x Parallel Falchions Opus]
+[999x Parallel Falchions Opus 1.0]
 02100000 9743c908 000003E7
 
-[999x Thorons Opus]
+[999x Thorons Opus 1.0]
 02100000 9743c90a 000003E7
 
-[999x Lissas Axes Opus]
+[999x Lissas Axes Opus 1.0]
 02100000 9743c90c 000003E7
 
-[999x Fredericks Axes Opus]
+[999x Fredericks Axes Opus 1.0]
 02100000 9743c90e 000003E7
 
-[999x Cordelias Axes Opus]
+[999x Cordelias Axes Opus 1.0]
 02100000 9743c910 000003E7
 
-[999x Master Seal]
+[999x Master Seal 1.0]
 02100000 9743c912 000003E7
 
-[999x Missiletainns Opus]
+[999x Missiletainns Opus 1.0]
 02100000 9743c914 000003E7
 
-[999x Tharjas Hexs Opus]
+[999x Tharjas Hexs Opus 1.0]
 02100000 9743c916 000003E7
 
-[999x Olivias Blades Opus]
+[999x Olivias Blades Opus 1.0]
 02100000 9743c918 000003E7
 
-[999x Ryomas Battle Coat]
+[999x Ryomas Battle Coat 1.0]
 02100000 9743c7ae 000003E7
 
-[999x Hinokas Tassels]
+[999x Hinokas Tassels 1.0]
 02100000 9743c7b0 000003E7
 
-[999x Hinokas Scarf]
+[999x Hinokas Scarf 1.0]
 02100000 9743c7b2 000003E7
 
-[999x Takumis History Book]
+[999x Takumis History Book 1.0]
 02100000 9743c7b4 000003E7
 
-[999x Takumis Fur Wrap]
+[999x Takumis Fur Wrap 1.0]
 02100000 9743c7b6 000003E7
 
-[999x Sakuras Sash]
+[999x Sakuras Sash 1.0]
 02100000 9743c7b8 000003E7
 
-[999x Sakuras Headband]
+[999x Sakuras Headband 1.0]
 02100000 9743c7ba 000003E7
 
-[999x Oboros Sleeve Sash]
+[999x Oboros Sleeve Sash 1.0]
 02100000 9743c7bc 000003E7
 
-[999x Oboros Chest Guard]
+[999x Oboros Chest Guard 1.0]
 02100000 9743c7be 000003E7
 
-[999x Xanders Shield]
+[999x Xanders Shield 1.0]
 02100000 9743c7c0 000003E7
 
-[999x Xanders Plate Armor]
+[999x Xanders Plate Armor 1.0]
 02100000 9743c7c2 000003E7
 
-[999x Camillas Belt]
+[999x Camillas Belt 1.0]
 02100000 9743c7c4 000003E7
 
-[999x Camillas Tasses]
+[999x Camillas Tasses 1.0]
 02100000 9743c7c6 000003E7
 
-[999x Leos Tomato]
+[999x Leos Tomato 1.0]
 02100000 9743c7c8 000003E7
 
-[999x Leos Collar]
+[999x Leos Collar 1.0]
 02100000 9743c7ca 000003E7
 
-[999x Elises Flowers]
+[999x Elises Flowers 1.0]
 02100000 9743c7cc 000003E7
 
-[999x Elises Ribbon]
+[999x Elises Ribbon 1.0]
 02100000 9743c7ce 000003E7
 
-[999x Niless Hood]
+[999x Niless Hood 1.0]
 02100000 9743c7d0 000003E7
 
-[999x Niless Eye Patch]
+[999x Niless Eye Patch 1.0]
 02100000 9743c7d2 000003E7
 
-[999x Marths Brooch]
+[999x Marths Brooch 1.0]
 02100000 9743c7d4 000003E7
 
-[999x Marths Tiara]
+[999x Marths Tiara 1.0]
 02100000 9743c7d6 000003E7
 
-[999x Caedas Bracelet]
+[999x Caedas Bracelet 1.0]
 02100000 9743c7d8 000003E7
 
-[999x Caedas Breastplate]
+[999x Caedas Breastplate 1.0]
 02100000 9743c7da 000003E7
 
-[999x Navarres Cord Belt]
+[999x Navarres Cord Belt 1.0]
 02100000 9743c7dc 000003E7
 
-[999x Navarres Sword Strap]
+[999x Navarres Sword Strap 1.0]
 02100000 9743c7de 000003E7
 
-[999x Tikis Anklet]
+[999x Tikis Anklet 1.0]
 02100000 9743c7e0 000003E7
 
-[999x Tikis Hairpin]
+[999x Tikis Hairpin 1.0]
 02100000 9743c7e2 000003E7
 
-[999x Celicas Shield]
+[999x Celicas Shield 1.0]
 02100000 9743c7e4 000003E7
 
-[999x Celicas Circlet]
+[999x Celicas Circlet 1.0]
 02100000 9743c7e6 000003E7
 
-[999x Lyns Glove]
+[999x Lyns Glove 1.0]
 02100000 9743c7e8 000003E7
 
-[999x Lyns Cord Belt]
+[999x Lyns Cord Belt 1.0]
 02100000 9743c7ea 000003E7
 
-[999x Annas Cap]
+[999x Annas Cap 1.0]
 02100000 9743c7ec 000003E7
 
-[999x Annas Purse]
+[999x Annas Purse 1.0]
 02100000 9743c7ee 000003E7
 
-[999x Validars Bracelet]
+[999x Validars Bracelet 1.0]
 02100000 9743c7f0 000003E7
 
-[999x Validars Necklace]
+[999x Validars Necklace 1.0]
 02100000 9743c7f2 000003E7
 
-[999x Iagos Dark Instrument]
+[999x Iagos Dark Instrument 1.0]
 02100000 9743c7f4 000003E7
 
-[999x Iagos Half Mask]
+[999x Iagos Half Mask 1.0]
 02100000 9743c7f6 000003E7
 
-[999x Gharnefs Ring]
+[999x Gharnefs Ring 1.0]
 02100000 9743c7f8 000003E7
 
-[999x Gharnefs Orb]
+[999x Gharnefs Orb 1.0]
 02100000 9743c7fa 000003E7
 
-[999x Darioss Shield]
+[999x Darioss Shield 1.0]
 02100000 9743c7fc 000003E7
 
-[999x Darioss Circlet]
+[999x Darioss Circlet 1.0]
 02100000 9743c7fe 000003E7
 
-[999x Chaos Dragons Barbs]
+[999x Chaos Dragons Barbs 1.0]
 02100000 9743c800 000003E7
 
-[999x Chaos Dragons Jewel]
+[999x Chaos Dragons Jewel 1.0]
 02100000 9743c802 000003E7
 
-[999x Myrmidon breechcloth]
+[999x Myrmidon breechcloth 1.0]
 02100000 9743c804 000003E7
 
-[999x Myrmidon Head Guard]
+[999x Myrmidon Head Guard 1.0]
 02100000 9743c806 000003E7
 
-[999x Soldiers Waist Guard]
+[999x Soldiers Waist Guard 1.0]
 02100000 9743c808 000003E7
 
-[999x Soldiers Helmet]
+[999x Soldiers Helmet 1.0]
 02100000 9743c80a 000003E7
 
-[999x Axe Fighters Glove]
+[999x Axe Fighters Glove 1.0]
 02100000 9743c80c 000003E7
 
-[999x Axe Fighters Helmet]
+[999x Axe Fighters Helmet 1.0]
 02100000 9743c80e 000003E7
 
-[999x Archers Breastplate]
+[999x Archers Breastplate 1.0]
 02100000 9743c810 000003E7
 
-[999x Archers Shoulder Pad]
+[999x Archers Shoulder Pad 1.0]
 02100000 9743c812 000003E7
 
-[999x Mages Mask]
+[999x Mages Mask 1.0]
 02100000 9743c814 000003E7
 
-[999x Mages Robe]
+[999x Mages Robe 1.0]
 02100000 9743c816 000003E7
 
-[999x Outlaws Bracer]
+[999x Outlaws Bracer 1.0]
 02100000 9743c818 000003E7
 
-[999x Outlaws Mask]
+[999x Outlaws Mask 1.0]
 02100000 9743c81a 000003E7
 
-[999x Knights Shield]
+[999x Knights Shield 1.0]
 02100000 9743c81c 000003E7
 
-[999x Knights Pauldron]
+[999x Knights Pauldron 1.0]
 02100000 9743c81e 000003E7
 
-[999x Cavaliers Greaves]
+[999x Cavaliers Greaves 1.0]
 02100000 9743c820 000003E7
 
-[999x Cavaliers Saddle]
+[999x Cavaliers Saddle 1.0]
 02100000 9743c822 000003E7
 
-[999x Pegasus Knights Dwon]
+[999x Pegasus Knights Dwon 1.0]
 02100000 9743c824 000003E7
 
-[999x Pegasus Knights Visor]
+[999x Pegasus Knights Visor 1.0]
 02100000 9743c826 000003E7
 
-[999x Wyvern Riders Talon]
+[999x Wyvern Riders Talon 1.0]
 02100000 9743c828 000003E7
 
-[999x Wyvern Riders Tasses]
+[999x Wyvern Riders Tasses 1.0]
 02100000 9743c82a 000003E7
 
-[999x Great Knights Gauntlet]
+[999x Great Knights Gauntlet 1.0]
 02100000 9743c82c 000003E7
 
-[999x Great Knights Barding]
+[999x Great Knights Barding 1.0]
 02100000 9743c82e 000003E7
 
-[999x Manaketes Scale]
+[999x Manaketes Scale 1.0]
 02100000 9743c830 000003E7
 
-[999x Manaketes Tail]
+[999x Manaketes Tail 1.0]
 02100000 9743c832 000003E7
 
-[999x Monsters Fang]
+[999x Monsters Fang 1.0]
 02100000 9743c834 000003E7
 
-[999x Monsters Horns]
+[999x Monsters Horns 1.0]
 02100000 9743c836 000003E7
 
-[999x Captains Sword]
+[999x Captains Sword 1.0]
 02100000 9743c838 000003E7
 
-[999x Captains Lance]
+[999x Captains Lance 1.0]
 02100000 9743c83a 000003E7
 
-[999x Captains Axe]
+[999x Captains Axe 1.0]
 02100000 9743c83c 000003E7
 
-[999x Captains Bow]
+[999x Captains Bow 1.0]
 02100000 9743c83e 000003E7
 
-[999x Captains Tome]
+[999x Captains Tome 1.0]
 02100000 9743c840 000003E7
 
-[999x Monsters Claw]
+[999x Monsters Claw 1.0]
 02100000 9743c842 000003E7
 
-[999x Enlirons Scroll]
+[999x Enlirons Scroll 1.0]
 02100000 9743c844 000003E7
 
-[999x Facinnas Scroll]
+[999x Facinnas Scroll 1.0]
 02100000 9743c846 000003E7
 
-[999x Falchions Scroll]
+[999x Falchions Scroll 1.0]
 02100000 9743c848 000003E7
 
-[999x Parallel Falchions Scroll]
+[999x Parallel Falchions Scroll 1.0]
 02100000 9743c84a 000003E7
 
-[999x Thorons Scroll]
+[999x Thorons Scroll 1.0]
 02100000 9743c84c 000003E7
 
-[999x Lissas Axes Scroll]
+[999x Lissas Axes Scroll 1.0]
 02100000 9743c84e 000003E7
 
-[999x Fredericks Axes Scroll]
+[999x Fredericks Axes Scroll 1.0]
 02100000 9743c850 000003E7
 
-[999x Cordelias Lances Scroll]
+[999x Cordelias Lances Scroll 1.0]
 02100000 9743c852 000003E7
 
-[999x Missiletainns Scroll]
+[999x Missiletainns Scroll 1.0]
 02100000 9743c854 000003E7
 
-[999x Yatos Scroll]
+[999x Yatos Scroll 1.0]
 02100000 9743c856 000003E7
 
-[999x Raijintos Scroll]
+[999x Raijintos Scroll 1.0]
 02100000 9743c858 000003E7
 
-[999x Hinokas Scroll]
+[999x Hinokas Scroll 1.0]
 02100000 9743c85a 000003E7
 
-[999x Fujin Yumis Scroll]
+[999x Fujin Yumis Scroll 1.0]
 02100000 9743c85c 000003E7
 
-[999x Spellbane Yumis Scroll]
+[999x Spellbane Yumis Scroll 1.0]
 02100000 9743c85e 000003E7
 
-[999x Oboros Spears Scroll]
+[999x Oboros Spears Scroll 1.0]
 02100000 9743c860 000003E7
 
-[999x Siegfrieds Scroll]
+[999x Siegfrieds Scroll 1.0]
 02100000 9743c862 000003E7
 
-[999x Camillas Axes Scroll]
+[999x Camillas Axes Scroll 1.0]
 02100000 9743c864 000003E7
 
-[999x Brynhildrs Scroll]
+[999x Brynhildrs Scroll 1.0]
 02100000 9743c866 000003E7
 
-[999x Moonlights Scroll]
+[999x Moonlights Scroll 1.0]
 02100000 9743c868 000003E7
 
-[999x Niless Bows Scroll]
+[999x Niless Bows Scroll 1.0]
 02100000 9743c86a 000003E7
 
-[999x Exalted Falchions Scroll]
+[999x Exalted Falchions Scroll 1.0]
 02100000 9743c86c 000003E7
 
-[999x Wing Spears Scroll]
+[999x Wing Spears Scroll 1.0]
 02100000 9743c86e 000003E7
 
-[999x Wo Daos Scroll]
+[999x Wo Daos Scroll 1.0]
 02100000 9743c870 000003E7
 
-[999x Divinestones Scroll]
+[999x Divinestones Scroll 1.0]
 02100000 9743c872 000003E7
 
-[999x Lady Swords Scroll]
+[999x Lady Swords Scroll 1.0]
 02100000 9743c874 000003E7
 
-[999x Sol Kattis Scroll]
+[999x Sol Kattis Scroll 1.0]
 02100000 9743c876 000003E7
 
-[999x Annas Bows Scroll]
+[999x Annas Bows Scroll 1.0]
 02100000 9743c878 000003E7
 
-[999x Rowans Essence]
+[999x Rowans Essence 1.0]
 02100000 9743c87a 000003E7
 
-[999x Liannas Essence]
+[999x Liannas Essence 1.0]
 02100000 9743c87c 000003E7
 
-[999x Chroms Essence]
+[999x Chroms Essence 1.0]
 02100000 9743c87e 000003E7
 
-[999x Lucinas Essence]
+[999x Lucinas Essence 1.0]
 02100000 9743c880 000003E7
 
-[999x Robins Essence]
+[999x Robins Essence 1.0]
 02100000 9743c882 000003E7
 
-[999x Lissas Essence]
+[999x Lissas Essence 1.0]
 02100000 9743c884 000003E7
 
-[999x Fredericks Essence]
+[999x Fredericks Essence 1.0]
 02100000 9743c886 000003E7
 
-[999x Cordelias Essence]
+[999x Cordelias Essence 1.0]
 02100000 9743c888 000003E7
 
-[999x Owains Essence]
+[999x Owains Essence 1.0]
 02100000 9743c88a 000003E7
 
-[999x Corrins Essence]
+[999x Corrins Essence 1.0]
 02100000 9743c88c 000003E7
 
-[999x Ryomas Essence]
+[999x Ryomas Essence 1.0]
 02100000 9743c88e 000003E7
 
-[999x Hinokas Essence]
+[999x Hinokas Essence 1.0]
 02100000 9743c890 000003E7
 
-[999x Takumis Essence]
+[999x Takumis Essence 1.0]
 02100000 9743c892 000003E7
 
-[999x Sakuras Essence]
+[999x Sakuras Essence 1.0]
 02100000 9743c894 000003E7
 
-[999x Oboros Essence]
+[999x Oboros Essence 1.0]
 02100000 9743c896 000003E7
 
-[999x Xanders Essence]
+[999x Xanders Essence 1.0]
 02100000 9743c898 000003E7
 
-[999x Camillas Essence]
+[999x Camillas Essence 1.0]
 02100000 9743c89a 000003E7
 
-[999x Leos Essence]
+[999x Leos Essence 1.0]
 02100000 9743c89c 000003E7
 
-[999x Elises Essence]
+[999x Elises Essence 1.0]
 02100000 9743c89e 000003E7
 
-[999x Niless Essence]
+[999x Niless Essence 1.0]
 02100000 9743c8a0 000003E7
 
-[999x Marths Essence]
+[999x Marths Essence 1.0]
 02100000 9743c8a2 000003E7
 
-[999x Caedas Essence]
+[999x Caedas Essence 1.0]
 02100000 9743c8a4 000003E7
 
-[999x Navarres Essence]
+[999x Navarres Essence 1.0]
 02100000 9743c8a6 000003E7
 
-[999x Tikis Essence]
+[999x Tikis Essence 1.0]
 02100000 9743c8a8 000003E7
 
-[999x Celicas Essence]
+[999x Celicas Essence 1.0]
 02100000 9743c8aa 000003E7
 
-[999x Lyns Essence]
+[999x Lyns Essence 1.0]
 02100000 9743c8ac 000003E7
 
-[999x Annas Essence]
+[999x Annas Essence 1.0]
 02100000 9743c8ae 000003E7
 
-[999x Azuras Opera Gloves]
+[999x Azuras Opera Gloves 1.0]
 02100000 9743c8b0 000003E7
 
-[999x Azuras Pendant]
+[999x Azuras Pendant 1.0]
 02100000 9743c8b2 000003E7
 
-[999x Blessed Lances Scroll]
+[999x Blessed Lances Scroll 1.0]
 02100000 9743c8b4 000003E7
 
-[999x Azuras Essence]
+[999x Azuras Essence 1.0]
 02100000 9743c8b6 000003E7
 
-[999x Yatos Opus]
+[999x Yatos Opus 1.0]
 02100000 9743c8b8 000003E7
 
-[999x Raijintos Opus]
+[999x Raijintos Opus 1.0]
 02100000 9743c8ba 000003E7
 
-[999x Hinokas Lances Opus]
+[999x Hinokas Lances Opus 1.0]
 02100000 9743c8bc 000003E7
 
-[999x Fujin Yumis Opus]
+[999x Fujin Yumis Opus 1.0]
 02100000 9743c8be 000003E7
 
-[999x Spellbane Yumis Opus]
+[999x Spellbane Yumis Opus 1.0]
 02100000 9743c8c0 000003E7
 
-[999x Oboros Lances Opus]
+[999x Oboros Lances Opus 1.0]
 02100000 9743c8c2 000003E7
 
-[999x Siegfrieds Opus]
+[999x Siegfrieds Opus 1.0]
 02100000 9743c8c4 000003E7
 
-[999x Camillas Axes Opus]
+[999x Camillas Axes Opus 1.0]
 02100000 9743c8c6 000003E7
 
-[999x Brynhildrs Opus]
+[999x Brynhildrs Opus 1.0]
 02100000 9743c8c8 000003E7
 
-[999x Moonlights Opus]
+[999x Moonlights Opus 1.0]
 02100000 9743c8ca 000003E7
 
-[999x Niles Bows Opus]
+[999x Niles Bows Opus 1.0]
 02100000 9743c8cc 000003E7
 
-[999 Rowans Buckle]
+[999 Rowans Buckle 1.0]
 02100000 9743c784 000003E7
 
-[999 Rowans Cape]
+[999 Rowans Cape 1.0]
 02100000 9743c786 000003E7
 
-[999 Liannas Hairpin]
+[999 Liannas Hairpin 1.0]
 02100000 9743c788 000003E7
 
-[999 Liannas Cape]
+[999 Liannas Cape 1.0]
 02100000 9743c78a 000003E7
 
-[999 Chroms Leather Belt]
+[999 Chroms Leather Belt 1.0]
 02100000 9743c78c 000003E7
 
-[999 Chroms Pauldron]
+[999 Chroms Pauldron 1.0]
 02100000 9743c78e 000003E7
 
-[999 Lucinas Cuffs]
+[999 Lucinas Cuffs 1.0]
 02100000 9743c790 000003E7
 
-[999 Lucinas Mask]
+[999 Lucinas Mask 1.0]
 02100000 9743c792 000003E7
 
-[999 Robins Primer]
+[999 Robins Primer 1.0]
 02100000 9743c794 000003E7
 
-[999 Robins Robes]
+[999 Robins Robes 1.0]
 02100000 9743c796 000003E7
 
-[999 Lissas Nest-Egg Purse]
+[999 Lissas Nest-Egg Purse 1.0]
 02100000 9743c798 000003E7

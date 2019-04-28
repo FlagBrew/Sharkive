@@ -1,22 +1,22 @@
 {Shovel Knight Specter of Torment 3.1}
 
-[99999 GP]
+[99999 GP 3.1]
 04000000 00B37EE4 0001869F
 
-[Max HP Upgrade]
+[Max HP Upgrade 3.1]
 01000000 00B37ED8 00000006
 
-[Max Darkness Upgrade]
+[Max Darkness Upgrade 3.1]
 01000000 00B37EEC 00000003
 
-[Best Weapons]
+[Best Weapons 3.1]
 01000000 00B37EF8 00000007
 
-[Unlock Challenge Sound Test Mode]
+[Unlock Challenge Sound Test Mode 3.1]
 01000000 00B32880 00000007
 
-[All Challenges Completed]
+[All Challenges Completed 3.1]
 04000000 00B328B0 007FFFFF
 
-[Have all Curios]
+[Have all Curios 3.1]
 04000000 00B37F04 FFFFE001

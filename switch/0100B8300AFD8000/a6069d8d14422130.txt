@@ -1,16 +1,16 @@
 {ACA NEOGEO TWINKLE STAR SPRITES 1.0.0}
 
-[P1 Infinite HP]
+[P1 Infinite HP 1.0.0]
 01000000 012a555d 00000028
 
-[P1 Infinite Bombs]
+[P1 Infinite Bombs 1.0.0]
 01000000 012a5568 00000003
 
-[P1 Can use LV3 attack]
+[P1 Can use LV3 attack 1.0.0]
 01000000 012a55d3 00000030
 
-[P2 No Bombs]
+[P2 No Bombs 1.0.0]
 01000000 012a6568 00000000
 
-[P2 No Special attack]
+[P2 No Special attack 1.0.0]
 04000000 012a65d0 00000000

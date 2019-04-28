@@ -1,10 +1,10 @@
 {ACA NEOGEO AGGRESSORS OF DARK KOMBAT 1.0.0}
 
-[P1 Infinite HP]
+[P1 Infinite HP 1.0.0]
 02000000 0127c2f6 00000bff
 
-[P1 Infinite Super]
+[P1 Infinite Super 1.0.0]
 02000000 0127c302 0000ffff
 
-[P2 CPU No Super]
+[P2 CPU No Super 1.0.0]
 02000000 0127c402 00000000

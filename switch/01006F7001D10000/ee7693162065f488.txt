@@ -1,48 +1,48 @@
 {Monster Boy and the Cursed Kingdom 1.0.2}
 
-[99999 coins]
+[99999 coins 1.0.2]
 04100000 9AE10510 0001869F
 
-[Have Elixir]
+[Have Elixir 1.0.2]
 01100000 9AE106E0 00000001
 
-[Have Anti Affliction Potion]
+[Have Anti Affliction Potion 1.0.2]
 04100000 9AE106E4 00000005
 
-[Have All Characters]
+[Have All Characters 1.0.2]
 04100000 9AE10528 0000003F
 
-[Have All Bracelets]
+[Have All Bracelets 1.0.2]
 04100000 9AE10538 000000FF
 
-[Have All Armors]
+[Have All Armors 1.0.2]
 04100000 9AE10540 000000FF
 
-[Have All Shields]
+[Have All Shields 1.0.2]
 04100000 9AE10548 000000FF
 
-[Have All Weapons]
+[Have All Weapons 1.0.2]
 04100000 9AE10550 000000FF
 
-[Have All Boots]
+[Have All Boots 1.0.2]
 04100000 9DF7A500 000000FF
 
-[Fireball 255]
+[Fireball 255 1.0.2]
 04100000 9AE104A4 000000FF
 
-[Boomerang 255]
+[Boomerang 255 1.0.2]
 04100000 9AE104AC 000000FF
 
-[Tornado 255]
+[Tornado 255 1.0.2]
 04100000 9AE104B0 000000FF
 
-[Lightning 255]
+[Lightning 255 1.0.2]
 04100000 9AE104B4 000000FF
 
-[Bomb 255]
+[Bomb 255 1.0.2]
 04100000 9AE104C0 000000FF
 
-[Have All Talisman]
+[Have All Talisman 1.0.2]
 04100000 9AE10588 00000001
 04100000 9AE10590 00000001
 04100000 9AE10598 00000001

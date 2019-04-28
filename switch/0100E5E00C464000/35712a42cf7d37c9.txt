@@ -1,11 +1,11 @@
 {Dragon Ball Heroes 1.0.0 Created By Krank}
 
-[Give Me "Zeni"]
+[Give Me "Zeni" 1.0.0]
 12160000 01A44DA8 4FBB8CC9
 12130000 01A44DA8 4FBB8CC9
 041F0000 01A44DA8 4FBB8CC9
 
-[Give Me "Blue Tickets" Choose this or "Gold Tickets" at a time]
+[Give Me "Blue Tickets" Choose this or "Gold Tickets" at a time 1.0.0]
 12160000 01942C60 00000539
 12130000 01942C60 00000539
 041F0000 01942C60 00000539
@@ -13,7 +13,7 @@
 12130000 01942F60 00000539
 041F0000 01942F60 00000539
 
-[Give Me "Gold Tickets" Choose this or "Blue Tickets" at a time]
+[Give Me "Gold Tickets" Choose this or "Blue Tickets" at a time 1.0.0]
 12160000 01942D20 00000539
 12130000 01942D20 00000539
 041F0000 01942D20 00000539

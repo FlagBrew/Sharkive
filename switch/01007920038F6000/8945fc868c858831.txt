@@ -1,13 +1,13 @@
 {ACA NEOGEO MAGICIAN LORD 1.0.1}
 
-[P1 Infinite Lives]
+[P1 Infinite Lives 1.0.1]
 01000000 01229179 00000009
 
-[P1 Infinite HP]
+[P1 Infinite HP 1.0.1]
 01000000 0122917e 00000004
 
-[P1 Max Power]
+[P1 Max Power 1.0.1]
 01000000 0122917d 00000002
 
-[P1 Invincible]
+[P1 Invincible 1.0.1]
 01000000 01229180 000000ff

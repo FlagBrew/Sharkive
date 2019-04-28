@@ -1,43 +1,43 @@
 {Wonder Boy The Dragons Trap 1.0.3e}
 
-[Infinite HP]
+[Infinite HP 1.0.3]
 02000000 002CD5EA 000009c0
 
-[Infinite Coins]
+[Infinite Coins 1.0.3]
 01000000 002CD5F0 00000009
 
-[Infinite Keys]
+[Infinite Keys 1.0.3]
 01000000 002CD5E1 00000009
 
-[Infinite Potions]
+[Infinite Potions 1.0.3]
 01000000 002CD5E2 00000009
 
-[Infinite Fireball]
+[Infinite Fireball 1.0.3]
 01000000 002CD5D6 00000009
 
-[Infinite Tornado]
+[Infinite Tornado 1.0.3]
 01000000 002CD5D7 00000009
 
-[Infinite Arrow]
+[Infinite Arrow 1.0.3]
 01000000 002CD5D8 00000009
 
-[Infinite Boomerang]
+[Infinite Boomerang 1.0.3]
 01000000 002CD5D9 00000009
 
-[Infinite Thunder]
+[Infinite Thunder 1.0.3]
 01000000 002CD5DA 00000009
 
-[All Swords]
+[All Swords 1.0.3]
 04000000 002cd5b8 01010101
 04000000 002cd5bc 01010101
 02000000 002cd5c0 00000101
 
-[All Shields]
+[All Shields 1.0.3]
 04000000 002cd5c4 01010101
 04000000 002cd5c8 01010101
 02000000 002cd5c2 00000101
 
-[All Armors]
+[All Armors 1.0.3]
 04000000 002cd5cc 01010101
 04000000 002cd5d0 01010101
 02000000 002cd5d4 00000101

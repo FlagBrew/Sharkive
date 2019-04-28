@@ -1,19 +1,19 @@
 {ACA NEOGEO NINJA COMMANDO 1.0.0}
 
-[P1 Infinite HP]
+[P1 Infinite HP 1.0.0]
 02000000 01283460 00000200
 
-[P1 Infinite Time]
+[P1 Infinite Time 1.0.0]
 01000000 01283459 000000ff
 
-[P1 Invincible]
+[P1 Invincible 1.0.0]
 01000000 0127d4f1 000000ff
 
-[P2 Infinite HP]
+[P2 Infinite HP 1.0.0]
 02000000 01283560 00000200
 
-[P2 Infinite Time]
+[P2 Infinite Time 1.0.0]
 01000000 01283559 000000ff
 
-[P2 Invincible]
+[P2 Invincible 1.0.0]
 01000000 0127d5f1 000000ff

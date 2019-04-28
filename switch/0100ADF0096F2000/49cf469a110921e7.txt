@@ -1,19 +1,19 @@
 {Samurai Aces 1.0.0}
 
-[P1 Infinite Lives]
+[P1 Infinite Lives 1.0.0]
 01000000 012adc52 00000009
 
-[P1 Infinite Bombs]
+[P1 Infinite Bombs 1.0.0]
 01000000 012add2e 00000009
 
-[P1 Max Power]
+[P1 Max Power 1.0.0]
 01000000 012adc54 00000003
 
-[P2 Infinite Lives]
+[P2 Infinite Lives 1.0.0]
 01000000 012add82 00000009
 
-[P2 Infinite Bombs]
+[P2 Infinite Bombs 1.0.0]
 01000000 012ade5e 00000009
 
-[P2 Max Power]
+[P2 Max Power 1.0.0]
 01000000 012add84 00000003

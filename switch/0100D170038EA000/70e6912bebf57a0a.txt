@@ -1,19 +1,19 @@
 {ACA NEOGEO SENGOKU 1.0.0}
 
-[P1 Infinite Lives]
+[P1 Infinite Lives 1.0.0]
 01000000 01236d62 00000009
 
-[P1 Infinite HP]
+[P1 Infinite HP 1.0.0]
 01000000 01236fb4 00000006
 
-[P1 Invincible]
+[P1 Invincible 1.0.0]
 01000000 0123702e 000000ff
 
-[P2 Infinite Lives]
+[P2 Infinite Lives 1.0.0]
 01000000 01236d64 00000009
 
-[P2 Infinite HP]
+[P2 Infinite HP 1.0.0]
 01000000 012370b4 00000006
 
-[P2 Invincible]
+[P2 Invincible 1.0.0]
 01000000 0123712e 000000ff
