@@ -1,3 +1,5 @@
+{BLADE ARCUS Rebellion from Shining}
+
 [#01# Player Infinite HP]
 580F0000 008F06A0
 780F0000 00001CDA

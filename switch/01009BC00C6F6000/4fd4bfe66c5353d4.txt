@@ -1,3 +1,5 @@
+{Atelier Totori ~The Adventurer of Arland~ DX}
+
 [Infinite Money]
 04000000 00bb7968 0098967F
 

@@ -1,5 +1,7 @@
-[MAX Money v1.0.2]
+{Super Robot Wars T 1.0.2}
+
+[MAX Money 1.0.2]
 040F0000 01aa1ca8 05F5E0FF
 
-[MAX TacP v1.0.2]
+[MAX TacP 1.0.2]
 040F0000 01aa1cc0 05F5E0FF

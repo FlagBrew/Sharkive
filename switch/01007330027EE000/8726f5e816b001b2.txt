@@ -1,3 +1,5 @@
+{ULTRA STREET FIGHTER II: The Final Challengers}
+
 [P1 Infinite HP]
 580f0000 01262678
 580f1000 00000220

@@ -1,3 +1,5 @@
+{GhoulBoy}
+
 [x99 Lives - lose 1 Life to update]
 04000000 00687A70 52800C80
 

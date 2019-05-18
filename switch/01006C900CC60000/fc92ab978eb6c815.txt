@@ -1,3 +1,5 @@
+{Super Robot Wars T}
+
 [MAX Money]
 040F0000 01a9e7a8 05F5E0FF
 

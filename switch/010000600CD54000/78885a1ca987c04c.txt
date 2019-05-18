@@ -1,3 +1,5 @@
+{Rad Rodgers Radical Edition}
+
 [#01# Inf. hearts]
 580f0000 0579AA20
 580f1000 00000048

@@ -1,3 +1,5 @@
+{Blaster Master Zero}
+
 [Infinite SP]
 01000000 0073ecea 00000008
 

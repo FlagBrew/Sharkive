@@ -1,3 +1,5 @@
+{Blaster Master Zero}
+
 [Jason Infinite SP]
 01000000 0050e3e6 00000008
 

@@ -1,3 +1,5 @@
+{AngerForce: Reloaded}
+
 [No Damage On - press R-Stick to get vulnerable]
 04000000 0147FE20 D65F03C0
 80000020

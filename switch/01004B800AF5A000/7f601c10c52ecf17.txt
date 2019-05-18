@@ -1,3 +1,5 @@
+{Bloodstained: Curse of the Moon}
+
 [Infinite Lives]
 580f0000 006e1bf8
 780f0000 0000002c

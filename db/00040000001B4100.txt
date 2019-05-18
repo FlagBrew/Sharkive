@@ -177,7 +177,7 @@ BD0FE7E8 005AB99C
 005C5CF4 005E92A0
 0036EB40 FA06E24E
 
-[Can Get both Dean and Sonya v1.0]
+[Can Get both Dean and Sonya (Start+R Dean|Start+L Sonya go to Grieth's Citadel Interior War Room) v1.0]
 DD000000 00000108
 B05C5CF4 00000000
 B0000024 00000000
