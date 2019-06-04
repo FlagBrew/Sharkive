@@ -1,6 +1,4 @@
-[Switch Tales of Vesperia REMASTER Gold Hands]
-[Switch legend REMASTER Ver 1.0.1 gold finger]
-{By Lu Yi Niang original weibo/ruisan or ruimusume.blog.jp}
+{Tales of Vesperia: Definitive Edition}
 
 [All staff HP is not reduced]
 04000000 01241834 0000270F
@@ -1611,5 +1609,3 @@
 
 [Statistical record total output damage 0]
 04000000 01240898 00000000
-
-[By Lu Yi Niang original weibo/ruisan or ruimusume.blog.jp]

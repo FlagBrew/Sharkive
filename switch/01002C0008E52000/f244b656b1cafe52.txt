@@ -1,8 +1,4 @@
-[Switch Tales of Vesperia REMASTER Gold Hands]
-[Switch legend REMASTER Ver 1.0.1 gold finger]
-{By Lu Yi Niang original weibo/ruisan or ruimusume.blog.jp}
-
-
+{Tales of Vesperia: Definitive Edition}
 
 [Full level after the whole battle (affecting the game experience with caution)]
 04000000 01241848 3B9AC9FF
@@ -14,7 +10,6 @@
 04000000 01259BA8 3B9AC9FF
 04000000 0125DC38 3B9AC9FF
 04000000 01261CC8 3B9AC9FF
-
 
 [All staff SP999]
 04000000 01243CE0 000003E7
@@ -1463,5 +1458,3 @@
 
 [Statistical record total output damage 0]
 04000000 01240898 00000000
-
-[By Lu Yi Niang original weibo/ruisan or ruimusume.blog.jp]

@@ -1,3 +1,5 @@
+{One Piece: Unlimited World Red - Deluxe Edition}
+
 [Inf 999,999,999 Belly]
 580F0000 010AD920
 780F0000 029506B8

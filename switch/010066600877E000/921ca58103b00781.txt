@@ -1,14 +1,14 @@
 {ACA NEOGEO Art of Fighting 2 (V1.0.1)}
 
 
-[P1 Infinite HP]
+[P1 Infinite HP V1.0.1]
 01000000 012581ac 00000060
 
-[P1 Infinite Power]
+[P1 Infinite Power V1.0.1]
 01000000 01258365 00000060
 
-[P2 NO HP]
+[P2 NO HP V1.0.1]
 01000000 012582ac 00000001
 
-[P2 NO Power]
+[P2 NO Power V1.0.1]
 01000000 01258465 00000000

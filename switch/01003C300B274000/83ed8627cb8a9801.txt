@@ -1,3 +1,5 @@
+{Battle Cats}
+
 [Speed-up 9999]
 04100000 b00e47a8 0000270f
 

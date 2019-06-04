@@ -1,3 +1,5 @@
+{Oceanhorn - Monster of Uncharted Seas}
+
 [Hearts x10]
 58000000 0C5B0BC8
 78000000 02B2E5D4

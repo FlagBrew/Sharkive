@@ -1,3 +1,5 @@
+{Pokemon: Let's Go Eevee!}
+
 [Always 6IV wild Pokemon]
 04000000 00739A50 d503201f
 04000000 00739AE0 7100191f

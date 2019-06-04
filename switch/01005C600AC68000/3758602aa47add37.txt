@@ -1,3 +1,5 @@
+{Valkyria Chronicles 4 Demo}
+
 [99,999,999 EXP]
 040f0000 00e90168 05f5e0ff
 

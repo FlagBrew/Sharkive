@@ -1,3 +1,5 @@
+{Pokemon: Lets Go, Pikachu!}
+
 [Nature is first catch item quantity]
 54100000 533252CC
 94400100 0000000F

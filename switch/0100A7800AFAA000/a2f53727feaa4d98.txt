@@ -1,25 +1,25 @@
 {ACA NEOGEO PREHISTORIC ISLE 2 1.0.0}
 
-[P1 Infinite Lives]
+[P1 Infinite Lives 1.0.0]
 01000000 012E730C 00000005
 
-[P1 Infinite Bombs]
+[P1 Infinite Bombs 1.0.0]
 01000000 012E7328 00000005
 
-[P1 Invincible]
+[P1 Invincible 1.0.0]
 01000000 012E7334 000000FF
 
-[P1 Max Power]
+[P1 Max Power 1.0.0]
 01000000 012E732F 00000010
 
-[P2 Infinite Lives]
+[P2 Infinite Lives 1.0.0]
 01000000 012E858C 00000005
 
-[P2 Infinite Bombs]
+[P2 Infinite Bombs 1.0.0]
 01000000 012E85A8 00000005
 
-[P2 Invincible]
+[P2 Invincible 1.0.0]
 01000000 012E85B4 000000FF
 
-[P2 Max Power]
+[P2 Max Power 1.0.0]
 01000000 012E85AF 00000010

@@ -1,3 +1,5 @@
+{GODS Remastered}
+
 [Unlimited Lives on - ignore on screen value]
 04000000 001E2800 52800120
 

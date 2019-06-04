@@ -1,3 +1,5 @@
+{Dusty Raging Fist}
+
 [#01# Inf. HP]
 580f0000 02591940
 580f1000 000024B8

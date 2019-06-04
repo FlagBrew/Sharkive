@@ -1,9 +1,9 @@
 {Mario Kart 8 Deluxe 1.7.1}
 
-[Unlock Gold Mario]
+[Unlock Gold Mario 1.7.1]
 01100000 29af136d 00000003
 
-[Unlock All Parts]
+[Unlock All Parts 1.7.1]
 08100000 29af1388 03030303 03030303
 08100000 29af1390 03030303 03030303
 08100000 29af1398 03030303 03030303
@@ -15,46 +15,46 @@
 08100000 29af1408 03030303 03030303
 08100000 29af1410 00000303 03030303
 
-[Coins Are Rupees]
+[Coins Are Rupees 1.7.1]
 040F0000 00020964 E3A01001
 
-[Coins are Bell Coins]
+[Coins are Bell Coins 1.7.1]
 040F0000 00020964 E3A01002
 
-[Coins are Superbell Subway Coins]
+[Coins are Superbell Subway Coins 1.7.1]
 040F0000 00020964 E3A01003
 
-[Course Object Intangibility]
+[Course Object Intangibility 1.7.1]
 040F0000 007704A0 E12FFF1E
 
-[No Track Music]
+[No Track Music 1.7.1]
 040F0000 0007CC48 EE311A41
 
-[Disable Backwards Camera]
+[Disable Backwards Camera 1.7.1]
 040F0000 001164EC E12FFF1E
 
-[No Kart Engine Sound Effect]
+[No Kart Engine Sound Effect 1.7.1]
 040F0000 00075B98 EE388A48
 
-[Stretch Player Vertically]
+[Stretch Player Vertically 1.7.1]
 040F0000 000DAFB0 EB286586
 040F0000 00AF45D0 ED9F2A00
 040F0000 00AF45D4 E12FFF1E
 040F0000 00AF45D8 FFFF0000
 
-[Stretch Player Horizontally]
+[Stretch Player Horizontally 1.7.1]
 040F0000 000DB0A4 EB28654C
 040F0000 00AF45DC ED9F2A00
 040F0000 00AF45E0 E12FFF1E
 040F0000 00AF45E4 FFFF0000
 
-[Race VR Modifier]
+[Race VR Modifier 1.7.1]
 041F0000 29AF124C 0001869F
 
-[Battle VR Modifier]
+[Battle VR Modifier 1.7.1]
 041F0000 29AF1250 0001869F
 
-[Stop CPUs | Toad Harbour]
+[Stop CPUs | Toad Harbour 1.7.1]
 041F0000 5904B0FE 00010000
 041F0000 59286716 00010000
 041F0000 594C1D2E 00010000
@@ -66,7 +66,7 @@
 041F0000 5A2261BE 00010000
 041F0000 5A4617D6 00010000
 
-[Grand Prix - Always 10 Coins]
+[Grand Prix - Always 10 Coins 1.7.1]
 58000000 00DA9EA8
 98010100 00000000 000C28FC
 54011000 00000000

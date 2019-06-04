@@ -1,3 +1,5 @@
+{Captain Toad: Treasure Tracker}
+
 [99 and Infinity Lives]
 01100000 3a64af5c 00000009
 

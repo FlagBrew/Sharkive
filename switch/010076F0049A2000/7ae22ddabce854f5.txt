@@ -1,3 +1,5 @@
+{Bayonetta}
+
 [Inf Halos]
 04000000 0320ae64 05F5E0FF
 

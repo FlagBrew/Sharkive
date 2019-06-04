@@ -1,9 +1,9 @@
 {Mario Kart 8 Deluxe rev002 1.4.0}
 
-[Unlock Gold Mario]
+[Unlock Gold Mario 1.4.0]
 01100000 29af136d 00000003
 
-[Unlock All Parts]
+[Unlock All Parts 1.4.0]
 08100000 29af1388 03030303 03030303
 08100000 29af1390 03030303 03030303
 08100000 29af1398 03030303 03030303
