@@ -1,0 +1,52 @@
+{Resident Evil v1.0.0}
+
+[Saved progress count = 1 1.0.0]
+011f0000 1e88481c 00000000
+
+[Jill slot 1 Left at 999 1.0.0]
+021F0000 1E7A00E8 000003E7
+
+[Jill slot 1 Right to 999 1.0.0]
+021F0000 1E7A00F0 000003E7
+
+[Jill slot 2 Left at 999 1.0.0]
+021F0000 1E7A00F8 000003E7
+
+[Jill slot 2 Right to 999 1.0.0]
+021F0000 1E7A0100 000003E7
+
+[Jill slot 3 Left at 999 1.0.0]
+021F0000 1E7A0108 000003E7
+
+[Jill slot 3 Right to 999 1.0.0]
+021F0000 1E7A0110 000003E7
+
+[Jill slot 4 Left at 999 1.0.0]
+021F0000 1E7A0118 000003E7
+
+[Jill slot 4 Right to 999 1.0.0]
+021F0000 1E7A0120 000003E7
+
+[Jill slot weapon equipped to 999 1.0.0]
+021F0000 1E7A0130 000003E7
+
+[Chris slot 1 Left at 999 1.0.0]
+021F0000 1E7A00E8 000003E7
+
+[Chris slot 1 Right to 999 1.0.0]
+021F0000 1E7A00F0 000003E7
+
+[Chris slot 2 Left at 999 1.0.0]
+021F0000 1E7A00F8 000003E7
+
+[Chris slot 2 Right to 999 1.0.0]
+021F0000 1E7A0100 000003E7
+
+[Chris slot 3 Left at 999 1.0.0]
+021F0000 1E7A0108 000003E7
+
+[Chris slot 3 Right to 999 1.0.0]
+021F0000 1E7A0110 000003E7
+
+[Chris 999 weapon slot 1.0.0]
+021F0000 1E7A0120 000003E7
