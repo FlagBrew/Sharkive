@@ -1791,7 +1791,7 @@ D0000000 00000000
 080B87F8 EBF8480A
 D0000000 00000000
 
-[Access the PC from anywhere v1.4]
+[Access the PC from anywhere(L + option on touchscreen)]
 D3000000 00000000
 003D8748 E3A00014
 DD000000 00000200
