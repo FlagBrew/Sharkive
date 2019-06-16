@@ -1,1 +1,3 @@
 build/*.bz2
+docs/*.md
+XDG_CACHE_HOME
