@@ -3,7 +3,9 @@ import requests
 import os
 import argparse
 import lxml.etree
-import json
+import re
+
+regex_rev = r'\([a-zA-Z 0-9]{0,}\)'
 
 parser = argparse.ArgumentParser(description="Sharkive cheat docs creation tool")
 parser.add_argument("type", help="3ds, switch")
@@ -24,12 +26,13 @@ def createDetails(type, name, cheats):
 
 
 def saveMD(db, type):
-    with open("./docs/{}.md".format(type), "w") as f:
+    platform = "3DS" if '3ds' in type else 'Switch'
+    with open("./docs/wiki/{}-Games.md".format(platform), "w") as f:
         header = '## **<p align="center">'
         body = ""
         for key in db.keys():
             header += " " + '<a href="{}">{}</a>'.format(key, key)
-            body += "\n## [{}]\n\n".format(key)
+            body += "\n## [{}]\n\n".format(key) if '#' in key else "\n## {}\n\n".format(key)
             for key2 in db[key].keys():
                 body += createDetails(type, key2, db[key][key2])
         header += "</p>**\n"
@@ -39,7 +42,8 @@ def saveMD(db, type):
 [EUR]: http://nswdb.com/images/EUR.jpg "EUR"
 [FRA]: http://nswdb.com/images/FRA.jpg "FRA"
 [GER]: http://nswdb.com/images/GER.jpg "GER"
-[WLD]: http://nswdb.com/images/WLD.jpg "GLO"
+[WLD]: http://nswdb.com/images/WLD.jpg "WLD"
+[GLO]: http://nswdb.com/images/WLD.jpg "GLO"
 [ITA]: http://nswdb.com/images/ITA.jpg "ITA"
 [JPN]: http://nswdb.com/images/JPN.jpg "JPN"
 [KOR]: http://nswdb.com/images/KOR.jpg "KOR"
@@ -80,19 +84,30 @@ def main(args):
     for elem in xmlroot.findall("release"):
         titleid = elem.find("titleid").text
         if titleid in cheatFiles:
-            name = elem.find("name").text
+            name = re.sub(regex_rev, '', elem.find("name").text).strip()
             initialLetter = "#" if name[0].isdigit() else name[0].upper()
             if initialLetter not in db.keys():
                 db[initialLetter] = {}
+            for game in db[initialLetter]:
+                for code in db[initialLetter][game]:
+                    if code["titleid"] == titleid:
+                        name = game
+            if name not in db[initialLetter].keys():
+                db[initialLetter][name] = []
             cheat = {
+                "titleid": titleid,
                 "region": elem.find("region").text,
                 "path": "../blob/master/db/{}.txt".format(titleid)
                 if "3ds" in args.type
                 else "../tree/master/switch/{}".format(titleid),
             }
-            if name not in db[initialLetter].keys():
-                db[initialLetter][name] = []
-            db[initialLetter][name].append(cheat)
+            alreadyThere = False
+            for code in db[initialLetter][name]:
+                if cheat == code:
+                    alreadyThere = True
+                    break
+            if not alreadyThere:
+                db[initialLetter][name].append(cheat)
 
     db = dict(sorted(db.items()))
     saveMD(db, args.type)
