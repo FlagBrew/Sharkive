@@ -45,7 +45,7 @@ D0000000 00000000
 DC000000 00000014
 D1000000 00000000
 
-[All weapons max ammo (as aplicable)]
+[All weapons max ammo (as applicable)]
 D3000000 001F6B94
 C0000000 00000006
 40000000 00000000
