@@ -53,6 +53,8 @@ def main(args):
     else:
         exit(0)
     compressed = bz2.compress(str.encode(json.dumps(db)))
+    with open(os.path.join('build', args.type + '.json'), 'w') as f:
+        f.write(json.dumps(db))
     with open(os.path.join('build', args.type + '.json.bz2'), 'wb') as f:
         f.write(compressed)
 
