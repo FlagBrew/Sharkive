@@ -9,12 +9,15 @@ Sharkive relies on a manually populated database to download and apply new cheat
 **We need your help**: report all the cheats that aren't working as an issue in this repository. We will update them or remove them to avoid further issues with other users. Additionally, if you have cheats that aren't available in Sharkive yet, please create a Pull Request.
 
 ## FAQ
+**Q:** How do I install cheats on my console? Does Sharkive have an app?<br>
+**A:** Sharkive's cheat codes are bundled in [**Checkpoint**](https://github.com/FlagBrew/Checkpoint), which is a popular save manager for the 3DS and the Switch consoles. Download Checkpoint to manage Sharkive cheat codes.
+
 **Q:** Help! This cheat doesn't work.<br>
 **Q:** Why does the name turn red when I try to use this cheat?<br>
 **A:** There can be a few causes for cheats not working:<br>
 1. Make sure you're using the latest version of your system's preferred custom firmware (CFW)
-    - **3DS**: [stable release](https://github.com/AuroraWright/Luma3DS/releases/latest) or [nightly build](https://github.com/hax0kartik/luma-hourlies/releases/latest) (preferably the latter) of Luma3DS.
-    - **Switch**: [Atmosphère](https://github.com/Atmosphere-NX/Atmosphere/releases/latest)
+    - **3DS**: [Luma3DS](https://github.com/AuroraWright/Luma3DS/releases/latest).
+    - **Switch**: [Atmosphère](https://github.com/Atmosphere-NX/Atmosphere/releases/latest).
 2. Cheats are all made for a particular version (game update) and/or revision of a game and will likely not work on others. Make sure the cheat(s) you are trying to use are for the version and/or revision you are playing.
 3. If after trying the above you still can't get the cheat(s) to work, please [report them](https://github.com/FlagBrew/Sharkive/issues/new) so we can either relabel them for their proper version/revision or remove them.
 
@@ -35,7 +38,8 @@ Sharkive relies on a manually populated database to download and apply new cheat
 **A:** Cheat names getting cut off is due to Luma, not Sharkive. Check [the wiki page](https://github.com/FlagBrew/Sharkive/wiki/3DS-games-in-the-database) for titles in the database to find easy links to the cheat files you want to see.
 
 ### Switch
-*To Do...*
+**Q:** How do cheats work with Atmosphere with Checkpoint?<br>
+**A:** Differently from other cheat engines/metolodogies, Checkpoint only stores the cheats you selected to your console memory. That means that the toggle engine system inside of Atmosphére is useless when using Checkpoint, and must be disabled.
 
 ## License
 
@@ -43,8 +47,10 @@ This project is licensed under the GNU GPLv3. See [LICENSE.md](https://github.co
 
 ## Credits
 
-JourneyOver for providing and maintaining all the cheat codes in Sharkive's database.
+JourneyOver for providing and maintaining cheat codes in Sharkive's database.
 
 All the cheats submitters and reporters.
 
 All Luma3DS contributors.
+
+All Atmosphere contributors.
