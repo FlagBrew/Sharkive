@@ -37,9 +37,29 @@ Sharkive relies on a manually populated database to download and apply new cheat
 **Q:** Some cheat names are cut off in the list. Can you make the full name display? Can I read the full name somewhere?<br>
 **A:** Cheat names getting cut off is due to Luma, not Sharkive. Check [the wiki page](https://github.com/FlagBrew/Sharkive/wiki/3DS-games-in-the-database) for titles in the database to find easy links to the cheat files you want to see.
 
+**Q:** How do I update Checkpoint's cheat database?<br>
+**A:** Do the following<br>
+1. Make sure you have [Python 3](https://www.python.org/downloads/) installed
+2. Get a copy of the Sharkive repo
+3. Open a command prompt/terminal to your copy of the repo
+4. Run the command for your OS:
+    - **Windows:** `py -3 joiner.py 3ds`
+    - **Mac / Linux:** `python3 joiner.py 3ds`
+5. Rename `3ds.json` to `cheats.json` and place on your SD card in the `/3ds/Checkpoint` folder
+
 ### Switch
-**Q:** How do cheats work with Atmosphere with Checkpoint?<br>
-**A:** Differently from other cheat engines/metolodogies, Checkpoint only stores the cheats you selected to your console memory. That means that the toggle engine system inside of Atmosphére is useless when using Checkpoint, and must be disabled.
+**Q:** How do cheats work with Atmosphère with Checkpoint?<br>
+**A:** Differently from other cheat engines/methodologies, Checkpoint only stores the cheats you selected to your console memory. That means that the toggle engine system inside of Atmosphère is useless when using Checkpoint, and must be disabled.
+
+**Q:** How do I update Checkpoint's cheat database?<br>
+**A:** Do the following<br>
+1. Make sure you have [Python 3](https://www.python.org/downloads/) installed
+2. Get a copy of the Sharkive repo
+3. Open a command prompt/terminal to your copy of the repo
+4. Run the command for your OS:
+    - **Windows:** `py -3 joiner.py switch`
+    - **Mac / Linux:** `python3 joiner.py switch`
+5. Rename `switch.json` to `cheats.json` and place on your SD card in the `/switch/Checkpoint` folder
 
 ## License
 
