@@ -16,7 +16,7 @@ def main(args):
                 titleid = cheat[:cheat.rfind('.')]
                 lines = [line.strip() for line in file]
                 lines = list(filter(None, lines))
-                
+
                 db[titleid] = {}
                 selectedCheat = lines[0]
                 for line in lines:
@@ -29,6 +29,7 @@ def main(args):
                         db[titleid][selectedCheat].append(line)
     elif 'switch' in args.type:
         for root, _, files in os.walk('./switch'):
+            root = root.replace('\\', '/')
             titleid = root[root.rfind('/')+1:]
 
             if "switch" in titleid:
