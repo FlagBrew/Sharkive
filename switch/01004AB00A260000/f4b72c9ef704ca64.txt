@@ -1,5 +1,3 @@
-{Dark Souls Remastered}
-
 [Soul]
 041F0000 a2bcf814 0098967F
 
@@ -35,3 +33,4 @@
 
 [Humanity]
 041F0000 a2bcf808 00000063
+

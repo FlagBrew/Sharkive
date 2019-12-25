@@ -1,7 +1,6 @@
-{KAMIKO}
-
 [Invulnerable On]
 04000000 00013F84 D65F03C0
 
 [Invulnerable Off]
 04000000 00013F84 6DBC23E9
+

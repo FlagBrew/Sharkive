@@ -1,5 +1,3 @@
-{Blossom Tales The Sleeping King}
-
 [Inf. Max Health]
 580f0000 03cfa320
 780f0000 00000060
@@ -30,3 +28,4 @@
 580f0000 03cfa320
 780f0000 00000194
 640f0000 00000000 42A00000
+

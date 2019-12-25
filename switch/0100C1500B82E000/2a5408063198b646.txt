@@ -1,5 +1,3 @@
-{The World Ends With You Final Remix}
-
 [100 Percent Sync]
 02100000 a626ad80 000003e8
 
@@ -8,3 +6,4 @@
 
 [500 Hits]
 02100000 a626adb8 000001f4
+

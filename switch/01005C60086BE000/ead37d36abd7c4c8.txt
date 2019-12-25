@@ -1,4 +1,3 @@
-{Mega Man X Legacy Collection}
-
 [MMX4 9 Lives]
 01100000 133d0204 00000009
+

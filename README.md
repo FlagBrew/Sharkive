@@ -69,6 +69,8 @@ This project is licensed under the GNU GPLv3. See [LICENSE.md](https://github.co
 
 JourneyOver for providing and maintaining cheat codes in Sharkive's database.
 
+[switchcheatsdb.com](https://www.switchcheatsdb.com/) contributors.
+
 All the cheats submitters and reporters.
 
 All Luma3DS contributors.

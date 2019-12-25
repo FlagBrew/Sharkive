@@ -1,5 +1,3 @@
-{Blaster Master Zero}
-
 [Infinite SP]
 01000000 0073ecea 00000008
 
@@ -35,3 +33,4 @@
 
 [Unlock EXTRA]
 01000000 0032cfc1 00000001
+
