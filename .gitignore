@@ -1,3 +1,4 @@
 build/*.json
 build/*.bz2
 XDG_CACHE_HOME
+config.json
