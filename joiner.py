@@ -12,7 +12,7 @@ def main(args):
 
     if '3ds' in args.type:
         for cheat in os.listdir('./3ds'):
-            with open(os.path.join('./3ds', cheat), 'r') as file:
+            with open(os.path.join('./3ds', cheat), 'r', encoding="UTF-8") as file:
                 titleid = cheat[:cheat.rfind('.')]
                 lines = [line.strip() for line in file]
                 lines = list(filter(None, lines))
