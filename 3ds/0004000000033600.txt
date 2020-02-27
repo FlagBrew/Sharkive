@@ -21,7 +21,7 @@ D6000000 00587A14
 [100 Golden Skulltulas]
 20587A40 00000064
 
-[Refill Small Magic (Press R)]
+[Refill Small Magicbar (Press R)]
 DD000000 00000100
 2058799F 00000030
 
@@ -29,7 +29,7 @@ DD000000 00000100
 205879A8 00000001
 2058799F 00000060
 
-[Namechanger]
+[Name Changer]
 00587974 11112222
 00587978 33334444
 0058797C 55556666
@@ -152,10 +152,6 @@ D2000000 00000000
 [Unlock Enhanced Defense]
 005879A9 00000001
 
-[Refill Small Magicbar (Press R)]
-DD000000 00000100
-2058799F 00000030
-
 [Unlock all suits]
 20587A0F 00000007
 
@@ -192,21 +188,8 @@ C8000000 00587A0E
 [Unlock all best quiver/bomb bag/powerglove/scale]
 00587A10 000184D8
 
-[Unlock all stones/stone of wisdom/Gerudo]
-20587A16 0000007C
-
-[Name Changer]
-00587974 11112222
-00587978 33334444
-0058797C 55556666
-00587980 77778888
-
 [Max/Inf Deku Nuts/Deku Sticks]
 105879FE 00006363
-
-[Press L for 3 Heartpieces]
-DD000000 00000200
-20587A17 00000030
 
 [Unlock Large Magicbar (Press L)]
 DD000000 00000200

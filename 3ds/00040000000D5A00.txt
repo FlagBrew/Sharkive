@@ -58,10 +58,10 @@
 [99x Nuts]
 006E85F4 00000063
 
-[99x Syrup Jar]
+[99x Syrup Jars]
 006E85F8 00000063
 
-[99x 1-UP Mushroom]
+[99x 1-UP Mushrooms]
 006E8600 00000063
 
 [99x Super Mushrooms]
@@ -109,7 +109,7 @@
 [99x Bros. Beans]
 006E8604 00000063
 
-[99x  Power Beans]
+[99x Power Beans]
 006E8605 00000063
 
 [99x Defense Beans]
@@ -526,7 +526,7 @@
 [99x Discount Hammers]
 006E863C 00000063
 
-[So-So Hammers]
+[99x So-So Hammers]
 006E863D 00000063
 
 [99x Picnic Hammers]
@@ -631,9 +631,6 @@
 [9 999 Coins]
 006E85EC 0000270F
 
-[Reset Coins]
-006E85EC 00000000
-
 [Max EXP Mario and Luigi]
 106E8448 0000F23F
 206E844B 00000063
@@ -682,32 +679,8 @@
 006E852A 000003C9
 106E8514 000003E7
 
-[99x Syrup Jars]
-006E85F8 00000063
-
-[99x Maxsyrup Jars]
-006E85FB 00000063
-
-[99x 1up Mushrooms]
-006E8600 00000063
-
-[99x 1up Deluxes]
-006E8601 00000063
-
-[99x Power Beans]
-006E8605 00000063
-
 [99x Iron Ball Boots]
 006E861D 00000063
-
-[99x Bros Boots]
-006E8628 00000063
-
-[POW GLoves]
-006E8683 00000063
-
-[99x So-So Hammers]
-006E863D 00000063
 
 [99x Iron Ball Hammers]
 006E8640 00000063
