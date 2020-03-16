@@ -28,16 +28,16 @@ A4010400 00739BB4
 04000000 007399A8 1400000C
 20000000
 
-[All Pokémon Shiny (Hold B) (Handheld Only) 1.0.1]
+[All PokÃ©mon Shiny (Hold B) (Handheld Only) 1.0.1]
 04000000 00739924 540002e0
 80000002
 04000000 00739924 14000027
 20000000
 
-[All Pokémon Shiny Always 1.0.1]
+[All PokÃ©mon Shiny Always 1.0.1]
 04000000 00739924 14000027
 
-[Normal Pokémon Shiny Odds 1.0.1]
+[Normal PokÃ©mon Shiny Odds 1.0.1]
 04000000 00739924 540002e0
 
 [Max Money 1.0.1]

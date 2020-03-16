@@ -1,4 +1,4 @@
-{Chocobo’s Mystery Dungeon: Every Buddy!}
+{Chocoboâ€™s Mystery Dungeon: Every Buddy!}
 
 [Max Money on Update (Enable)]
 04000000 00125410 528847EA
