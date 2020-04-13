@@ -2,7 +2,6 @@
 D3000000 08000000
 005A1A34 00013880
 D2000000 00000000
-{For use in a stage}
 
 [Stage select Inf money]
 D3000000 08000000
@@ -27,37 +26,13 @@ D2000000 00000000
 D3000000 08000000
 005A2124 000003E7
 D2000000 00000000
-{Needs at least 1 of item, to increment slot add 0x14 to address}
 
 [Unstable Inf inventory 2nd item (need >=1)]
 D3000000 08000000
 005A2138 000003E7
 D2000000 00000000
-{Needs at least 1 of item}
 
 [Unstable Inf inventory 3rd item (need >=1)]
 D3000000 08000000
 005A214C 000003E7
 D2000000 00000000
-{Needs at least 1 of item}
-
-[Unstable Left +10 inventory 1st item (need >=1)]
-D3000000 08000000
-DD000000 00000020
-F15A2124 0000000A
-D2000000 00000000
-{hold left to add in multiples of 10, needs at least 1 of item, works best with CTRPluginFramework, may crash Luma}
-
-[Unstable Left +10 inventory 2nd item (need >=1)]
-D3000000 08000000
-DD000000 00000020
-F15A2138 0000000A
-D2000000 00000000
-{hold left to add in multiples of 10, needs at least 1 of item, works best with CTRPluginFramework, may crash Luma}
-
-[Unstable Left +10 inventory 3rd item (need >=1)]
-D3000000 08000000
-DD000000 00000020
-F15A214C 0000000A
-D2000000 00000000
-{hold left to add in multiples of 10, needs at least 1 of item, works best with CTRPluginFramework, may crash Luma}
