@@ -39,7 +39,7 @@ def main(args):
             for file in files:
                 buildid = file[:file.find('.')]
                 db[titleid][buildid] = {}
-                with open(os.path.join(root, file), 'r') as f:
+                with open(os.path.join(root, file), 'r', encoding="UTF-8") as f:
                     lines = [line.strip() for line in f]
                     lines = list(filter(None, lines))
                     selectedCheat = lines[0]
