@@ -16,9 +16,6 @@ D2000000 00000000
 [Max Mining Level]
 085E0534 0000FFFF
 
-[Max Maker Level]
-085D5BD8 0000FFFF
-
 [Max Cooking Level]
 085D5BD4 0000FFFF
 

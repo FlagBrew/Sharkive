@@ -131,7 +131,7 @@ BFFFED58 00000000
 000000C8 42C70000
 D2000000 00000000
 
-[Ignore [most] damage (Can't prevent damage from the final hit. Picks can break this code.May cause crashes if on during tournaments.)]
+[Ignore (most) damage (Can't prevent damage from the final hit. Picks can break this code.May cause crashes if on during tournaments.)]
 4FFFED58 14000000
 3FFFED58 15000000
 BFFFED58 00000000

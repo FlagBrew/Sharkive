@@ -12,11 +12,11 @@ def main(args):
 
     if '3ds' in args.type:
         for cheat in os.listdir('./3ds'):
-            with open(os.path.join('./3ds', cheat), 'r') as file:
+            with open(os.path.join('./3ds', cheat), 'r', encoding="UTF-8") as file:
                 titleid = cheat[:cheat.rfind('.')]
                 lines = [line.strip() for line in file]
                 lines = list(filter(None, lines))
-                
+
                 db[titleid] = {}
                 selectedCheat = lines[0]
                 for line in lines:
@@ -29,6 +29,7 @@ def main(args):
                         db[titleid][selectedCheat].append(line)
     elif 'switch' in args.type:
         for root, _, files in os.walk('./switch'):
+            root = root.replace('\\', '/')
             titleid = root[root.rfind('/')+1:]
 
             if "switch" in titleid:
@@ -38,7 +39,7 @@ def main(args):
             for file in files:
                 buildid = file[:file.find('.')]
                 db[titleid][buildid] = {}
-                with open(os.path.join(root, file), 'r') as f:
+                with open(os.path.join(root, file), 'r', encoding="UTF-8") as f:
                     lines = [line.strip() for line in f]
                     lines = list(filter(None, lines))
                     selectedCheat = lines[0]
