@@ -1,0 +1,8 @@
+[Infinite Nano Coins]
+089FBF34 00000063
+
+[Start With 99 Lives, not Infinite]
+089FBE90 00000063
+
+[Infinite Lives]
+089FAC18 00000063
