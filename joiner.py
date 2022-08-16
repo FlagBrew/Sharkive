@@ -1,16 +1,15 @@
 #!/usr/bin/python3
-import argparse
 import os
+import sys
 import json
 import bz2
 
-parser = argparse.ArgumentParser(description = 'Sharkive cheat codes joiner')
-parser.add_argument('type', help = '3ds, switch')
 
-def main(args):
+def compile_db(db_console_name):
     db = {}
+    print(f"Compiling cheat code db for {db_console_name}...")
 
-    if '3ds' in args.type:
+    if '3ds' in db_console_name:
         for cheat in os.listdir('./3ds'):
             with open(os.path.join('./3ds', cheat), 'r', encoding="UTF-8") as file:
                 titleid = cheat[:cheat.rfind('.')]
@@ -27,10 +26,10 @@ def main(args):
                         db[titleid][selectedCheat] = []
                     else:
                         db[titleid][selectedCheat].append(line)
-    elif 'switch' in args.type:
+    elif 'switch' in db_console_name:
         for root, _, files in os.walk('./switch'):
             root = root.replace('\\', '/')
-            titleid = root[root.rfind('/')+1:]
+            titleid = root[root.rfind('/') + 1:]
 
             if "switch" in titleid:
                 continue
@@ -51,13 +50,21 @@ def main(args):
                             db[titleid][buildid][selectedCheat] = []
                         else:
                             db[titleid][buildid][selectedCheat].append(line)
-    else:
-        exit(0)
     compressed = bz2.compress(str.encode(json.dumps(db)))
-    with open(os.path.join('build', args.type + '.json'), 'w') as f:
+    with open(os.path.join('build', db_console_name + '.json'), 'w') as f:
         f.write(json.dumps(db))
-    with open(os.path.join('build', args.type + '.json.bz2'), 'wb') as f:
+    with open(os.path.join('build', db_console_name + '.json.bz2'), 'wb') as f:
         f.write(compressed)
 
+
 if __name__ == '__main__':
-    main(parser.parse_args())
+    args = list(i for i in sys.argv[1:] if i in ("3ds", "switch"))
+    if len(sys.argv == 1):
+        args = ["3ds", "switch"]
+    if not args:
+        input("Proper argument options are '3ds' or 'switch', or nothing to compile both. Press 'enter' or close this dialog to exit.")
+        exit(0)
+    for arg in args:
+        compile_db(arg)
+        print(f"Wrote compiled cheat code DB to 'build/{arg}.json'.")
+input("Press 'enter' or close this dialog to exit.")
