@@ -59,7 +59,7 @@ def compile_db(db_console_name):
 
 if __name__ == '__main__':
     args = list(i for i in sys.argv[1:] if i in ("3ds", "switch"))
-    if len(sys.argv == 1):
+    if len(sys.argv) == 1:
         args = ["3ds", "switch"]
     if not args:
         input("Proper argument options are '3ds' or 'switch', or nothing to compile both. Press 'enter' or close this dialog to exit.")
