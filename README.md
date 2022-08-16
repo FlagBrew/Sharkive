@@ -10,7 +10,19 @@ Sharkive relies on a manually populated database to download and apply new cheat
 
 ## FAQ
 **Q:** How do I install cheats on my console? Does Sharkive have an app?<br>
-**A:** Sharkive's cheat codes are bundled in [**Checkpoint**](https://github.com/FlagBrew/Checkpoint), which is a popular save manager for the 3DS and the Switch consoles. Download Checkpoint to manage Sharkive cheat codes.
+**A:** Sharkive's cheat codes are bundled in [**Checkpoint**](https://github.com/FlagBrew/Checkpoint), which is a popular save manager for the 3DS and the Switch consoles. Download Checkpoint to manage Sharkive cheat codes. You can follow the steps in (How do I update Checkpoint's cheat database?)[#compile-db] to manually update Checkpoint's database to latest commits.
+
+**Q:** How do I use these cheats?<br>
+**3ds via Luma**:
+1. Load up your game and open the Rosalina menu (`L + d-pad down + Select` is the default combination)
+2. Select "Cheats"
+3. Press `A` on each of the cheats you want to use in order to activate them.
+
+**Switch via Atmosphère**:<br>
+Unlike other Switch cheat engines/methodologies, Checkpoint only stores the cheats you selected to your console memory. That means cheats can only be managed inside Checkpoint.
+1. Select the cheats you want to use in Checkpoint
+2. Launch the game the cheats are for
+3. Confirm your cheats are running. If not, make sure that `atmosphere!dmnt_cheats_enabled_by_default` is enabled in Atmosphère settings.
 
 **Q:** Help! This cheat doesn't work.<br>
 **Q:** Why does the name turn red when I try to use this cheat?<br>
@@ -22,44 +34,29 @@ Sharkive relies on a manually populated database to download and apply new cheat
 3. If after trying the above you still can't get the cheat(s) to work, please [report them](https://github.com/FlagBrew/Sharkive/issues/new) so we can either relabel them for their proper version/revision or remove them.
 
 **Q:** Can you add cheats for this game?<br>
-**A:** Nobody currently on the FlagBrew team makes cheats. Everything in Sharkive's database comes from user submissions. If you have some working cheats for your game and want them included in Sharkive, submit a [pull request](https://github.com/FlagBrew/Sharkive/pulls) and someone will get around to adding them.
+**A:** Nobody currently on the FlagBrew team makes cheats. Everything in Sharkive's database comes from user submissions. If you have some working cheats for your game and want them included in Sharkive, submit a [pull request](https://github.com/FlagBrew/Sharkive/pulls) and, provided they have been tested, someone will merge it.
 
-### 3DS
-**Q:** How do I use these cheats?<br>
-**A:** First off, you need CFW (Luma3DS) installed. Then load up your game, open the Rosalina menu (press `L + d-pad down + Select`), choose "Cheats", then press `A` on each of the cheats you want to use to activate them.
-
-**Q:** Does this work for DS games?<br>
-**A:** No. Luma's Rosalina cannot interact with DS games so its cheat engine is unavailable to them. You can try looking into [NitroHax](https://github.com/chishm/nitrohax) for DS cheats.
+**Q:** Does this work for DS or GBA games?<br>
+**A:** No. DS games run in a separate firmware, so Luma's Rosalina (and by extension, the cheat engine) cannot interact with them. You can look into [NitroHax](https://github.com/chishm/nitrohax) for DS cheats.
 
 **Q:** Some cheats have a star (`*`) next to their name in Rosalina. Why?<br>
-**A:** This means that the cheat makes use of a key combo. If the cheat name doesn't mention the key combo you'll have to look up the code and translate the line(s) starting `DD000000` to figure out what the key combo is.
+**A:** This means that the cheat makes use of a key combo. If the cheat name doesn't mention the key combo you'll have to look up the code and translate the line(s) starting `DD000000` to figure out what the key combo is. You can use the bot on [our Discord server](https://discord.gg/bGKEyfY) in #bot-channel (via the `.cheatkeys` command) to do this if you would like.
 
 **Q:** Some cheat names are cut off in the list. Can you make the full name display? Can I read the full name somewhere?<br>
 **A:** Cheat names getting cut off is due to Luma, not Sharkive. Check [the wiki page](https://github.com/FlagBrew/Sharkive/wiki/3DS-games-in-the-database) for titles in the database to find easy links to the cheat files you want to see.
 
-**Q:** How do I update Checkpoint's cheat database?<br>
-**A:** Do the following<br>
+
+## <a name="compile-db"></a>How do I update Checkpoint's cheat database?
+Follow these steps:<br>
 1. Make sure you have [Python 3](https://www.python.org/downloads/) installed
-2. Get a copy of the Sharkive repo
+2. `git clone` or download the repository
 3. Open a command prompt/terminal to your copy of the repo
 4. Run the command for your OS:
-    - **Windows:** `py -3 joiner.py 3ds`
-    - **Mac / Linux:** `python3 joiner.py 3ds`
-5. Rename `3ds.json` to `cheats.json` and place on your SD card in the `/3ds/Checkpoint` folder
+    - **Windows:** `py -3 joiner.py <console>`
+    - **Mac / Linux:** `python3 joiner.py <console>`
+5. Rename `<console>.json` to `cheats.json` and place on your SD card in the `/<console>/Checkpoint` folder<br>
 
-### Switch
-**Q:** How do cheats work with Atmosphère with Checkpoint?<br>
-**A:** Differently from other cheat engines/methodologies, Checkpoint only stores the cheats you selected to your console memory. That means that the toggle engine system inside of Atmosphère is useless when using Checkpoint, and must be disabled.
-
-**Q:** How do I update Checkpoint's cheat database?<br>
-**A:** Do the following<br>
-1. Make sure you have [Python 3](https://www.python.org/downloads/) installed
-2. Get a copy of the Sharkive repo
-3. Open a command prompt/terminal to your copy of the repo
-4. Run the command for your OS:
-    - **Windows:** `py -3 joiner.py switch`
-    - **Mac / Linux:** `python3 joiner.py switch`
-5. Rename `switch.json` to `cheats.json` and place on your SD card in the `/switch/Checkpoint` folder
+<sub>**Note**: `<console>` refers to the console you're using, `3ds` or `switch`. Pass no arguments to the script to build both 3ds and Switch databases.</sub><br>
 
 ## License
 
