@@ -10,7 +10,7 @@ Sharkive relies on a manually populated database to download and apply new cheat
 
 ## FAQ
 **Q:** How do I install cheats on my console? Does Sharkive have an app?<br>
-**A:** Sharkive's cheat codes are bundled in [**Checkpoint**](https://github.com/FlagBrew/Checkpoint), which is a popular save manager for the 3DS and the Switch consoles. Download Checkpoint to manage Sharkive cheat codes. You can follow the steps in (How do I update Checkpoint's cheat database?)[#compile-db] to manually update Checkpoint's database to latest commits.
+**A:** Sharkive's cheat codes are bundled in [**Checkpoint**](https://github.com/FlagBrew/Checkpoint), which is a popular save manager for the 3DS and the Switch consoles. Download Checkpoint to manage Sharkive cheat codes. You can follow the steps in (How do I update Checkpoint's cheat database?)[#how-do-i-update-checkpoints-cheat-database] to manually update Checkpoint's database to latest commits.
 
 **Q:** How do I use these cheats?<br>
 **3ds via Luma**:
@@ -46,7 +46,7 @@ Unlike other Switch cheat engines/methodologies, Checkpoint only stores the chea
 **A:** Cheat names getting cut off is due to Luma, not Sharkive. Check [the wiki page](https://github.com/FlagBrew/Sharkive/wiki/3DS-games-in-the-database) for titles in the database to find easy links to the cheat files you want to see.
 
 
-## <a name="compile-db"></a>How do I update Checkpoint's cheat database?
+## How do I update Checkpoint's cheat database?
 Follow these steps:<br>
 1. Make sure you have [Python 3](https://www.python.org/downloads/) installed
 2. `git clone` or download the repository
