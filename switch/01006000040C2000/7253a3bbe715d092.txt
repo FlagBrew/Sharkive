@@ -1,9 +1,7 @@
-{Yoshi's Crafted World}
-
-[finish Level with 999 coins - on]
+[1 Coin worth 999]
 04000000 001DF980 52807CE8
 
-[finish Level with 999 coins - off]
+[1 Coin worth 1]
 04000000 001DF980 B9443C08
 
 [Invincible On]
@@ -11,3 +9,10 @@
 
 [Invincible Off]
 040F0000 004F4574 D10203FF
+
+[finish Level with 999 coins - on]
+04000000 001DF980 52807CE8
+
+[finish Level with 999 coins - off]
+04000000 001DF980 B9443C08
+

@@ -1,5 +1,3 @@
-{Chocoboâ€™s Mystery Dungeon: Every Buddy!}
-
 [Max Money on Update (Enable)]
 04000000 00125410 528847EA
 04000000 00125414 72A001EA
@@ -82,3 +80,4 @@
 
 [100 Percent BuddyPoints Drop Rate (Disable)]
 04000000 0000D160 B9406C00
+

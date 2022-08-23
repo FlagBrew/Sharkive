@@ -1,4 +1,8 @@
-{The Messenger 1.0.2}
+[Infinite Health]
+01100000 9411ad20 0000000f
+
+[Infinite Shurikens]
+01100000 940cb71c 0000000f
 
 [Infinite HP 1.0.2]
 581f0000 940cb708
@@ -21,3 +25,4 @@
 781f0000 000002b4
 640f0000 00000000 41800000
 20000000
+

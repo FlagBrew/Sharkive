@@ -1,5 +1,3 @@
-{Sky Force Reloaded}
-
 [Stars]
 04100000 01cc1e2c 3B9AC9FF
 
@@ -11,3 +9,4 @@
 
 [Start with full Shield]
 04100000 01cc1e58 00000f27
+

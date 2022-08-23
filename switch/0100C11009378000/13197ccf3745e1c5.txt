@@ -1,5 +1,3 @@
-{Senjou no Valkyria 4}
-
 [20cp]
 01000000 00fdff34 00000014
 
@@ -16,3 +14,4 @@
 
 [AP(active point) 99999999]
 04000000 00E9016C 3B9AC9FF
+

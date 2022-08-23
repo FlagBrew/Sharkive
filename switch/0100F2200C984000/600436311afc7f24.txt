@@ -1,0 +1,6 @@
+[Unlock Collection + Shao Kahn + Frost (On)]
+08000000 01CD1720 D65F03C0 320003E0
+
+[Unlock Collection + Shao Kahn + Frost (Off)]
+08000000 01CD1720 F9001BFB D10243FF
+

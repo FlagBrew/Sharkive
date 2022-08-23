@@ -11,6 +11,7 @@
 [Coin Limiter: Input # for X's]
 040F0000 04B5D1F0 XXXXXXXX
 
+
 [Coin Increment Multiplier x2]
 040F0000 001E0288 0B020508
 
