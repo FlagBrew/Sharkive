@@ -40,7 +40,7 @@ Unlike other Switch cheat engines/methodologies, Checkpoint only stores the chea
 **A:** No. DS games run in a separate firmware, so Luma's Rosalina (and by extension, the cheat engine) cannot interact with them. You can look into [NitroHax](https://github.com/chishm/nitrohax) for DS cheats.
 
 **Q:** Some cheats have a star (`*`) next to their name in Rosalina. Why?<br>
-**A:** This means that the cheat makes use of a key combo. If the cheat name doesn't mention the key combo you'll have to look up the code and translate the line(s) starting `DD000000` to figure out what the key combo is. You can use the bot on [our Discord server](https://discord.gg/bGKEyfY) in #bot-channel (via the `.cheatkeys` command) to do this if you would like.
+**A:** This means that the cheat makes use of a key combo. If the cheat name doesn't mention the key combo you'll have to look up the code and translate the line(s) starting `DD000000` to figure out what the key combo is. You can use the bot on [our Discord server](https://discord.gg/bGKEyfY) in #bot-channel (via the `.cheatkeys` command) to do this if you would like. Please note that you will need to follow the same instructions in the rules for accessing our Community channels to be able to see any message history there.
 
 **Q:** Some cheat names are cut off in the list. Can you make the full name display? Can I read the full name somewhere?<br>
 **A:** Cheat names getting cut off is due to Luma, not Sharkive. Check [the wiki page](https://github.com/FlagBrew/Sharkive/wiki/3DS-games-in-the-database) for titles in the database to find easy links to the cheat files you want to see.
