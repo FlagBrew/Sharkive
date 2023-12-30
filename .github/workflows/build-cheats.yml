@@ -1,0 +1,33 @@
+name: Build Cheats
+
+on:
+  push:
+    branches: [ "master" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ["3.9", "3.10", "3.11"]
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v3
+      with:
+        python-version: ${{ matrix.python-version }}
+    - name: "Build Cheats"
+      run: |
+        python joiner.py
+    - name: "Upload Cheats"
+      uses: softprops/action-gh-release@v1
+      with:
+        tag_name: cheat-db-${{ github.event.repository.updated_at}}
+        name: Sharkive DB ${{ github.event.repository.updated_at}}
+        draft: false
+        prerelease: false
+        files: |
+          build/3ds.json
+          build/switch.json
