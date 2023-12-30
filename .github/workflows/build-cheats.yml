@@ -20,7 +20,7 @@ jobs:
         python-version: ${{ matrix.python-version }}
     - name: "Build Cheats"
       run: |
-        printf "" | python joiner.py
+        printf "\n\n" | python joiner.py
     - name: "Upload Cheats"
       uses: softprops/action-gh-release@v1
       with:
