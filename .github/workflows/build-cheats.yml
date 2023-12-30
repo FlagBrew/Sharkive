@@ -25,6 +25,7 @@ jobs:
       uses: softprops/action-gh-release@v1
       with:
         name: Sharkive DB ${{ github.event.repository.updated_at}}
+        tag_name: run-${{ github.run_number }}-${{ github.sha }}
         draft: false
         prerelease: false
         files: |
