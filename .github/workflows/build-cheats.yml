@@ -24,7 +24,6 @@ jobs:
     - name: "Upload Cheats"
       uses: softprops/action-gh-release@v1
       with:
-        tag_name: cheat-db-${{ github.event.repository.updated_at}}
         name: Sharkive DB ${{ github.event.repository.updated_at}}
         draft: false
         prerelease: false
