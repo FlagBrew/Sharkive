@@ -10,7 +10,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        python-version: ["3.9", "3.10", "3.11"]
+        python-version: ["3.11"]
 
     steps:
     - uses: actions/checkout@v3
@@ -20,7 +20,7 @@ jobs:
         python-version: ${{ matrix.python-version }}
     - name: "Build Cheats"
       run: |
-        python joiner.py
+        printf "" | python joiner.py
     - name: "Upload Cheats"
       uses: softprops/action-gh-release@v1
       with:
