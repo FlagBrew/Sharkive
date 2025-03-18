@@ -10,11 +10,12 @@ body:
         Please fill out the following details to help us diagnose the problem.
   - type: checkboxes
     attributes:
-      label: Is there an existing issue for this?
-      description: Please search to see if an open or closed issue already exists for the bug you encountered.
+      label: Checklist
+      description: Before reporting, please verify if a similar issue has already been reported. Additionally, indicate the type of issue you are experiencing.
       options:
-      - label: I have searched for existing issues
-      - label: Problem with one or more codes in the database
+      - label: I have checked for existing issues
+      - label: Issue related to one or more codes in the database
+      - label: Other
   - type: textarea
     id: system_information
     attributes:
