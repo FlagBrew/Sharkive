@@ -1,0 +1,54 @@
+name: 'Issue Report'
+description: 'Report a problem with one or more codes in the database.'
+#title: "[Issue] "
+#labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Issue Report
+        Please fill out the following details to help us diagnose the problem.
+  - type: checkboxes
+    attributes:
+      label: Is there an existing issue for this?
+      description: Please search to see if an open or closed issue already exists for the bug you encountered.
+      options:
+      - label: I have searched for existing issues
+      - label: Problem with one or more codes in the database
+  - type: textarea
+    id: system_information
+    attributes:
+      label: System Information
+      description: |
+        Fill this for problems with codes in the database:
+          - **Platform**: (e.g., 3DS, Switch)
+          - **Title ID**: (e.g., 00040000000F7000)
+          - **Product Code**: (e.g., CTR-N-AYBZ)
+          - **Game Version**: (e.g., 1.0.0)
+          - **Luma Version**: (e.g., v13.3.2 or N/A if you are on switch)
+            - *(If using a Luma nightly, provide the first 7 digits of the commit hash. Example: "b4273f9" for the latest nightly.)*
+          - **Atmosphère-NX Version**: (e.g., 1.8.0 or N/A if you are on 3DS)
+      placeholder: |
+          - Platform:
+          - Title ID:
+          - Product Code:
+          - Game Version:
+          - Luma Version:
+          - Atmosphère-NX Version:
+      render: markdown
+  - type: textarea
+    id: affected_codes
+    attributes:
+      label: Affected Codes
+      description: "List the codes that are not working"
+      placeholder: |
+          - Code 1
+          - Code 2
+          - Code 3
+      render: markdown
+  - type: textarea
+    id: additional_info
+    attributes:
+      label: Additional Information
+      description: "Provide any extra details that might help diagnose the issue."
+      placeholder: "Any relevant logs, screenshots, or notes."
