@@ -60,6 +60,14 @@ If cheat names are truncated, this is due to Luma's limitations, not Sharkive. F
 ## <a name="compile-db"></a>Updating Checkpoint's Cheat Database
 
 To update Checkpoint's cheat database, follow these steps:
+1. Download latest database for your console:
+  - [3DS](https://github.com/FlagBrew/Sharkive/releases/latest/download/3ds.json)
+  - [Switch](https://github.com/FlagBrew/Sharkive/releases/latest/download/switch.json)
+2. Rename `<console>.json` to `cheats.json` and place it in the `/<console>/Checkpoint` folder on your SD card.
+
+<sub>**Note**: `<console>` refers to your device type, either `3ds` or `switch`.</sub>
+
+If you need to build yourself, follow these steps:
 1. Ensure you have [Python 3](https://www.python.org/downloads/) installed.
 2. Clone or download the repository.
 3. Open a command prompt/terminal in your repository folder.
