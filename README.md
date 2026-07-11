@@ -15,22 +15,24 @@ Sharkive serves as a community-driven database for cheat codes. While we strive 
 
 ### How do I install cheats on my console? Does Sharkive have an app?
 
-**Sharkive** does not have a standalone app; instead, it is integrated seamlessly with [**Checkpoint**](https://github.com/FlagBrew/Checkpoint), a widely-used save manager for both 3DS and Switch consoles. You can follow the steps in [Updating Checkpoint's Cheat Database](#compile-db) to manually update Checkpoint's database to the latest commit.
+**Sharkive** does not have a standalone app. Currently, you must manually manage the cheat files.
 
 ### How do I use these cheats?
 
  Follow these steps to manage your cheats:
 
 #### For 3DS via Luma:
-1. Launch your game and open the Rosalina menu (`L + d-pad down + Select`).
-2. Navigate to and select "Cheats".
-3. Press `A` on the cheats you wish to activate.
+1. Download the cheat files you want to use from this repository. You can use [this wiki page](https://github.com/FlagBrew/Sharkive/wiki/3DS-games-in-the-database) to explore what's available.
+2. Place each cheat file you wish to use at `/luma/titles/<GAME_TITLE_ID_HERE>/cheats.txt`. The name of the cheat file you downloaded will be your game's titleID.
+3. Launch your game and open the Rosalina menu (`L + d-pad down + Select`).
+4. Navigate to and select "Cheats".
+5. Press `A` on the cheats you wish to activate.
 
 #### For Switch via Atmosphère:
-Unlike other Switch cheat engines/methodologies, Checkpoint only stores the cheats you selected to your console memory. That means cheats can only be managed inside Checkpoint. Here’s how to manage them:
-1. Choose your desired cheats in Checkpoint.
-2. Start the game associated with those cheats.
-3. Verify that your cheats are active. If not, ensure that `atmosphere!dmnt_cheats_enabled_by_default` is enabled in your Atmosphère settings.
+1. Download the cheat files you want to use from this repository. You can use [this wiki page](https://github.com/FlagBrew/Sharkive/wiki/Switch-games-in-the-database) to explore what's available.
+2. Place each cheat file you wish to use at `/atmosphere/contents/<GAME_TITLE_ID_HERE>/<build_id>.txt`. The name of the cheat file you downloaded will be your game's `build_id`, and the titleID will be the name of the folder the file was in.
+3. Start the game associated with those cheats.
+4. Verify that your cheats are active. If not, ensure that `atmosphere!dmnt_cheats_enabled_by_default` is enabled in your Atmosphère settings.
 
 ### Troubleshooting Cheats
 
@@ -56,27 +58,6 @@ Some cheats have a star (`*`) next to their name in Rosalina, indicating they re
 ### Viewing Full Cheat Names
 
 If cheat names are truncated, this is due to Luma's limitations, not Sharkive. For a semi-complete list of titles in our database, check out [the wiki page](https://github.com/FlagBrew/Sharkive/wiki/3DS-games-in-the-database).
-
-## <a name="compile-db"></a>Updating Checkpoint's Cheat Database
-
-To update Checkpoint's cheat database, follow these steps:
-1. Download latest database for your console:
-  - [3DS](https://github.com/FlagBrew/Sharkive/releases/latest/download/3ds.json)
-  - [Switch](https://github.com/FlagBrew/Sharkive/releases/latest/download/switch.json)
-2. Rename `<console>.json` to `cheats.json` and place it in the `/<console>/Checkpoint` folder on your SD card.
-
-<sub>**Note**: `<console>` refers to your device type, either `3ds` or `switch`.</sub>
-
-If you need to build yourself, follow these steps:
-1. Ensure you have [Python 3](https://www.python.org/downloads/) installed.
-2. Clone or download the repository.
-3. Open a command prompt/terminal in your repository folder.
-4. Execute the command for your OS:
-   - **Windows:** `py -3 joiner.py <console>`
-   - **Mac / Linux:** `python3 joiner.py <console>`
-5. Rename `<console>.json` to `cheats.json` and place it in the `/<console>/Checkpoint` folder on your SD card.
-
-<sub>**Note**: `<console>` refers to your device type, either `3ds` or `switch`. To build databases for both, run the script without arguments.</sub>
 
 ## License
 
